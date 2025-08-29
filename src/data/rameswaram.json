@@ -1,0 +1,226 @@
+{
+  "rameswaram": {
+    "title": "Sacred Island & Sea Bridge",
+    "description1": "Rameswaram, located on Pamban Island in Tamil Nadu, is one of the holiest pilgrimage towns in India. Known for its pristine beaches, legendary Ram Setu, and the iconic Ramanathaswamy Temple, Rameswaram holds immense cultural, historical, and spiritual significance.",
+    "description2": "Apart from its religious importance, Rameswaram offers stunning coastal beauty, water sports adventures, and engineering marvels like the Pamban Bridge. Pilgrims and travelers alike are drawn to its serene landscapes, ancient temples, and mythological connections to the Ramayana.",
+    "description3": "From the sacred corridors of <b>Ramanathaswamy Temple</b> to the mystical ruins of <b>Dhanushkodi</b>, Rameswaram blends divinity with adventure. Visitors can witness the <b>Pamban Bridge</b>, explore <b>Ram Setu Viewpoint</b>, enjoy <b>water sports at Ariyaman Beach</b>, and pay tribute at the <b>APJ Abdul Kalam Memorial</b>. With <b>historic temples</b>, <b>scenic beaches</b>, and <b>cultural heritage</b>, Rameswaram is a must-visit for both spiritual seekers and explorers.",
+    "images": [
+      "/assets/img/destination/new/Rameswaram.jpg"
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...rameswaram-map...",
+    "faq": [
+      {
+        "title": "What is the best time to visit Rameswaram?",
+        "content": "The best time to visit Rameswaram is from October to March, when the weather is pleasant and ideal for temple visits, sightseeing, and beach activities."
+      },
+      {
+        "title": "How can I reach Rameswaram?",
+        "content": "Rameswaram is well-connected by road and rail. The nearest airport is Madurai Airport (around 170 km away). Trains and buses are available from major Tamil Nadu cities."
+      },
+      {
+        "title": "What are the top attractions in Rameswaram?",
+        "content": "Major attractions include Ramanathaswamy Temple, Pamban Bridge, Dhanushkodi, Ram Setu Viewpoint, Ariyaman Beach, and the APJ Abdul Kalam Memorial."
+      },
+      {
+        "title": "Is Rameswaram only for pilgrims?",
+        "content": "No. Apart from being a pilgrimage destination, it also offers scenic beaches, historic monuments, and water sports, making it enjoyable for all travelers."
+      }
+    ]
+  },
+  "ramanathaswamy-temple": {
+    "title": "Famous Jyotirlinga Temple & Longest Temple Corridor",
+    "description1": "Ramanathaswamy Temple is one of the twelve Jyotirlinga shrines of Lord Shiva and a major pilgrimage site for Hindus. It is renowned for its spiritual significance and its association with Lord Rama.",
+    "description2": "The temple is an architectural marvel with one of the longest temple corridors in the world, adorned with intricately carved pillars and sculptures. Pilgrims believe a visit here completes the Char Dham Yatra.",
+    "description3": "Apart from its spiritual aura, the temple is a fine example of <b>Dravidian architecture</b>. Devotees take a sacred bath in the temple's <b>holy water tanks</b> before darshan. The temple is also closely tied to the <b>Ramayana</b>, making it both a religious and cultural treasure.",
+    "images": [
+      "/assets/img/destination/new/Ramanathaswamy-Temple.jpg"
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...ramanathaswamy-temple...",
+    "faq": [
+      {
+        "title": "Why is Ramanathaswamy Temple famous?",
+        "content": "It is one of the 12 Jyotirlingas and houses the longest temple corridor in the world."
+      },
+      {
+        "title": "What rituals should pilgrims follow?",
+        "content": "Pilgrims traditionally bathe in 22 holy tanks before darshan inside the temple."
+      },
+      {
+        "title": "What is the best time to visit?",
+        "content": "Early mornings and evenings are best to avoid crowds and heat."
+      },
+      {
+        "title": "Is photography allowed inside?",
+        "content": "Photography is restricted inside the sanctum, but allowed in outer areas."
+      }
+    ]
+  },
+  "pamban-bridge": {
+    "title": "Engineering Marvel Over the Sea",
+    "description1": "The Pamban Bridge is India’s first sea bridge, connecting Rameswaram Island to mainland India. Opened in 1914, it is a remarkable feat of engineering.",
+    "description2": "The bridge is a cantilever railway bridge with sections that can be lifted to allow ships to pass. It offers breathtaking views of the Indian Ocean.",
+    "description3": "Travelers admire the <b>historic design</b> and <b>scenic views</b> while crossing. The bridge is often called a lifeline to Rameswaram and remains a <b>symbol of India’s engineering excellence</b>.",
+    "images": [
+      "/assets/img/destination/new/Pamban-Bridge.jpg"
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...pamban-bridge...",
+    "faq": [
+      {
+        "title": "Why is Pamban Bridge important?",
+        "content": "It was India’s first sea bridge and connects Rameswaram with the mainland."
+      },
+      {
+        "title": "Can tourists walk on the bridge?",
+        "content": "No, the railway bridge is not open to pedestrians, but you can enjoy views from the adjacent road bridge."
+      },
+      {
+        "title": "What is unique about its design?",
+        "content": "It has a section that can be raised to allow ships to pass."
+      },
+      {
+        "title": "When was it built?",
+        "content": "It was completed in 1914 and remains a historic engineering landmark."
+      }
+    ]
+  },
+  "dhanushkodi": {
+    "title": "Ghost Town at the Edge of India",
+    "description1": "Dhanushkodi, once a bustling town, was destroyed in the 1964 cyclone and is now known as a ghost town at the southern tip of Rameswaram Island.",
+    "description2": "The abandoned ruins of churches, temples, and railway stations stand as silent witnesses to history.",
+    "description3": "Tourists visit Dhanushkodi for its <b>haunting beauty</b>, <b>mythological importance</b>, and <b>pristine beaches</b>. It is believed to be the spot where Lord Rama built the <b>Ram Setu</b> to reach Lanka.",
+    "images": [
+      "/assets/img/destination/new/Dhanushkodi.jpg"
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...dhanushkodi...",
+    "faq": [
+      {
+        "title": "Why is Dhanushkodi called a ghost town?",
+        "content": "It was abandoned after the 1964 cyclone destroyed the town."
+      },
+      {
+        "title": "Can tourists visit Dhanushkodi?",
+        "content": "Yes, it is accessible by road and is a popular sightseeing spot."
+      },
+      {
+        "title": "What is the spiritual importance?",
+        "content": "It is believed to be the place where Lord Rama built the Ram Setu."
+      },
+      {
+        "title": "Is it safe to visit?",
+        "content": "Yes, it is safe during the day, but tourists avoid late-night travel due to isolation."
+      }
+    ]
+  },
+  "ram-setu-viewpoint": {
+    "title": "Mythical Bridge to Sri Lanka",
+    "description1": "Ram Setu, also known as Adam’s Bridge, is a chain of limestone shoals believed to be built by Lord Rama’s army to reach Lanka in the Ramayana.",
+    "description2": "The Ram Setu Viewpoint offers tourists a chance to witness this mysterious stretch across the sea.",
+    "description3": "It holds both <b>mythological significance</b> and <b>scientific curiosity</b>, drawing pilgrims and researchers alike.",
+    "images": [
+      "/assets/img/destination/new/Ram-Setu-Viewpoint.jpg"
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...ram-setu...",
+    "faq": [
+      {
+        "title": "Where is Ram Setu located?",
+        "content": "It lies between Rameswaram in India and Mannar Island in Sri Lanka."
+      },
+      {
+        "title": "Can we see Ram Setu clearly?",
+        "content": "The shoals are visible from aerial views and the Ram Setu Viewpoint near Dhanushkodi."
+      },
+      {
+        "title": "What is its mythological link?",
+        "content": "It is believed to be built by Lord Rama’s army to reach Lanka."
+      },
+      {
+        "title": "Is there scientific research on it?",
+        "content": "Yes, geologists and historians study it, debating whether it is man-made or natural."
+      }
+    ]
+  },
+  "kalam-memorial": {
+    "title": "Tribute to India's Missile Man",
+    "description1": "The APJ Abdul Kalam Memorial honors the life and legacy of India’s beloved scientist and former President.",
+    "description2": "It showcases his contributions to India’s space and defense programs, along with personal memorabilia.",
+    "description3": "A visit here inspires with <b>his vision for India</b> and pays respect to a great leader remembered as the <b>People’s President</b>.",
+    "images": [
+      "/assets/img/destination/new/Kalam-Memorial.jpg"
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...kalam-memorial...",
+    "faq": [
+      {
+        "title": "Where is the Kalam Memorial located?",
+        "content": "It is in Pei Karumbu, Rameswaram, the hometown of Dr. APJ Abdul Kalam."
+      },
+      {
+        "title": "What can we see inside?",
+        "content": "The memorial displays photographs, models of missiles, and personal belongings."
+      },
+      {
+        "title": "Is there an entry fee?",
+        "content": "No, entry is free for all visitors."
+      },
+      {
+        "title": "What are the visiting hours?",
+        "content": "It is open daily from morning till evening, with slight variations on public holidays."
+      }
+    ]
+  },
+  "kothandaramaswamy-temple": {
+    "title": "Historic Seaside Temple",
+    "description1": "Kothandaramaswamy Temple is a historic temple dedicated to Lord Rama, located near Dhanushkodi.",
+    "description2": "It survived the devastating 1964 cyclone, making it one of the few surviving monuments in the area.",
+    "description3": "According to legend, this is the place where <b>Vibhishana</b>, the brother of Ravana, surrendered to Lord Rama. The temple holds immense <b>mythological value</b>.",
+    "images": [
+      "/assets/img/destination/new/Kothandaramaswamy-Temple.jpg"
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...kothandaramaswamy-temple...",
+    "faq": [
+      {
+        "title": "What makes this temple unique?",
+        "content": "It survived the 1964 cyclone while most nearby structures were destroyed."
+      },
+      {
+        "title": "What is its mythological link?",
+        "content": "It is believed to be the place where Vibhishana surrendered to Lord Rama."
+      },
+      {
+        "title": "Is it near Dhanushkodi?",
+        "content": "Yes, it is located on the way to Dhanushkodi and is easily accessible by road."
+      },
+      {
+        "title": "What is the best time to visit?",
+        "content": "Mornings and evenings are ideal, when the temple is peaceful and the weather is pleasant."
+      }
+    ]
+  },
+  "ariyaman-beach": {
+    "title": "Water Sports & Family Fun Spot",
+    "description1": "Ariyaman Beach is a scenic beach near Rameswaram, popular for its clean sands and calm waters.",
+    "description2": "It is a family-friendly destination offering relaxation and fun activities.",
+    "description3": "Tourists enjoy <b>water sports</b> such as <b>jet skiing</b>, <b>kayaking</b>, and <b>boating</b>. The beach also has a <b>children’s park</b> and picnic spots.",
+    "images": [
+      "/assets/img/destination/new/Water-Sports-Rameswaram.jpg"
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...ariyaman-beach...",
+    "faq": [
+      {
+        "title": "What activities are available at Ariyaman Beach?",
+        "content": "Visitors can enjoy boating, jet skiing, kayaking, and beach games."
+      },
+      {
+        "title": "Is the beach family-friendly?",
+        "content": "Yes, it has a children’s park, picnic areas, and calm waters safe for families."
+      },
+      {
+        "title": "How far is it from Rameswaram town?",
+        "content": "It is located about 27 km from Rameswaram and easily accessible by road."
+      },
+      {
+        "title": "What is the best time to visit?",
+        "content": "Morning and late afternoon are best for water sports and enjoying the cool breeze."
+      }
+    ]
+  }
+}

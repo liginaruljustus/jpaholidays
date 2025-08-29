@@ -1,0 +1,24 @@
+{
+  "munnar": {
+    "title": "Explore the Beautiful Charm of South Africa",
+    "description1": "Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "images": [
+      "/assets/img/destails/desti-details.jpg",
+      "/assets/img/destails/desti-details-2.jpg",
+      "/assets/img/destails/desti-details-3.jpg"
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6678.7619084840835!2d144.9618311901502!3d-37.81450084255415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b4758afc1d%3A0x3119cc820fdfc62e!2sEnvato!5e0!3m2!1sen!2sbd!4v1641984054261!5m2!1sen!2sbd"
+  },
+  "brazil": {
+    "title": "Discover the Wonders of Brazil",
+    "description1": "Brazil is a land of stunning landscapes and vibrant culture.",
+    "description2": "From the Amazon rainforest to Rio de Janeiro, Brazil has it all.",
+    "images": [
+      "/assets/img/destails/brazil1.jpg",
+      "/assets/img/destails/brazil2.jpg",
+      "/assets/img/destails/brazil3.jpg"
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...brazil-map..."
+  }
+}
