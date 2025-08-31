@@ -5,7 +5,7 @@ import React from "react";
 const Team1 = () => {
   const teamContent = [
     {
-      img: "/assets/img/team/01.jpg",
+      img: "/assets/img/team/1.jpg",
       name: "Rajesh Kumar",
       content: "Senior Taxi Driver & Local Guide",
       instagram: "#",
@@ -14,7 +14,7 @@ const Team1 = () => {
       linkedin: "#",
     },
     {
-      img: "/assets/img/team/02.jpg",
+      img: "/assets/img/team/1.jpg",
       name: "Vijay Anand",
       content: "Tour Package Specialist",
       instagram: "#",
@@ -23,7 +23,7 @@ const Team1 = () => {
       linkedin: "#",
     },
     {
-      img: "/assets/img/team/03.jpg",
+      img: "/assets/img/team/1.jpg",
       name: "Arun Prakash",
       content: "Airport Transfer Expert",
       instagram: "#",
@@ -32,7 +32,7 @@ const Team1 = () => {
       linkedin: "#",
     },
     {
-      img: "/assets/img/team/04.jpg",
+      img: "/assets/img/team/1.jpg",
       name: "Karthik Murali",
       content: "Outstation Trip Coordinator",
       instagram: "#",

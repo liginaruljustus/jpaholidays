@@ -81,7 +81,7 @@ const Testimonial2 = () => {
             <div className="col-lg-5 wow fadeInUp" data-wow-delay=".3s">
               <div className="testimonial-image">
                 <Image
-                  src="/assets/img/testimonial/01.jpg"
+                  src="/assets/img/testimonial/1.jpg"
                   alt="Happy customers in Kanyakumari"
                   width={450}
                   height={530}

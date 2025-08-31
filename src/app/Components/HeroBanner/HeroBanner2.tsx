@@ -37,17 +37,18 @@ const HeroBanner2 = () => {
                   safely.
                 </p>
 
-                <div
-                  className="hero-btns wow fadeInUp d-flex gap-4"
-                  data-wow-delay=".7s"
-                >
-                  <a href="#book-now" className="theme-btn">
-                    Book Your Taxi Now
-                  </a>
-                  <a href="#tour-packages" className="theme-btn secondary-btn">
-                    View Kanyakumari Packages
-                  </a>
-                </div>
+               <div
+  className="hero-btns wow fadeInUp flex flex-col sm:flex-row gap-4 "
+  data-wow-delay=".7s"
+>
+  <a href="#book-now" className="theme-btn">
+    Book Your Taxi Now
+  </a>
+  {/* <a href="#tour-packages" className="theme-btn secondary-btn">
+    View Kanyakumari Packages
+  </a> */}
+</div>
+
               </div>
             </div>
           </div>

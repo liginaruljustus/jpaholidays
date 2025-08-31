@@ -5,20 +5,20 @@ import React from "react";
 const Blog2 = () => {
   const blogContent = [
     {
-      img: "/assets/img/news/04.jpg",
+      img: "/assets/img/news/1.jpg",
       title:
         "Ultimate Guide to Kanyakumari Taxi Services for Your Dream Vacation",
     },
     {
-      img: "/assets/img/news/05.jpg",
+      img: "/assets/img/news/1.jpg",
       title: "Kanyakumari Best Travels - Unforgettable Sightseeing Adventures",
     },
     {
-      img: "/assets/img/news/06.jpg",
+      img: "/assets/img/news/1.jpg",
       title: "Exploring Kanyakumari Culture with Our Reliable Cab Services",
     },
     {
-      img: "/assets/img/news/07.jpg",
+      img: "/assets/img/news/1.jpg",
       title: "Kanyakumari to Trivandrum Airport Taxi - Best Travel Solutions",
     },
   ];
@@ -63,14 +63,14 @@ const Blog2 = () => {
                     >
                       Read More <i className="bi bi-arrow-right"></i>
                     </Link>
-                    <div className="group-image">
+                    {/* <div className="group-image">
                       <Image
                         src="/assets/img/news/Group.png"
                         alt="img"
                         width={103}
                         height={30}
                       />
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>

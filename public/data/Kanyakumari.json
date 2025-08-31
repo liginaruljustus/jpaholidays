@@ -1,0 +1,391 @@
+{
+  "Kanyakumari": {
+    "title": "Sunrise & Sunset Point",
+    "description1": "Kanyakumari, the southernmost tip of India, is famous for its stunning sunrise and sunset views over the Arabian Sea, Bay of Bengal, and Indian Ocean.",
+    "description2": "Apart from its scenic beauty, Kanyakumari offers historical and spiritual sites such as Vivekananda Rock Memorial, Thiruvalluvar Statue, and Kanyakumari Beach.",
+    "description3": "Kanyakumari is a premier tourist destination in South India, attracting travelers from across the globe who are eager to witness its unique geographical location where three seas—the Arabian Sea, the Bay of Bengal, and the Indian Ocean—converge. Known for its mesmerizing sunrise and sunset views, Kanyakumari provides a perfect blend of natural beauty, cultural heritage, and spiritual experiences. The town is home to iconic landmarks such as the Vivekananda Rock Memorial, built in honor of Swami Vivekananda, which sits majestically on a small island offering panoramic views of the surrounding waters. Another major attraction is the Thiruvalluvar Statue, a 133-foot tall monument dedicated to the celebrated Tamil poet and philosopher Thiruvalluvar, representing the 133 chapters of his seminal work, the Thirukkural. Kanyakumari Beach, with its golden sands and tranquil waters, is ideal for leisurely walks, photography, and witnessing the spectacular merging of three seas. Visitors can also explore the Gandhi Memorial, local temples, and bustling markets that offer traditional handicrafts and souvenirs. Beyond sightseeing, Kanyakumari provides opportunities for cultural immersion through festivals, local cuisine, and coastal experiences. With well-connected road and rail networks, as well as proximity to Trivandrum International Airport, Kanyakumari is easily accessible, making it a must-visit destination in Tamil Nadu and an unforgettable experience for tourists seeking scenic beauty, spirituality, and cultural richness.",
+    "images": ["/assets/img/destination/new/Kanyakumari.jpg"],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...kanyakumari-map...",
+    "url": "/kanyakumari-tour/Kanyakumari",
+    "faq": [
+      {
+        "title": "What is the best time to visit Kanyakumari?",
+        "content": "October to March is ideal for sightseeing and enjoying pleasant weather."
+      },
+      {
+        "title": "How can I reach Kanyakumari?",
+        "content": "Kanyakumari is accessible by road, train, and the nearest airport is Trivandrum International Airport."
+      },
+      {
+        "title": "What are the top attractions in Kanyakumari?",
+        "content": "Major attractions include Vivekananda Rock Memorial, Thiruvalluvar Statue, Kanyakumari Beach, and Gandhi Memorial."
+      },
+      {
+        "title": "Is Kanyakumari suitable for family trips?",
+        "content": "Yes, the town is family-friendly with beaches, cultural sites, and safe sightseeing locations."
+      }
+    ]
+  },
+
+  "Vivekananda-Rock": {
+    "title": "Memorial & Temple",
+    "description1": "Vivekananda Rock Memorial stands on a small island near Kanyakumari and commemorates Swami Vivekananda's meditation and spiritual insights.",
+    "description2": "Accessible by ferry, the memorial includes a meditation hall, shrine, and offers panoramic views of the surrounding seas.",
+    "description3": "The Vivekananda Rock Memorial is one of South India’s most significant cultural and spiritual landmarks. Constructed in honor of the revered monk Swami Vivekananda, who meditated on this rock and drew inspiration for India’s spiritual revival, the memorial attracts thousands of visitors annually. The structure showcases a blend of traditional Kerala and Tamil architectural styles, with beautifully carved pillars, domed halls, and intricately designed corridors. Visitors can explore the meditation hall where Swami Vivekananda once practiced introspection, offering a serene environment ideal for reflection and spiritual rejuvenation. The memorial is surrounded by the Arabian Sea, Bay of Bengal, and Indian Ocean, providing unmatched scenic views, especially during sunrise and sunset. Tourists can enjoy ferry rides to the rock island, witnessing the marine landscape and coastal beauty along the way. Besides spiritual exploration, the memorial is a hub for cultural learning, hosting exhibitions about Swami Vivekananda’s life, teachings, and contributions to Indian philosophy. The site is also equipped with facilities for photography, guided tours, and peaceful observation of the sea. Being close to Kanyakumari, it forms part of a comprehensive itinerary that includes the Thiruvalluvar Statue, Kanyakumari Beach, and other cultural landmarks, making it a holistic travel experience for history buffs, spiritual seekers, and tourists seeking scenic beauty. Vivekananda Rock Memorial stands as a testament to India’s rich spiritual heritage and architectural brilliance, making it a must-visit destination in Tamil Nadu.",
+    "images": ["/assets/img/destination/new/Vivekananda Rock.jpg"],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...vivekananda-rock-map...",
+    "url": "/kanyakumari-tour/Vivekananda-Rock",
+    "faq": [
+      {
+        "title": "What is the best time to visit Vivekananda Rock Memorial?",
+        "content": "October to March is ideal for calm seas and pleasant weather."
+      },
+      {
+        "title": "How to reach Vivekananda Rock Memorial?",
+        "content": "Visitors can take a ferry from Kanyakumari Beach."
+      },
+      {
+        "title": "Can visitors enter the meditation hall?",
+        "content": "Yes, the meditation hall is open to visitors for spiritual reflection."
+      },
+      {
+        "title": "Are there photography opportunities?",
+        "content": "Absolutely, the panoramic sea views and architecture are perfect for photography."
+      }
+    ]
+  },
+
+  "Thiruvalluvar-Statue": {
+    "title": "133ft Iconic Monument",
+    "description1": "The Thiruvalluvar Statue honors the legendary Tamil poet and philosopher, Thiruvalluvar, standing 133 feet tall.",
+    "description2": "The statue is near Kanyakumari and represents the 133 chapters of the Thirukkural, offering scenic coastal views.",
+    "description3": "The Thiruvalluvar Statue is an iconic cultural landmark in South India, representing the life and teachings of the celebrated Tamil poet and philosopher Thiruvalluvar. Standing 133 feet tall, the statue symbolizes the 133 chapters of the Thirukkural, his timeless work on ethics, morality, and human values. Positioned near Kanyakumari, the monument offers panoramic views of the surrounding seas, making it a perfect spot for photography, sightseeing, and cultural exploration. The base of the statue houses a museum and exhibition highlighting Thiruvalluvar’s life, his contributions to Tamil literature, and the philosophy of the Thirukkural. Visitors can learn about the historical significance of the work and the poet’s enduring impact on Indian thought. The monument is accessible via a short ferry ride from Vivekananda Rock Memorial or a walk along coastal paths, allowing tourists to enjoy the serene coastal environment. It is a prime destination for students, researchers, and cultural enthusiasts who wish to gain insight into Tamil heritage, literary excellence, and philosophical wisdom. The surrounding areas feature gardens, viewpoints, and other attractions, making it suitable for family visits, educational tours, and spiritual reflection. The Thiruvalluvar Statue combines artistry, history, and scenic beauty, ensuring an enriching experience for travelers seeking to explore Tamil Nadu’s rich cultural landscape.",
+    "images": ["/assets/img/destination/new/Thiruvalluvar Statue.jpg"],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...thiruvalluvar-statue-map...",
+    "url": "/kanyakumari-tour/Thiruvalluvar-Statue",
+    "faq": [
+      {
+        "title": "Best time to visit the Thiruvalluvar Statue?",
+        "content": "October to March for clear views and pleasant weather."
+      },
+      {
+        "title": "How to reach the statue?",
+        "content": "Accessible by ferry from Vivekananda Rock Memorial or coastal walk from Kanyakumari Beach."
+      },
+      {
+        "title": "Can visitors explore the museum?",
+        "content": "Yes, the base of the statue houses a museum with exhibitions on Thiruvalluvar’s life."
+      },
+      {
+        "title": "Is photography allowed?",
+        "content": "Yes, visitors are encouraged to capture the scenic coastal views and monument architecture."
+      }
+    ]
+  },
+
+  "Padmanabhapuram-Palace": {
+    "title": "Historic Wooden Palace",
+    "description1": "Padmanabhapuram Palace is an architectural marvel crafted entirely from teakwood, showcasing Kerala-style craftsmanship.",
+    "description2": "The palace complex features grand halls, royal chambers, antique furniture, murals, and intricately carved wooden pillars.",
+    "description3": "Padmanabhapuram Palace is a historical and cultural treasure in South India, attracting travelers seeking architectural brilliance and royal heritage. Located near the Tamil Nadu-Kerala border, this magnificent wooden palace exemplifies Kerala-style architecture, featuring sloping tiled roofs, intricately carved wooden pillars, and beautifully designed murals that depict Hindu mythology and royal life. Constructed as the seat of the Travancore kings, the palace includes grand halls, private royal chambers, ceremonial spaces, and meticulously designed courtyards that provide insight into the lifestyle and traditions of the kingdom. Visitors can explore the Durbar Hall, marvel at antique furniture, and witness detailed carvings showcasing floral patterns, mythological stories, and traditional art. The palace grounds also include serene gardens, water features, and courtyards that enhance its scenic beauty, making it ideal for photography and leisurely exploration. Its preservation and restoration efforts allow tourists to experience authentic historical architecture while understanding the significance of the Travancore Kingdom in South Indian history. Padmanabhapuram Palace is also accessible for guided tours, educational trips, and cultural study programs, making it suitable for tourists, history enthusiasts, and architecture aficionados. Easily reachable from Kanyakumari and Nagercoil, the palace is a key attraction in Tamil Nadu, offering visitors a perfect blend of royal grandeur, cultural heritage, and scenic beauty, making it a must-visit destination in South India.",
+    "images": ["/assets/img/destination/new/Padmanabhapuram Palace.jpg"],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...padmanabhapuram-palace-map...",
+    "url": "/kanyakumari-tour/Padmanabhapuram-Palace",
+    "faq": [
+      {
+        "title": "When to visit Padmanabhapuram Palace?",
+        "content": "October to March is best to enjoy pleasant weather and sightseeing."
+      },
+      {
+        "title": "How can I reach the palace?",
+        "content": "Accessible by road from Nagercoil and Kanyakumari; taxis and buses are available."
+      },
+      {
+        "title": "What are the main attractions inside the palace?",
+        "content": "Visitors can explore the Durbar Hall, royal chambers, wooden carvings, murals, and antique furniture."
+      },
+      {
+        "title": "Is there an entry fee?",
+        "content": "Yes, a nominal entry fee is charged to maintain the heritage site."
+      }
+    ]
+  },"Kanyakumari-Beach": {
+  "title": "Scenic Coastal Views",
+  "description1": "Kanyakumari Beach is known for its golden sands, serene ambiance, and spectacular sunrise and sunset views.",
+  "description2": "Visitors can enjoy walking along the shore, local food stalls, and vibrant coastal culture.",
+  "description3": "Kanyakumari Beach, located at the southernmost tip of India, is a must-visit destination for travelers seeking natural beauty and tranquility. The beach is famous for its mesmerizing sunrise and sunset, where the horizon paints a breathtaking view over the Arabian Sea, Bay of Bengal, and Indian Ocean. Ideal for family outings, photography enthusiasts, and couples, Kanyakumari Beach provides a serene environment for relaxation and reflection. The beach is dotted with colorful fishing boats, palm trees, and small local markets selling souvenirs, handicrafts, and traditional Tamil Nadu delicacies, adding to the cultural charm. Tourists can enjoy the sound of gentle waves, stroll along the golden sands, and participate in beachside activities. Being close to major landmarks such as Vivekananda Rock Memorial and Thiruvalluvar Statue, it is part of a comprehensive travel itinerary for those exploring Kanyakumari. The beach area is well-maintained, offering safety measures for swimmers and tourists, making it family-friendly. Kanyakumari Beach also provides opportunities for educational and cultural trips, as visitors can witness local fishing practices, coastal ecosystems, and traditional ceremonies. Additionally, the beach hosts occasional cultural events and festivals, which allow tourists to immerse themselves in local traditions and music. Whether visiting for leisure, photography, or spiritual reflection, Kanyakumari Beach offers a combination of natural beauty, cultural richness, and peaceful seaside experiences, making it one of Tamil Nadu’s premier coastal attractions.",
+  "images": ["/assets/img/destination/new/Kanyakumari Beach.jpg"],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=...kanyakumari-beach-map...",
+  "url": "/kanyakumari-tour/Kanyakumari-Beach",
+  "faq": [
+    {
+      "title": "When is the best time to visit Kanyakumari Beach?",
+      "content": "October to March, when the weather is cool and ideal for sightseeing."
+    },
+    {
+      "title": "Is swimming allowed at Kanyakumari Beach?",
+      "content": "Yes, but it is recommended to swim only in designated safe areas."
+    },
+    {
+      "title": "Are there food options near the beach?",
+      "content": "Yes, there are several stalls and eateries offering local delicacies and snacks."
+    },
+    {
+      "title": "Can I stay overnight near the beach?",
+      "content": "Yes, there are hotels and guesthouses nearby for overnight stays."
+    }
+  ]
+},
+
+"Nagercoil": {
+  "title": "City of Temples & Culture",
+  "description1": "Nagercoil is a culturally rich city in Tamil Nadu, known for its temples, markets, and historical landmarks.",
+  "description2": "It offers visitors a blend of religious, historical, and cultural experiences.",
+  "description3": "Nagercoil, located near the southern tip of India, serves as a gateway to several tourist and pilgrimage destinations in Tamil Nadu and Kerala. The city is renowned for its rich cultural heritage, architectural marvels, and vibrant local traditions. Nagercoil is home to several ancient temples, each reflecting unique architectural styles and spiritual significance. The Nagaraja Temple, Suchindram Temple, and other sacred sites draw devotees and tourists seeking cultural immersion and spiritual experiences. Visitors can also explore local markets selling traditional handicrafts, spices, textiles, and souvenirs, providing insight into the region’s artisanal heritage. Nagercoil’s proximity to scenic locations such as Kanyakumari, Padmanabhapuram Palace, and nearby dams makes it an ideal base for travelers exploring South India. The city also boasts colonial-era buildings, lush parks, and cultural centers that showcase its historical significance and thriving arts scene. Tourists can enjoy local festivals, traditional music and dance performances, and experience authentic Tamil Nadu cuisine. Nagercoil provides a blend of cultural, historical, and natural attractions that cater to family travelers, solo explorers, and educational trips. Its strategic location, hospitable locals, and diverse attractions make it a compelling stop for anyone visiting Tamil Nadu. The city’s serene environment, combined with nearby scenic landscapes, offers a peaceful retreat while ensuring access to a rich tapestry of culture, history, and spirituality.",
+  "images": ["/assets/img/destination/new/Nagercoil.jpg"],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=...nagercoil-map...",
+  "url": "/kanyakumari-tour/Nagercoil",
+  "faq": [
+    {
+      "title": "When is the best time to visit Nagercoil?",
+      "content": "October to March is ideal for sightseeing and temple visits."
+    },
+    {
+      "title": "What are the main attractions in Nagercoil?",
+      "content": "Key attractions include temples, local markets, historical buildings, and nearby scenic spots."
+    },
+    {
+      "title": "How can I reach Nagercoil?",
+      "content": "Nagercoil is accessible by road and rail. The nearest airport is Trivandrum International Airport."
+    },
+    {
+      "title": "Is Nagercoil family-friendly?",
+      "content": "Yes, it is safe and offers attractions suitable for all age groups."
+    }
+  ]
+},
+
+"Suchindram-Temple": {
+  "title": "Musical Pillars & Tall Hanuman Statue",
+  "description1": "Suchindram Temple is famous for its musical pillars, tall Hanuman statue, and unique Dravidian-Kerala architectural fusion.",
+  "description2": "It is a spiritual and cultural hub attracting devotees, tourists, and architecture enthusiasts.",
+  "description3": "Suchindram Temple, located near Nagercoil, is a prominent religious and cultural landmark in Tamil Nadu. The temple is renowned for its intricately carved musical pillars, which produce melodious sounds when tapped, demonstrating remarkable craftsmanship. The 22-foot tall Hanuman statue and other intricately designed sculptures add to the temple’s architectural grandeur. The temple architecture reflects a unique blend of Dravidian and Kerala styles, combining detailed carvings, sloping tiled roofs, and ornate sanctums. Tourists and devotees alike visit Suchindram Temple to experience its spiritual ambiance, participate in traditional rituals, and marvel at the artistic excellence of its construction. The temple hosts various festivals, attracting large gatherings and offering visitors an authentic cultural experience. Photography enthusiasts are drawn to the temple for its exquisite carvings, vibrant ceremonies, and panoramic surroundings. Situated near Nagercoil and Kanyakumari, it is easily accessible for day trips or part of a larger cultural itinerary. Suchindram Temple not only serves as a place of worship but also educates visitors about Tamil Nadu’s rich history, mythology, and traditional art forms. Its serene atmosphere, coupled with impressive architectural details and historical significance, makes it a must-visit destination for travelers seeking a blend of spirituality, culture, and heritage.",
+  "images": ["/assets/img/destination/new/Suchindram Temple.jpg"],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=...suchindram-temple-map...",
+  "url": "/kanyakumari-tour/Suchindram-Temple",
+  "faq": [
+    {
+      "title": "When is the best time to visit Suchindram Temple?",
+      "content": "October to March for temple visits and cultural exploration."
+    },
+    {
+      "title": "What are the main attractions at the temple?",
+      "content": "Musical pillars, the Hanuman statue, intricate carvings, and traditional rituals."
+    },
+    {
+      "title": "Are there any festivals celebrated here?",
+      "content": "Yes, several Hindu festivals are celebrated with traditional ceremonies and gatherings."
+    },
+    {
+      "title": "Is photography allowed inside the temple?",
+      "content": "Yes, but visitors should follow temple guidelines and respect rituals."
+    }
+  ]
+},
+
+"Pechiparai-Dam": {
+  "title": "Scenic Dam & Boating",
+  "description1": "Pechiparai Dam is a serene water reservoir surrounded by lush greenery, perfect for boating and picnics.",
+  "description2": "It is a peaceful location for nature lovers, photographers, and families seeking outdoor recreation.",
+  "description3": "Pechiparai Dam, located near Nagercoil, is a picturesque tourist destination known for its tranquil surroundings, scenic beauty, and recreational opportunities. The dam is nestled amidst verdant hills, offering stunning views of water bodies and surrounding landscapes. Visitors can enjoy boating, fishing, and nature walks along the reservoir, making it ideal for families, photographers, and couples seeking relaxation. The dam area provides peaceful picnic spots with well-maintained gardens and seating areas, perfect for a leisurely day in nature. Apart from recreational activities, Pechiparai Dam serves as a crucial irrigation facility for the region, highlighting its functional significance. The lush greenery, combined with the serene water, attracts bird watchers and wildlife enthusiasts who can spot native species in the vicinity. The dam’s accessibility from Nagercoil and nearby towns makes it a convenient stop for travelers exploring Tamil Nadu’s scenic attractions. Pechiparai Dam offers a blend of natural beauty, recreational activities, and educational opportunities, allowing visitors to learn about water management, local ecology, and environmental conservation. Its calm environment and picturesque vistas make it a favorite destination for tourists seeking a break from urban life, offering moments of tranquility and inspiration amidst nature’s splendor.",
+  "images": ["/assets/img/destination/new/Pechiparai Dam.jpg"],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=...pechiparai-dam-map...",
+  "url": "/kanyakumari-tour/Pechiparai-Dam",
+  "faq": [
+    {
+      "title": "When is the best time to visit Pechiparai Dam?",
+      "content": "October to March for pleasant weather and clear skies."
+    },
+    {
+      "title": "What activities are available at Pechiparai Dam?",
+      "content": "Boating, nature walks, photography, and picnics are popular activities."
+    },
+    {
+      "title": "Is there an entry fee?",
+      "content": "No, the dam area is open to the public, but specific activities may have charges."
+    },
+    {
+      "title": "Can I stay overnight near Pechiparai Dam?",
+      "content": "Yes, there are nearby guesthouses and hotels for overnight stays."
+    }
+  ]
+}
+,"Perunchani-Dam": {
+  "title": "Dam Amidst Lush Hills",
+  "description1": "Perunchani Dam is surrounded by verdant hills and forests, offering a peaceful retreat for nature enthusiasts.",
+  "description2": "Visitors can enjoy scenic views, picnics, and photography amidst the serene landscape.",
+  "description3": "Perunchani Dam, located in the Kanyakumari district, is a hidden gem for travelers seeking tranquility and natural beauty. Nestled among lush green hills and dense forests, the dam provides a serene environment ideal for photography, picnics, and peaceful retreats. The reservoir supports local irrigation, making it an important part of the region’s agricultural ecosystem. Visitors can take leisurely walks along the dam’s periphery, capturing panoramic views of the surrounding landscapes and the water body. The area is home to various bird species and small wildlife, offering opportunities for birdwatching and nature observation. Accessible by road from nearby towns, Perunchani Dam is a perfect day-trip destination for families, couples, and solo travelers exploring Tamil Nadu’s scenic attractions. Its calm waters, combined with the surrounding hills, create a picture-perfect setting, especially during sunrise and sunset. Whether you are a nature lover, a photography enthusiast, or someone looking to escape the hustle of city life, Perunchani Dam offers a rejuvenating experience amidst South India’s lush landscapes. The dam area is well-maintained and provides a glimpse into the harmonious relationship between human engineering and natural beauty, making it a must-visit for travelers seeking serenity and inspiration.",
+  "images": ["/assets/img/destination/new/Perunchani Dam.jpg"],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=...perunchani-dam-map...",
+  "url": "/kanyakumari-tour/Perunchani-Dam",
+  "faq": [
+    {
+      "title": "When is the best time to visit Perunchani Dam?",
+      "content": "October to March for clear skies and pleasant weather."
+    },
+    {
+      "title": "What activities can I do at Perunchani Dam?",
+      "content": "Visitors can enjoy photography, picnics, and nature walks."
+    },
+    {
+      "title": "Is there an entry fee?",
+      "content": "No, the dam area is open to the public."
+    },
+    {
+      "title": "Is Perunchani Dam suitable for families?",
+      "content": "Yes, it is safe and family-friendly with scenic views and picnic spots."
+    }
+  ]
+},
+
+"Chittar-Dam": {
+  "title": "Twin Reservoir Scenic Views",
+  "description1": "Chittar Dam is known for its twin reservoirs surrounded by lush greenery, offering serene views and boating opportunities.",
+  "description2": "The dam is a popular spot for nature lovers, photographers, and families seeking relaxation.",
+  "description3": "Chittar Dam, situated in the Kanyakumari district of Tamil Nadu, is a picturesque destination offering twin reservoirs set against verdant hills. The dam is a favorite among tourists, photographers, and nature enthusiasts for its calm waters, scenic landscapes, and recreational activities. Visitors can enjoy boating, picnic outings, and leisurely walks along the reservoir’s edge while admiring the reflections of surrounding hills on the water. The dam supports local irrigation and plays an important role in the region’s agriculture. The surrounding areas are rich in flora and fauna, making it ideal for birdwatching and exploring natural habitats. Accessibility from nearby towns and Kanyakumari ensures it is an easy and worthwhile destination for day trips. The serene environment, combined with panoramic views of the twin reservoirs, provides a perfect setting for meditation, photography, and relaxation. Tourists can also enjoy observing the local ecosystem and understanding the importance of water management in South India. Chittar Dam offers a harmonious blend of engineering, natural beauty, and recreational opportunities, making it an essential stop for anyone traveling through Tamil Nadu.",
+  "images": ["/assets/img/destination/new/Chittar Dam.jpg"],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=...chittar-dam-map...",
+  "url": "/kanyakumari-tour/Chittar-Dam",
+  "faq": [
+    {
+      "title": "Best time to visit Chittar Dam?",
+      "content": "October to March for pleasant weather and clear views."
+    },
+    {
+      "title": "What activities are available?",
+      "content": "Boating, picnics, nature walks, and photography."
+    },
+    {
+      "title": "Is there an entry fee?",
+      "content": "No, the dam is open to the public."
+    },
+    {
+      "title": "Can I visit with family?",
+      "content": "Yes, it is safe and ideal for family outings."
+    }
+  ]
+},
+
+"Mukkadal-Dam": {
+  "title": "Peaceful Picnic Spot",
+  "description1": "Mukkadal Dam is a serene location perfect for picnics, nature walks, and photography.",
+  "description2": "It provides a quiet escape amidst greenery and calm waters.",
+  "description3": "Mukkadal Dam, located near Nagercoil, is a tranquil destination renowned for its peaceful surroundings and scenic beauty. The dam offers visitors a serene environment ideal for picnics, nature walks, and photography. The calm waters, surrounded by greenery and hills, provide a perfect backdrop for relaxation and reflection. It is a popular spot for families, couples, and solo travelers looking to spend time amidst nature away from the bustle of city life. The dam supports local irrigation, contributing to agriculture in the region. Visitors can enjoy leisurely strolls along the banks, observe local flora and fauna, and capture stunning photographs of the landscape. The area is also suitable for educational trips, where visitors can learn about water management and environmental conservation. Mukkadal Dam is easily accessible by road from nearby towns and offers a peaceful retreat for tourists seeking calm and natural beauty. Its combination of water, greenery, and scenic views makes it a favorite destination for relaxation, exploration, and connecting with nature. Whether you are a photographer, nature enthusiast, or traveler seeking serenity, Mukkadal Dam provides a rejuvenating experience in South India.",
+  "images": ["/assets/img/destination/new/Mukkadal Dam.jpg"],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=...mukkadal-dam-map...",
+  "url": "/kanyakumari-tour/Mukkadal-Dam",
+  "faq": [
+    {
+      "title": "Best time to visit Mukkadal Dam?",
+      "content": "October to March for pleasant weather and clear views."
+    },
+    {
+      "title": "What activities can I do here?",
+      "content": "Picnics, nature walks, photography, and sightseeing."
+    },
+    {
+      "title": "Is there an entry fee?",
+      "content": "No, the dam is open to the public."
+    },
+    {
+      "title": "Is it family-friendly?",
+      "content": "Yes, the serene environment is perfect for family outings."
+    }
+  ]
+},
+
+"Mathur-Aqueduct": {
+  "title": "Asia’s Longest Trough Bridge",
+  "description1": "Mathur Aqueduct is a unique engineering marvel and Asia’s longest trough bridge, surrounded by scenic landscapes.",
+  "description2": "It allows water flow for irrigation and provides breathtaking panoramic views for tourists.",
+  "description3": "Mathur Aqueduct, situated near Kanyakumari, is an engineering wonder and a major tourist attraction in Tamil Nadu. As Asia’s longest trough bridge, it carries irrigation water across valleys, ensuring agricultural productivity in the region. Built with concrete and supporting channels for water flow, the aqueduct spans several kilometers and stands as a testament to early 20th-century engineering excellence. Tourists are drawn to Mathur Aqueduct not only for its functional importance but also for the scenic beauty surrounding it. The elevated structure offers panoramic views of the lush green valleys, rivers, and hills, making it a perfect spot for photography and sightseeing. Visitors can walk along designated pathways to experience the scale and magnitude of the aqueduct while enjoying the tranquility of the natural landscape. The area also supports local biodiversity, attracting bird watchers and nature enthusiasts. Accessible by road, Mathur Aqueduct is part of a broader travel itinerary that includes nearby dams, waterfalls, and cultural attractions. It is ideal for families, students, and tourists interested in engineering, architecture, and natural beauty. The combination of functional infrastructure, panoramic landscapes, and historical significance makes Mathur Aqueduct a must-visit destination for anyone exploring Tamil Nadu.",
+  "images": ["/assets/img/destination/new/Mathur Aqueduct.jpg"],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=...mathur-aqueduct-map...",
+  "url": "/kanyakumari-tour/Mathur-Aqueduct",
+  "faq": [
+    {
+      "title": "When is the best time to visit Mathur Aqueduct?",
+      "content": "October to March for pleasant weather and clear views."
+    },
+    {
+      "title": "Can visitors walk on the aqueduct?",
+      "content": "Yes, there are safe pathways to explore the structure."
+    },
+    {
+      "title": "Is there an entry fee?",
+      "content": "No, the site is open to the public."
+    },
+    {
+      "title": "Are photography and sightseeing allowed?",
+      "content": "Yes, the aqueduct offers panoramic views perfect for photography."
+    }
+  ]
+},
+
+"Thirparappu-Waterfalls": {
+  "title": "Scenic Falls & Bathing Spot",
+  "description1": "Thirparappu Waterfalls is a natural attraction with cascading waters, surrounded by lush greenery.",
+  "description2": "Visitors can enjoy swimming, picnics, and photography at this scenic location.",
+  "description3": "Thirparappu Waterfalls, located near Kanyakumari, is a breathtaking natural attraction renowned for its cascading waters and lush surroundings. The falls are part of the Kodayar River and provide a refreshing bathing spot for tourists seeking a connection with nature. Surrounded by dense forests and scenic landscapes, Thirparappu Waterfalls is ideal for picnics, photography, and nature exploration. The area is popular among families, couples, and adventure seekers who enjoy the tranquil environment and the sound of cascading waters. Local flora and fauna enrich the visitor experience, making it suitable for educational trips and eco-tourism. The falls are accessible by road and form part of a broader itinerary including dams, aqueducts, and cultural attractions nearby. Visitors can enjoy guided tours, explore walking trails, and capture stunning photographs of the falls and surrounding greenery. Thirparappu Waterfalls is a perfect blend of natural beauty, recreational opportunity, and eco-tourism, making it a must-visit destination for anyone traveling through Tamil Nadu. The serene environment, refreshing water, and scenic views provide a memorable experience for tourists and nature lovers.",
+  "images": ["/assets/img/destination/new/Thirparappu Waterfalls.jpg"],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=...thirparappu-waterfalls-map...",
+  "url": "/kanyakumari-tour/Thirparappu-Waterfalls",
+  "faq": [
+    {
+      "title": "Best time to visit Thirparappu Waterfalls?",
+      "content": "October to March for pleasant weather and safe water levels."
+    },
+    {
+      "title": "Can visitors swim here?",
+      "content": "Yes, but always follow safety instructions and designated areas."
+    },
+    {
+      "title": "Is photography allowed?",
+      "content": "Yes, the falls and surrounding greenery are perfect for photography."
+    },
+    {
+      "title": "Are there picnic spots?",
+      "content": "Yes, several shaded areas and open spaces are available for picnics."
+    }
+  ]
+},
+
+"Kalakkadu-Mundanthurai-Tiger-Reserve": {
+  "title": "Wildlife & Nature Trails",
+  "description1": "Kalakkadu–Mundanthurai Tiger Reserve is a biodiversity hotspot offering wildlife sightings, trekking, and nature trails.",
+  "description2": "It is home to tigers, elephants, leopards, and numerous bird species, making it ideal for wildlife enthusiasts.",
+  "description3": "Kalakkadu–Mundanthurai Tiger Reserve, situated in the southern part of Tamil Nadu, is a renowned wildlife sanctuary and biodiversity hotspot. Covering dense forests, rolling hills, and riverine ecosystems, the reserve is home to a variety of wildlife including tigers, elephants, leopards, gaurs, and countless bird species. Nature lovers, wildlife photographers, and eco-tourists visit the reserve to experience its rich biodiversity and scenic landscapes. The sanctuary offers trekking trails, guided safaris, and nature walks that allow visitors to explore its flora and fauna while learning about conservation efforts. The reserve is also significant for its role in protecting endangered species and preserving South India’s ecological balance. Visitors can enjoy early morning safaris, bird watching, and spotting wild animals in their natural habitat. The scenic environment, combined with educational tours and eco-tourism activities, provides a holistic experience for tourists, students, and nature enthusiasts. Kalakkadu–Mundanthurai Tiger Reserve is accessible by road from nearby towns and offers facilities for guided tours, accommodation, and educational programs. The reserve exemplifies the beauty of Tamil Nadu’s wilderness and serves as a key destination for those seeking adventure, wildlife encounters, and serene natural experiences. It is an essential stop for travelers who wish to explore India’s natural heritage and witness wildlife in a protected environment.",
+  "images": ["/assets/img/destination/new/Wildlife Sanctuary.jpg"],
+  "mapEmbed": "https://www.google.com/maps/embed?pb=...kalakkadu-mundanthurai-map...",
+  "url": "/kanyakumari-tour/Kalakkadu-Mundanthurai-Tiger-Reserve",
+  "faq": [
+    {
+      "title": "When is the best time to visit the tiger reserve?",
+      "content": "October to March for comfortable weather and better wildlife sightings."
+    },
+    {
+      "title": "What wildlife can I see?",
+      "content": "Tigers, elephants, leopards, gaurs, and numerous bird species inhabit the reserve."
+    },
+    {
+      "title": "Are guided tours available?",
+      "content": "Yes, official guided safaris and trekking tours are offered."
+    },
+    {
+      "title": "Is it suitable for families?",
+      "content": "Yes, but children should be supervised during safaris and nature trails."
+    }
+  ]
+}
+
+}

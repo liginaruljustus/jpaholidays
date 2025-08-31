@@ -7,6 +7,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Kanyakumari.jpg",
     location: "Kanyakumari",
+    url: "/kanyakumari-tour/Kanyakumari",
     title: "Sunrise & Sunset Point",
     rating: "4.7",
     day: "10 Days",
@@ -16,6 +17,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Vivekananda Rock.jpg",
     location: "Vivekananda Rock",
+    url: "/kanyakumari-tour/Vivekananda-Rock",
     title: "Memorial & Temple",
     rating: "4.7",
     day: "10 Days",
@@ -25,6 +27,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Thiruvalluvar Statue.jpg",
     location: "Thiruvalluvar Statue",
+    url: "/kanyakumari-tour/Thiruvalluvar-Statue",
     title: "133ft Iconic Monument",
     rating: "4.7",
     day: "10 Days",
@@ -34,6 +37,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Padmanabhapuram Palace.jpg",
     location: "Padmanabhapuram Palace",
+    url: "/kanyakumari-tour/Padmanabhapuram-Palace",
     title: "Historic Wooden Palace",
     rating: "4.7",
     day: "10 Days",
@@ -43,6 +47,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Kanyakumari Beach.jpg",
     location: "Kanyakumari Beach",
+    url: "/kanyakumari-tour/Kanyakumari-Beach",
     title: "Scenic Coastal Views",
     rating: "4.7",
     day: "10 Days",
@@ -52,6 +57,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Nagercoil.jpg",
     location: "Nagercoil",
+    url: "/kanyakumari-tour/Nagercoil",
     title: "City of Temples & Culture",
     rating: "4.6",
     day: "5 Days",
@@ -61,6 +67,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Suchindram Temple.jpg",
     location: "Suchindram Temple",
+    url: "/kanyakumari-tour/Suchindram-Temple",
     title: "Musical Pillars & Tall Hanuman Statue",
     rating: "4.7",
     day: "3 Days",
@@ -70,6 +77,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Pechiparai Dam.jpg",
     location: "Pechiparai Dam",
+    url: "/kanyakumari-tour/Pechiparai-Dam",
     title: "Scenic Dam & Boating",
     rating: "4.6",
     day: "2 Days",
@@ -79,6 +87,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Perunchani Dam.jpg",
     location: "Perunchani Dam",
+    url: "/kanyakumari-tour/Perunchani-Dam",
     title: "Dam Amidst Lush Hills",
     rating: "4.5",
     day: "2 Days",
@@ -88,6 +97,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Chittar Dam.jpg",
     location: "Chittar Dam",
+    url: "/kanyakumari-tour/Chittar-Dam",
     title: "Twin Reservoir Scenic Views",
     rating: "4.5",
     day: "2 Days",
@@ -97,6 +107,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Mukkadal Dam.jpg",
     location: "Mukkadal Dam",
+    url: "/kanyakumari-tour/Mukkadal-Dam",
     title: "Peaceful Picnic Spot",
     rating: "4.4",
     day: "1 Day",
@@ -106,6 +117,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Mathur Aqueduct.jpg",
     location: "Mathur Aqueduct",
+    url: "/kanyakumari-tour/Mathur-Aqueduct",
     title: "Asia’s Longest Trough Bridge",
     rating: "4.7",
     day: "1 Day",
@@ -115,6 +127,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Thirparappu Waterfalls.jpg",
     location: "Thirparappu Waterfalls",
+    url: "/kanyakumari-tour/Thirparappu-Waterfalls",
     title: "Scenic Falls & Bathing Spot",
     rating: "4.8",
     day: "1 Day",
@@ -124,6 +137,7 @@ const destinationContent = [
   {
     img: "/assets/img/destination/new/Wildlife Sanctuary.jpg",
     location: "Kalakkadu–Mundanthurai Tiger Reserve",
+    url: "/kanyakumari-tour/Kalakkadu-Mundanthurai-Tiger-Reserve",
     title: "Wildlife & Nature Trails",
     rating: "4.6",
     day: "2 Days",
@@ -131,6 +145,7 @@ const destinationContent = [
     price: "₹39.00",
   },
 ];
+
 const tourContent = [
   {
     img: "/assets/img/feature/Kanyakumari-Sunrise.jpg",

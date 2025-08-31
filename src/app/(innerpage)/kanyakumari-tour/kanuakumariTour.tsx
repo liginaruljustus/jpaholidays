@@ -42,7 +42,7 @@ const Destination4 = ({ destinationContent }) => {
                     </li> */}
                   </ul>
                   <h5>
-                    <Link href="/destination/destination-details">
+                    <Link href={item.url}>
                       {item.title}
                     </Link>
                   </h5>
@@ -62,7 +62,7 @@ const Destination4 = ({ destinationContent }) => {
                       <span>/Per day</span>
                     </h6>
                     <Link
-                      href="/destination/destination-details"
+                      href={item.url}
                       className="theme-btn style-2"
                     >
                       Book Now<i className="bi bi-arrow-right"></i>

@@ -1,0 +1,68 @@
+{
+  "Kanyakumari": {
+    "title": "Sunrise & Sunset Point",
+    "description1": "Kanyakumari, the southernmost tip of India, is renowned for its breathtaking sunrise and sunset views over the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean.",
+    "description2": "Apart from its natural beauty, Kanyakumari is known for the Vivekananda Rock Memorial, Thiruvalluvar Statue, and serene beaches, making it a perfect blend of spirituality, history, and coastal charm.",
+    "description3": "A visit to Kanyakumari offers travelers a unique opportunity to witness the merging of three seas, explore cultural landmarks, and experience vibrant local traditions. Popular spots include Kanyakumari Beach, Vivekananda Rock Memorial, and the Thiruvalluvar Statue.",
+    "images": ["/assets/img/destination/new/Kanyakumari.jpg"],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...kanyakumari-map...",
+    "faq": [
+      {
+        "title": "What is the best time to visit Kanyakumari?",
+        "content": "The best time to visit is from October to March when the weather is pleasant for sightseeing and beach activities."
+      },
+      {
+        "title": "How can I reach Kanyakumari?",
+        "content": "Kanyakumari is well-connected by road, rail, and the nearest airport is Trivandrum International Airport (around 90 km away)."
+      },
+      {
+        "title": "What are the top attractions?",
+        "content": "Top attractions include Vivekananda Rock Memorial, Thiruvalluvar Statue, Kanyakumari Beach, and local temples."
+      },
+      {
+        "title": "Is Kanyakumari only for beach lovers?",
+        "content": "No, it also attracts history buffs, spiritual seekers, and photographers due to its cultural and scenic landmarks."
+      }
+    ]
+  },
+  "Vivekananda Rock": {
+    "title": "Memorial & Temple",
+    "description1": "Vivekananda Rock Memorial, situated on a rocky islet off Kanyakumari, commemorates Swami Vivekananda's meditation and spiritual journey.",
+    "description2": "Accessible by ferry, the memorial offers panoramic views of the surrounding seas and features a meditation hall and a shrine honoring the revered monk.",
+    "description3": "This iconic monument is a must-visit for those interested in Indian philosophy, history, and coastal beauty. The serene environment and architectural charm make it an enriching experience.",
+    "images": ["/assets/img/destination/new/Vivekananda Rock.jpg"],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...vivekananda-rock-map...",
+    "faq": [
+      {
+        "title": "When is the best time to visit Vivekananda Rock?",
+        "content": "October to March is ideal for pleasant weather and smooth ferry rides."
+      },
+      {
+        "title": "How do I reach Vivekananda Rock Memorial?",
+        "content": "Ferries operate from Kanyakumari Beach. Tickets are available on-site."
+      },
+      {
+        "title": "Can visitors enter the meditation hall?",
+        "content": "Yes, visitors can enter the meditation hall and learn about Swami Vivekananda's life."
+      }
+    ]
+  },
+  "Thiruvalluvar Statue": {
+    "title": "133ft Iconic Monument",
+    "description1": "The Thiruvalluvar Statue, standing 133 feet tall, honors the celebrated Tamil poet and philosopher, Thiruvalluvar.",
+    "description2": "Located near Kanyakumari, this iconic statue represents the 133 chapters of the Thirukkural and offers stunning views of the surrounding seas.",
+    "description3": "Visitors can explore the monument, enjoy panoramic views, and learn about Thiruvalluvar's teachings. The statue is both a cultural and scenic highlight.",
+    "images": ["/assets/img/destination/new/Thiruvalluvar Statue.jpg"],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=...thiruvalluvar-statue-map...",
+    "faq": [
+      {
+        "title": "Best time to visit the Thiruvalluvar Statue?",
+        "content": "October to March is ideal for sightseeing and enjoying the coastal views."
+      },
+      {
+        "title": "How to reach Thiruvalluvar Statue?",
+        "content": "Accessible by ferry from Vivekananda Rock Memorial or Kanyakumari Beach."
+      }
+    ]
+  }
+}

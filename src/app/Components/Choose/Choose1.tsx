@@ -137,7 +137,7 @@ const Choose1 = () => {
             <div className="col-lg-6">
               <div className="feature-image wow img-custom-anim-left">
                 <Image
-                  src="/assets/img/man-image.png"
+                  src="/assets/img/Premium Cab Services.jpg"
                   alt="driver illustration"
                   width={636}
                   height={577}

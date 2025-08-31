@@ -22,13 +22,13 @@ type Destination = {
   robots?: string;
 };
 
-// ✅ Metadata must await params
+
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ url: string }>;
 }): Promise<Metadata> {
-  const { url: slug } = await params; // ✅ must await
+  const { url: slug } = await params; 
 
   const filePath = path.join(process.cwd(), "src", "data", "rameswaram.json");
   const jsonData = JSON.parse(await fs.readFile(filePath, "utf-8"));
@@ -40,7 +40,7 @@ export async function generateMetadata({
       title: "Destination Not Found",
       description: "The requested destination does not exist or has been moved.",
       alternates: {
-        canonical: "https://www.example.com/destinations",
+        canonical: "https://www.jpaholidays.in/destinations",
       },
       robots: "noindex, nofollow",
     };
@@ -58,7 +58,7 @@ export async function generateMetadata({
   };
 }
 
-// ✅ Page must also await params
+
 export default async function Page({
   params,
 }: {

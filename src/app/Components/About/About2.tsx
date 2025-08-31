@@ -11,7 +11,7 @@ const About2 = () => {
             <div className="col-lg-6">
               <div className="about-image">
                 <Image
-                  src="/assets/img/about/03.jpg"
+                  src="/assets/img/about/3.jpg"
                   className="wow img-custom-anim-left"
                   alt="Kanyakumari taxi and cab services"
                   width={330}
@@ -19,7 +19,7 @@ const About2 = () => {
                 />
                 <div className="shape-image float-bob-y">
                   <Image
-                    src="/assets/img/about/04.png"
+                    src="/assets/img/about/1.jpg"
                     alt="Travel shape design"
                     width={196}
                     height={109}
@@ -35,7 +35,7 @@ const About2 = () => {
                 </div>
                 <div className="about-image-2">
                   <Image
-                    src="/assets/img/about/05.jpg"
+                    src="/assets/img/about/2.jpg"
                     className="wow img-custom-anim-top"
                     alt="Tour package showcase"
                     width={284}

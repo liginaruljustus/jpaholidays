@@ -93,7 +93,7 @@ const Choose2 = () => {
             >
               <div className="choose-us-thumb">
                 <Image
-                  src="/assets/img/choose-us-bg.png"
+                  src="/assets/img/Premium Cab Services.jpg"
                   className="wow img-custom-anim-left"
                   alt="Kanyakumari taxi service"
                   width={828}

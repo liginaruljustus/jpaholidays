@@ -52,7 +52,7 @@ const Destination2 = () => {
       title: "Princess of Hill Stations",
     },
     {
-      img: "/assets/img/destination/new/Rameshwaram.jpg",
+      img: "/assets/img/destination/new/Rameswaram.jpg",
       location: "Rameshwaram",
       title: "Sacred Pilgrimage Island",
     },
