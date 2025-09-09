@@ -87,59 +87,65 @@ export default function Nav({ setMobileToggle }) {
           </ul>
         </DropDown>
       </li>
-
-      <li className="menu-item-has-children">
-  <a
-    
-  >
-    Sightseeing
-  </a>
-
-
-  <div className="dropdown-menu w-100 p-4" aria-labelledby="sightseeingDropdown">
-    <div className="row">
-     
-      <div className="col-md-3">
-        <h6 className="fw-bold">Cab Services</h6>
-        <ul className="list-unstyled">
-          <li><a className="dropdown-item" href="/local-cabs">Local Cabs</a></li>
-          <li><a className="dropdown-item" href="/outstation-cabs">Outstation Cabs</a></li>
-          <li><a className="dropdown-item" href="/airport-transfer">Airport Transfer</a></li>
-          <li><a className="dropdown-item" href="/self-drive">Self Drive Cars</a></li>
-        </ul>
-      </div>
-
-     
-      <div className="col-md-3">
-        <h6 className="fw-bold">Popular Tours</h6>
-        <ul className="list-unstyled">
-          <li><a className="dropdown-item" href="/madurai-tour">Madurai Sightseeing</a></li>
-          <li><a className="dropdown-item" href="/rameswaram-tour">Rameswaram Trip</a></li>
-          <li><a className="dropdown-item" href="/kanyakumari-tour">Kanyakumari Trip</a></li>
-        </ul>
-      </div>
-
-      
-      <div className="col-md-3">
-        <h6 className="fw-bold">Special Packages</h6>
-        <ul className="list-unstyled">
-          <li><a className="dropdown-item" href="/honeymoon-packages">Honeymoon Packages</a></li>
-          <li><a className="dropdown-item" href="/family-trips">Family Trips</a></li>
-        </ul>
-      </div>
-
-      
-      <div className="col-md-3 text-center">
-        <img
-          src="/assets/img/destination/new/Meenakshi-Amman-Temple.jpg"
-          className="img-fluid rounded shadow-sm mb-2"
-          alt="Sightseeing in Tamil Nadu"
-        />
-        <p className="small">Discover Tamil Nadu with our curated tours.</p>
-      </div>
-    </div>
-  </div>
+<li className="menu-item-has-children">
+  <Link href="/tour-packages" onClick={() => setMobileToggle(false)}>
+    Tour Packages
+  </Link>
+  <DropDown>
+    <ul>
+      <li>
+        <Link
+          href="/tour-packages/family"
+          onClick={() => setMobileToggle(false)}
+        >
+          Family Tour Package
+        </Link>
+      </li>
+      <li>
+        <Link
+          href="/tour-packages/marriage"
+          onClick={() => setMobileToggle(false)}
+        >
+          Marriage Tour Package
+        </Link>
+      </li>
+      <li>
+        <Link
+          href="/tour-packages/honeymoon"
+          onClick={() => setMobileToggle(false)}
+        >
+          Honeymoon Tour Package
+        </Link>
+      </li>
+      <li>
+        <Link
+          href="/tour-packages/corporate"
+          onClick={() => setMobileToggle(false)}
+        >
+          Corporate Tour Package
+        </Link>
+      </li>
+      <li>
+        <Link
+          href="/tour-packages/adventure"
+          onClick={() => setMobileToggle(false)}
+        >
+          Adventure Tour Package
+        </Link>
+      </li>
+      <li>
+        <Link
+          href="/tour-packages/pilgrimage"
+          onClick={() => setMobileToggle(false)}
+        >
+          Pilgrimage Tour Package
+        </Link>
+      </li>
+    </ul>
+  </DropDown>
 </li>
+
+      
 
 
       <li>
