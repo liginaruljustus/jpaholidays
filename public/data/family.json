@@ -1,0 +1,452 @@
+{
+   "family": [
+    {
+      "img": "/assets/img/destination/family/1.jpg",
+      "location": "Kanyakumari, Tamil Nadu",
+      "title": "Kanyakumari Coastal Family Tour",
+      "rating": "4.8",
+      "day": "5 Days",
+      "number": "30+",
+      "price": "$120.00"
+    },
+    {
+      "img": "/assets/img/destination/family/2.jpg",
+      "location": "Kerala",
+      "title": "Kerala Backwater & Hill Station Tour",
+      "rating": "4.9",
+      "day": "7 Days",
+      "number": "40+",
+      "price": "$200.00"
+    },
+    {
+      "img": "/assets/img/destination/family/3.jpg",
+      "location": "Madurai, Tamil Nadu",
+      "title": "Meenakshi Amman Temple & City Tour",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "25+",
+      "price": "$90.00"
+    },
+    {
+      "img": "/assets/img/destination/family/4.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Rameshwaram Pilgrimage & Beach Tour",
+      "rating": "4.6",
+      "day": "4 Days",
+      "number": "20+",
+      "price": "$110.00"
+    },
+    {
+      "img": "/assets/img/destination/family/5.jpg",
+      "location": "Kanyakumari, Tamil Nadu",
+      "title": "Sunrise & Temple Tour in Kanyakumari",
+      "rating": "4.8",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$80.00"
+    },
+    {
+      "img": "/assets/img/destination/family/6.jpg",
+      "location": "Kerala",
+      "title": "Kerala Houseboat & Munnar Tour",
+      "rating": "4.9",
+      "day": "6 Days",
+      "number": "35+",
+      "price": "$210.00"
+    },
+    {
+      "img": "/assets/img/destination/family/7.jpg",
+      "location": "Madurai, Tamil Nadu",
+      "title": "Cultural Heritage & Temple Walk",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$95.00"
+    },
+    {
+      "img": "/assets/img/destination/family/8.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Rameshwaram & Dhanushkodi Adventure",
+      "rating": "4.6",
+      "day": "3 Days",
+      "number": "18+",
+      "price": "$100.00"
+    }
+  ],
+  "marriage": [
+  {
+    "img": "/assets/img/destination/marriage/1.jpg",
+    "location": "Kanyakumari, Tamil Nadu",
+    "title": "Coastal Palace Wedding Experience",
+    "rating": "4.9",
+    "day": "5 Days",
+    "number": "50+",
+    "price": "$3500.00"
+  },
+  {
+    "img": "/assets/img/destination/marriage/2.jpg",
+    "location": "Ooty, Tamil Nadu",
+    "title": "Hill Station Romantic Wedding",
+    "rating": "4.8",
+    "day": "4 Days",
+    "number": "30+",
+    "price": "$3000.00"
+  },
+  {
+    "img": "/assets/img/destination/marriage/3.jpg",
+    "location": "Madurai, Tamil Nadu",
+    "title": "Temple Heritage Wedding Celebration",
+    "rating": "4.7",
+    "day": "3 Days",
+    "number": "25+",
+    "price": "$2500.00"
+  },
+  {
+    "img": "/assets/img/destination/marriage/4.jpg",
+    "location": "Alleppey, Kerala",
+    "title": "Backwater Wedding Cruise",
+    "rating": "4.8",
+    "day": "4 Days",
+    "number": "30+",
+    "price": "$3200.00"
+  },
+  {
+    "img": "/assets/img/destination/marriage/5.jpg",
+    "location": "Kochi, Kerala",
+    "title": "Fort Kochi Heritage Wedding",
+    "rating": "4.9",
+    "day": "5 Days",
+    "number": "40+",
+    "price": "$3800.00"
+  },
+  {
+    "img": "/assets/img/destination/marriage/6.jpg",
+    "location": "Munnar, Kerala",
+    "title": "Tea Plantation Romantic Wedding",
+    "rating": "4.8",
+    "day": "4 Days",
+    "number": "35+",
+    "price": "$3600.00"
+  },
+  {
+    "img": "/assets/img/destination/marriage/7.jpg",
+    "location": "Rameshwaram, Tamil Nadu",
+    "title": "Beachfront Wedding Ceremony",
+    "rating": "4.7",
+    "day": "3 Days",
+    "number": "20+",
+    "price": "$2800.00"
+  },
+  {
+    "img": "/assets/img/destination/marriage/8.jpg",
+    "location": "Varkala, Kerala",
+    "title": "Cliffside Beach Wedding",
+    "rating": "4.9",
+    "day": "4 Days",
+    "number": "25+",
+    "price": "$3300.00"
+  }
+]
+,
+  "honeymoon": [
+  {
+    "img": "/assets/img/destination/honeymoon/1.jpg",
+    "location": "Kanyakumari, Tamil Nadu",
+    "title": "Romantic Coastal Sunset Tour",
+    "rating": "4.9",
+    "day": "5 Days",
+    "number": "2+",
+    "price": "$2000.00"
+  },
+  {
+    "img": "/assets/img/destination/honeymoon/2.jpg",
+    "location": "Ooty, Tamil Nadu",
+    "title": "Hill Station Couple Retreat",
+    "rating": "4.8",
+    "day": "4 Days",
+    "number": "2+",
+    "price": "$1800.00"
+  },
+  {
+    "img": "/assets/img/destination/honeymoon/3.jpg",
+    "location": "Munnar, Kerala",
+    "title": "Tea Plantation Romantic Escape",
+    "rating": "4.9",
+    "day": "5 Days",
+    "number": "2+",
+    "price": "$2200.00"
+  },
+  {
+    "img": "/assets/img/destination/honeymoon/4.jpg",
+    "location": "Alleppey, Kerala",
+    "title": "Backwater Houseboat Honeymoon",
+    "rating": "4.9",
+    "day": "4 Days",
+    "number": "2+",
+    "price": "$2100.00"
+  },
+  {
+    "img": "/assets/img/destination/honeymoon/5.jpg",
+    "location": "Kochi, Kerala",
+    "title": "Heritage & Romantic Walk Tour",
+    "rating": "4.8",
+    "day": "3 Days",
+    "number": "2+",
+    "price": "$1900.00"
+  },
+  {
+    "img": "/assets/img/destination/honeymoon/6.jpg",
+    "location": "Rameshwaram, Tamil Nadu",
+    "title": "Beachside Romantic Escape",
+    "rating": "4.7",
+    "day": "3 Days",
+    "number": "2+",
+    "price": "$1800.00"
+  },
+  {
+    "img": "/assets/img/destination/honeymoon/7.jpg",
+    "location": "Varkala, Kerala",
+    "title": "Cliffside Honeymoon Retreat",
+    "rating": "4.9",
+    "day": "4 Days",
+    "number": "2+",
+    "price": "$2000.00"
+  },
+  {
+    "img": "/assets/img/destination/honeymoon/8.jpg",
+    "location": "Madurai, Tamil Nadu",
+    "title": "Temple & Cultural Couple Tour",
+    "rating": "4.7",
+    "day": "3 Days",
+    "number": "2+",
+    "price": "$1700.00"
+  }
+]
+,
+  "corporate": [
+  {
+    "img": "/assets/img/destination/corporate/1.jpg",
+    "location": "Chennai, Tamil Nadu",
+    "title": "Team Building & City Conference",
+    "rating": "4.8",
+    "day": "3 Days",
+    "number": "20+",
+    "price": "$1500.00"
+  },
+  {
+    "img": "/assets/img/destination/corporate/2.jpg",
+    "location": "Coimbatore, Tamil Nadu",
+    "title": "Industrial & Workshop Retreat",
+    "rating": "4.7",
+    "day": "2 Days",
+    "number": "15+",
+    "price": "$1200.00"
+  },
+  {
+    "img": "/assets/img/destination/corporate/3.jpg",
+    "location": "Ooty, Tamil Nadu",
+    "title": "Hill Station Corporate Retreat",
+    "rating": "4.9",
+    "day": "4 Days",
+    "number": "25+",
+    "price": "$2000.00"
+  },
+  {
+    "img": "/assets/img/destination/corporate/4.jpg",
+    "location": "Kochi, Kerala",
+    "title": "Backwater Corporate Conference",
+    "rating": "4.8",
+    "day": "3 Days",
+    "number": "20+",
+    "price": "$1800.00"
+  },
+  {
+    "img": "/assets/img/destination/corporate/5.jpg",
+    "location": "Munnar, Kerala",
+    "title": "Team Retreat in Tea Plantations",
+    "rating": "4.9",
+    "day": "4 Days",
+    "number": "15+",
+    "price": "$2200.00"
+  },
+  {
+    "img": "/assets/img/destination/corporate/6.jpg",
+    "location": "Trivandrum, Kerala",
+    "title": "Beachside Corporate Workshop",
+    "rating": "4.7",
+    "day": "3 Days",
+    "number": "20+",
+    "price": "$1700.00"
+  },
+  {
+    "img": "/assets/img/destination/corporate/7.jpg",
+    "location": "Madurai, Tamil Nadu",
+    "title": "Cultural Heritage Corporate Tour",
+    "rating": "4.6",
+    "day": "2 Days",
+    "number": "15+",
+    "price": "$1400.00"
+  },
+  {
+    "img": "/assets/img/destination/corporate/8.jpg",
+    "location": "Rameshwaram, Tamil Nadu",
+    "title": "Beachside Team Retreat & Adventure",
+    "rating": "4.7",
+    "day": "3 Days",
+    "number": "18+",
+    "price": "$1600.00"
+  }
+]
+,
+  "adventure": [
+  {
+    "img": "/assets/img/destination/adventure/01.jpg",
+    "location": "Kodaikanal, Tamil Nadu",
+    "title": "Hill Trekking & Camping Adventure",
+    "rating": "4.8",
+    "day": "3 Days",
+    "number": "15+",
+    "price": "$250.00"
+  },
+  {
+    "img": "/assets/img/destination/adventure/02.jpg",
+    "location": "Munnar, Kerala",
+    "title": "Tea Plantation Trek & Rafting",
+    "rating": "4.9",
+    "day": "4 Days",
+    "number": "20+",
+    "price": "$300.00"
+  },
+  {
+    "img": "/assets/img/destination/adventure/03.jpg",
+    "location": "Ooty, Tamil Nadu",
+    "title": "Hill Station Hiking & Adventure Sports",
+    "rating": "4.7",
+    "day": "3 Days",
+    "number": "18+",
+    "price": "$280.00"
+  },
+  {
+    "img": "/assets/img/destination/adventure/04.jpg",
+    "location": "Alleppey, Kerala",
+    "title": "Backwater Kayaking & Canoeing",
+    "rating": "4.8",
+    "day": "2 Days",
+    "number": "15+",
+    "price": "$200.00"
+  },
+  {
+    "img": "/assets/img/destination/adventure/05.jpg",
+    "location": "Kanyakumari, Tamil Nadu",
+    "title": "Beachside Adventure & Water Sports",
+    "rating": "4.7",
+    "day": "2 Days",
+    "number": "12+",
+    "price": "$180.00"
+  },
+  {
+    "img": "/assets/img/destination/adventure/06.jpg",
+    "location": "Wayanad, Kerala",
+    "title": "Jungle Trekking & Wildlife Safari",
+    "rating": "4.9",
+    "day": "3 Days",
+    "number": "15+",
+    "price": "$270.00"
+  },
+  {
+    "img": "/assets/img/destination/adventure/07.jpg",
+    "location": "Coorg, Kerala",
+    "title": "River Rafting & Hill Adventure",
+    "rating": "4.8",
+    "day": "3 Days",
+    "number": "20+",
+    "price": "$290.00"
+  },
+  {
+    "img": "/assets/img/destination/adventure/08.jpg",
+    "location": "Rameshwaram, Tamil Nadu",
+    "title": "Dhanushkodi Coastal Adventure",
+    "rating": "4.7",
+    "day": "2 Days",
+    "number": "15+",
+    "price": "$200.00"
+  }
+]
+,
+  "pilgrimage": [
+  {
+    "img": "/assets/img/destination/pilgrimage/01.jpg",
+    "location": "Rameshwaram, Tamil Nadu",
+    "title": "Rameshwaram Pilgrimage & Temple Tour",
+    "rating": "4.9",
+    "day": "3 Days",
+    "number": "20+",
+    "price": "$120.00"
+  },
+  {
+    "img": "/assets/img/destination/pilgrimage/02.jpg",
+    "location": "Madurai, Tamil Nadu",
+    "title": "Meenakshi Amman Temple & Heritage Walk",
+    "rating": "4.8",
+    "day": "2 Days",
+    "number": "15+",
+    "price": "$100.00"
+  },
+  {
+    "img": "/assets/img/destination/pilgrimage/03.jpg",
+    "location": "Kanyakumari, Tamil Nadu",
+    "title": "Kanyakumari Sunrise & Temple Tour",
+    "rating": "4.7",
+    "day": "2 Days",
+    "number": "15+",
+    "price": "$90.00"
+  },
+  {
+    "img": "/assets/img/destination/pilgrimage/04.jpg",
+    "location": "Sabarimala, Kerala",
+    "title": "Sabarimala Temple Pilgrimage",
+    "rating": "4.9",
+    "day": "3 Days",
+    "number": "20+",
+    "price": "$150.00"
+  },
+  {
+    "img": "/assets/img/destination/pilgrimage/05.jpg",
+    "location": "Thrissur, Kerala",
+    "title": "Vadakkumnathan Temple & Cultural Tour",
+    "rating": "4.8",
+    "day": "2 Days",
+    "number": "15+",
+    "price": "$120.00"
+  },
+  {
+    "img": "/assets/img/destination/pilgrimage/06.jpg",
+    "location": "Palani, Tamil Nadu",
+    "title": "Palani Murugan Temple Pilgrimage",
+    "rating": "4.7",
+    "day": "2 Days",
+    "number": "12+",
+    "price": "$100.00"
+  },
+  {
+    "img": "/assets/img/destination/pilgrimage/07.jpg",
+    "location": "Alleppey, Kerala",
+    "title": "Backwater Temple & Spiritual Retreat",
+    "rating": "4.6",
+    "day": "3 Days",
+    "number": "15+",
+    "price": "$140.00"
+  },
+  {
+    "img": "/assets/img/destination/pilgrimage/08.jpg",
+    "location": "Rameshwaram, Tamil Nadu",
+    "title": "Dhanushkodi & Coastal Pilgrimage Tour",
+    "rating": "4.8",
+    "day": "2 Days",
+    "number": "15+",
+    "price": "$110.00"
+  }
+]
+
+  
+}
