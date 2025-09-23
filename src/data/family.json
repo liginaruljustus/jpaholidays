@@ -1,178 +1,1434 @@
 {
-  "family": {
-    "title": "Iconic Dravidian Architecture & Spiritual Center",
-    "description1": "Meenakshi Amman Temple in Madurai is one of the most magnificent temples of South India, dedicated to Goddess Meenakshi (a form of Parvati) and Lord Sundareswarar (Shiva). It is renowned worldwide for its grand Dravidian-style architecture, colorful gopurams (towers), and vibrant cultural significance.",
-    "description2": "The temple is a bustling hub of devotion and artistry, featuring over 30,000 sculptures, intricately carved pillars, and a rich history dating back centuries. It is also the heart of Madurai’s spiritual life and a symbol of Tamil Nadu’s cultural heritage.",
-    "description3": "A UNESCO-recognized marvel, the Meenakshi Amman Temple stands as a masterpiece of architecture and devotion. Spread over 14 acres, the temple complex houses towering gopurams adorned with vibrant statues of deities, mythical creatures, and legends from Hindu scriptures. The golden lotus pond, thousand-pillar hall, and musical pillars are architectural highlights that showcase the brilliance of ancient craftsmanship. Devotees and tourists alike are mesmerized by the temple’s vibrant atmosphere, especially during the annual Meenakshi Thirukalyanam festival, which attracts thousands from across India and abroad.\n\nThe temple is not only a religious landmark but also a cultural epicenter where art, music, and rituals thrive. It reflects the grandeur of the Pandya dynasty and continues to serve as a living heritage site where history and spirituality coexist beautifully.",
-    "images": ["/assets/img/destination/new/Meenakshi-Amman-Temple.jpg"],
-    "mapEmbed": "https://www.google.com/maps/embed?pb=...meenakshi-temple-map...",
-    "faq": [
-      {
-        "title": "What is the best time to visit Meenakshi Amman Temple?",
-        "content": "The best time to visit is from October to March when the weather is pleasant. For cultural immersion, visit during the Chithirai Festival (April–May)."
-      },
-      {
-        "title": "Are non-Hindus allowed inside the temple?",
-        "content": "Yes, non-Hindus can enter most parts of the temple complex, though some sanctum areas are restricted to devotees."
-      },
-      {
-        "title": "What are the main attractions inside the temple?",
-        "content": "Highlights include the Thousand Pillar Hall, Golden Lotus Tank, colorful gopurams, and intricate sculptures throughout the complex."
+   
+  "family": [
+    {
+      "img": "/assets/img/destination/family/1.jpg",
+      "location": "Kanyakumari, Tamil Nadu",
+      "title": "Kanyakumari Coastal Family Tour",
+      "rating": "4.8",
+      "day": "5 Days",
+      "number": "30+",
+      "price": "$120.00",
+      "url": "family/Kanyakumari",
+      "innerpage": {
+        "header": "Kanyakumari Coastal Family Tour",
+        "tage": "Family Tour",
+        "img": "/assets/img/destination/family/1.jpg",
+        "description": "Enjoy a scenic coastal family tour in Kanyakumari.",
+        "faq": [
+          {
+            "title": "What is the best time to visit Kanyakumari?",
+            "content": "The best time to visit is from October to March when the weather is pleasant for sightseeing and beach activities."
+          },
+          {
+            "title": "How can I reach Kanyakumari?",
+            "content": "Kanyakumari is well-connected by road, rail, and the nearest airport is Trivandrum International Airport (around 90 km away)."
+          },
+          {
+            "title": "What are the top attractions?",
+            "content": "Top attractions include Vivekananda Rock Memorial, Thiruvalluvar Statue, Kanyakumari Beach, and local temples."
+          },
+          {
+            "title": "Is Kanyakumari only for beach lovers?",
+            "content": "No, it also attracts history buffs, spiritual seekers, and photographers due to its cultural and scenic landmarks."
+          }
+        ]
       }
-    ]
-  },
-  "thirumalai-nayakkar-mahal": {
-    "title": "Majestic 17th Century Palace",
-    "description1": "Built in 1636 by King Thirumalai Nayak, this Indo-Saracenic palace in Madurai is a stunning example of regal architecture blending Dravidian and Islamic styles.",
-    "description2": "Though only a quarter of the original structure remains, the palace still impresses with its grand arches, massive pillars, and intricate stucco work. It stands as a testament to Nayak dynasty grandeur.",
-    "description3": "Thirumalai Nayakkar Mahal, once the residence of King Thirumalai Nayak, offers visitors a glimpse into royal Tamil Nadu’s past. The massive courtyard, towering arches, and richly ornamented interiors showcase the magnificence of 17th-century craftsmanship. The palace’s celestial pavilion (Swarga Vilasam) and the grand courtyard remain architectural highlights. In the evenings, a sound and light show narrates the history of the palace and the epic Silappathikaram, enriching the visitor’s experience.\n\nA visit here combines history, art, and cultural pride, making it a must-see in Madurai.",
-    "images": ["/assets/img/destination/new/Thirumalai-Nayakkar-Mahal.jpg"],
-    "mapEmbed": "https://www.google.com/maps/embed?pb=...nayakkar-mahal-map...",
-    "faq": [
-      {
-        "title": "What is Thirumalai Nayakkar Mahal famous for?",
-        "content": "It is renowned for its grand arches, stucco work, massive pillars, and its fusion of Dravidian and Islamic architecture."
-      },
-      {
-        "title": "When is the best time to visit?",
-        "content": "Visit from October to March for the most pleasant weather. Evening light and sound shows add to the charm."
-      },
-      {
-        "title": "How much time is needed to explore?",
-        "content": "About 1–2 hours is sufficient to explore the palace and enjoy the light and sound show."
+    },
+    {
+      "img": "/assets/img/destination/family/2.jpg",
+      "location": "Kerala",
+      "title": "Kerala Backwater & Hill Station Tour",
+      "rating": "4.9",
+      "day": "7 Days",
+      "number": "40+",
+      "price": "$200.00",
+      "url": "family/Kerala",
+      "innerpage": {
+        "header": "Kerala Backwater & Hill Station Tour",
+        "tage": "Family Tour",
+        "img": "/assets/img/destination/family/2.jpg",
+        "description": "Explore the serene backwaters and scenic hill stations of Kerala.",
+        "faq": [
+          {
+            "title": "What is the best time to visit Kerala?",
+            "content": "October to March is ideal due to cooler weather and minimal rainfall."
+          },
+          {
+            "title": "How to travel between backwaters and hill stations?",
+            "content": "You can take road trips or hire private transport for easy access."
+          }
+        ]
       }
-    ]
-  },
-  "gandhi-memorial-museum": {
-    "title": "Tribute to Mahatma Gandhi",
-    "description1": "Located in Madurai, the Gandhi Memorial Museum honors the life and legacy of Mahatma Gandhi, India’s Father of the Nation.",
-    "description2": "It is one of the five Gandhi Sangrahalayas in India and houses rare photographs, letters, and personal belongings of Gandhi.",
-    "description3": "Established in 1959, the Gandhi Memorial Museum is a place of reflection and learning. Among its prized exhibits is a piece of the blood-stained cloth Gandhi wore when he was assassinated in 1948. The museum showcases rare documents, letters to world leaders, and photographs tracing Gandhi’s journey from a lawyer to the leader of India’s freedom struggle. The galleries highlight Gandhian philosophy, the non-violent freedom movement, and his impact worldwide.\n\nThe museum is not only a historical archive but also a space to inspire visitors with Gandhi’s values of peace, simplicity, and non-violence.",
-    "images": ["/assets/img/destination/new/Gandhi-Memorial-Museum.jpg"],
-    "mapEmbed": "https://www.google.com/maps/embed?pb=...gandhi-museum-map...",
-    "faq": [
-      {
-        "title": "What is the highlight of Gandhi Memorial Museum?",
-        "content": "The blood-stained cloth worn by Gandhi at his assassination is a major highlight."
-      },
-      {
-        "title": "Is there an entry fee?",
-        "content": "No, entry is free for all visitors."
-      },
-      {
-        "title": "How long does it take to explore?",
-        "content": "It usually takes 1–1.5 hours to go through the galleries and exhibits."
+    },
+    {
+      "img": "/assets/img/destination/family/3.jpg",
+      "location": "Madurai, Tamil Nadu",
+      "title": "Meenakshi Amman Temple & City Tour",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "25+",
+      "price": "$90.00",
+      "url": "family/Madurai",
+      "innerpage": {
+        "header": "Meenakshi Amman Temple & City Tour",
+        "tage": "Heritage Tour",
+        "img": "/assets/img/destination/family/3.jpg",
+        "description": "Discover the historical temples and vibrant culture of Madurai.",
+        "faq": [
+          {
+            "title": "Which temples are must-visit?",
+            "content": "Meenakshi Amman Temple and nearby historic sites are the highlights."
+          },
+          {
+            "title": "Best time for sightseeing?",
+            "content": "October to March is ideal for exploring Madurai comfortably."
+          }
+        ]
       }
-    ]
-  },
-  "vaigavaigai-damiDam": {
-    "title": "Scenic Reservoir & Garden",
-    "description1": "Vaigai Dam, near Madurai, is a popular picnic spot and water reservoir built across the Vaigai River.",
-    "description2": "Known for its scenic beauty, well-maintained gardens, and boating facilities, it’s a relaxing escape for families and nature lovers.",
-    "description3": "Built in 1959, Vaigai Dam is both an engineering achievement and a scenic retreat. The dam not only supports irrigation in Tamil Nadu but also serves as a peaceful leisure destination. The lush gardens, musical fountain, and boating experiences make it a family-friendly attraction. During weekends, the dam area lights up, attracting both locals and tourists.\n\nIts panoramic views, coupled with the soothing atmosphere, make it a must-visit for those seeking relaxation away from the bustle of Madurai city.",
-    "images": ["/assets/img/destination/new/Vaigai-Dam.jpg"],
-    "mapEmbed": "https://www.google.com/maps/embed?pb=...vaigai-dam-map...",
-    "faq": [
-      {
-        "title": "When is the best time to visit Vaigai Dam?",
-        "content": "The best time is during monsoon and post-monsoon (July–February), when the dam is full and the gardens are lush."
-      },
-      {
-        "title": "Is boating available?",
-        "content": "Yes, boating is available on certain days, especially weekends and holidays."
-      },
-      {
-        "title": "How far is it from Madurai?",
-        "content": "Vaigai Dam is about 70 km from Madurai and easily accessible by road."
+    },
+    {
+      "img": "/assets/img/destination/family/4.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Rameshwaram Pilgrimage & Beach Tour",
+      "rating": "4.6",
+      "day": "4 Days",
+      "number": "20+",
+      "price": "$110.00",
+      "url": "family/Rameshwaram",
+      "innerpage": {
+        "header": "Rameshwaram Pilgrimage & Beach Tour",
+        "tage": "Family Tour",
+        "img": "/assets/img/destination/family/4.jpg",
+        "description": "Experience spiritual sites and scenic beaches in Rameshwaram.",
+        "faq": [
+          {
+            "title": "What are the main attractions?",
+            "content": "Ramanathaswamy Temple, Dhanushkodi, and the Pamban Bridge are must-visits."
+          },
+          {
+            "title": "Is this suitable for kids?",
+            "content": "Yes, family-friendly activities and safe beach visits are included."
+          }
+        ]
       }
-    ]
-  },
-  "alagar-koil": {
-    "title": "Historic Vishnu Temple in Hills",
-    "description1": "Alagar Koil is an ancient temple dedicated to Lord Vishnu, located amidst the Alagar Hills near Madurai.",
-    "description2": "It is a revered pilgrimage site and is associated with many legends from Hindu mythology.",
-    "description3": "The Alagar Koil temple, also known as Kallazhagar Temple, is famous for its Dravidian architecture and sacred significance. Situated at the foothills of the Alagar range, it is dedicated to Lord Vishnu in the form of Kallazhagar. The temple plays a major role during the Chithirai Festival, when Lord Alagar is believed to visit Madurai. Surrounded by lush forests and natural beauty, it offers both spiritual serenity and scenic charm.\n\nIts location amidst hills makes it a combination of spirituality and natural retreat, perfect for devotees and nature lovers alike.",
-    "images": ["/assets/img/destination/new/Alagar-Koil.jpg"],
-    "mapEmbed": "https://www.google.com/maps/embed?pb=...alagar-koil-map...",
-    "faq": [
-      {
-        "title": "What is Alagar Koil famous for?",
-        "content": "It is known for its association with the Chithirai Festival and its stunning hilltop setting."
-      },
-      {
-        "title": "How far is it from Madurai?",
-        "content": "Alagar Koil is around 21 km from Madurai and accessible by road."
-      },
-      {
-        "title": "Is it a trekking spot?",
-        "content": "While the temple itself is motor-accessible, the surrounding hills are popular for light treks and nature walks."
+    },
+    {
+      "img": "/assets/img/destination/family/5.jpg",
+      "location": "Kanyakumari, Tamil Nadu",
+      "title": "Sunrise & Temple Tour in Kanyakumari",
+      "rating": "4.8",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$80.00",
+      "url": "family/Kanyakumari-Sunrise",
+      "innerpage": {
+        "header": "Sunrise & Temple Tour in Kanyakumari",
+        "tage": "Family Tour",
+        "img": "/assets/img/destination/family/5.jpg",
+        "description": "Witness the beautiful sunrise and visit iconic temples in Kanyakumari.",
+        "faq": [
+          {
+            "title": "When is the best time to see the sunrise?",
+            "content": "Early morning between 5:30 AM and 6:30 AM offers the best view."
+          },
+          {
+            "title": "Which temples are included?",
+            "content": "Kanyakumari Bhagavathy Amman Temple and Vivekananda Rock Memorial."
+          }
+        ]
       }
-    ]
-  },
-  "pazhamudhir-cholai": {
-    "title": "Sacred Hilltop Murugan Temple",
-    "description1": "Pazhamudhir Cholai is one of the six abodes of Lord Murugan, located on a lush hill near Madurai.",
-    "description2": "It is revered as a holy site and attracts devotees who climb the hill to seek blessings.",
-    "description3": "Situated amidst thick forests and waterfalls, Pazhamudhir Cholai temple is a peaceful shrine dedicated to Lord Murugan. It is unique as one of the Arupadai Veedu (six abodes of Murugan) mentioned in Tamil Sangam literature. The temple is not only a place of devotion but also a natural retreat, surrounded by greenery and flowing streams.\n\nThe serene atmosphere and religious significance make it a popular destination for both pilgrims and trekkers.",
-    "images": ["/assets/img/destination/new/Pazhamudhir-Cholai.jpg"],
-    "mapEmbed": "https://www.google.com/maps/embed?pb=...pazhamudhir-cholai-map...",
-    "faq": [
-      {
-        "title": "What is unique about Pazhamudhir Cholai?",
-        "content": "It is one of the six abodes of Lord Murugan and is located amidst hills and forests."
-      },
-      {
-        "title": "Is trekking required to reach the temple?",
-        "content": "The temple is accessible by road, but pilgrims also enjoy trekking through the scenic forest path."
-      },
-      {
-        "title": "When is the best time to visit?",
-        "content": "Visit from July to February when the weather is pleasant and greenery is abundant."
+    },
+    {
+      "img": "/assets/img/destination/family/6.jpg",
+      "location": "Kerala",
+      "title": "Kerala Houseboat & Munnar Tour",
+      "rating": "4.9",
+      "day": "6 Days",
+      "number": "35+",
+      "price": "$210.00",
+      "url": "family/Kerala-Houseboat-Munnar",
+      "innerpage": {
+        "header": "Kerala Houseboat & Munnar Tour",
+        "tage": "Family Tour",
+        "img": "/assets/img/destination/family/6.jpg",
+        "description": "Cruise the backwaters on a houseboat and explore Munnar’s tea plantations.",
+        "faq": [
+          {
+            "title": "Can we stay overnight on houseboats?",
+            "content": "Yes, overnight stay on traditional houseboats is included."
+          },
+          {
+            "title": "Best season for Munnar visit?",
+            "content": "September to March is ideal for greenery and pleasant weather."
+          }
+        ]
       }
-    ]
-  },
-  "koodal-azhagar-temple": {
-    "title": "Ancient Vaishnavite Shrine",
-    "description1": "Koodal Azhagar Temple in Madurai is a historic temple dedicated to Lord Vishnu in the form of Koodal Azhagar.",
-    "description2": "It is one of the 108 Divya Desams revered in Vaishnavite tradition and showcases classic Dravidian temple architecture.",
-    "description3": "Koodal Azhagar Temple, located in the heart of Madurai, holds immense religious significance. Lord Vishnu is worshiped here in sitting, standing, and reclining postures, symbolizing different aspects of divinity. The temple’s intricately carved vimana (tower) and vibrant sculptures reflect Dravidian artistry. Being one of the 108 Divya Desams, it attracts Vaishnavite devotees from across India.\n\nIts central location and architectural brilliance make it both a spiritual hub and a cultural landmark of Madurai.",
-    "images": ["/assets/img/destination/new/Koodal-Azhagar-Temple.jpg"],
-    "mapEmbed": "https://www.google.com/maps/embed?pb=...koodal-azhagar-map...",
-    "faq": [
-      {
-        "title": "What is special about Koodal Azhagar Temple?",
-        "content": "It is one of the 108 Divya Desams where Lord Vishnu is worshiped in three postures."
-      },
-      {
-        "title": "Is it centrally located?",
-        "content": "Yes, it is located within Madurai city and easily accessible."
-      },
-      {
-        "title": "When is the best time to visit?",
-        "content": "Mornings and evenings are ideal for a peaceful darshan."
+    },
+    {
+      "img": "/assets/img/destination/family/7.jpg",
+      "location": "Madurai, Tamil Nadu",
+      "title": "Cultural Heritage & Temple Walk",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$95.00",
+      "url": "family/Madurai-Cultural",
+      "innerpage": {
+        "header": "Cultural Heritage & Temple Walk",
+        "tage": "Heritage Tour",
+        "img": "/assets/img/destination/family/7.jpg",
+        "description": "Explore cultural heritage and temple architecture in Madurai.",
+        "faq": [
+          {
+            "title": "Are local guides provided?",
+            "content": "Yes, certified guides are included for temple and heritage walks."
+          },
+          {
+            "title": "Suitable for children?",
+            "content": "Yes, the tour is family-friendly."
+          }
+        ]
       }
-    ]
+    },
+    {
+      "img": "/assets/img/destination/family/8.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Rameshwaram & Dhanushkodi Adventure",
+      "rating": "4.6",
+      "day": "3 Days",
+      "number": "18+",
+      "price": "$100.00",
+      "url": "family/Rameshwaram-Adventure",
+      "innerpage": {
+        "header": "Rameshwaram & Dhanushkodi Adventure",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/family/8.jpg",
+        "description": "Experience adventure and spiritual heritage in Rameshwaram.",
+        "faq": [
+          {
+            "title": "What activities are included?",
+            "content": "Beach exploration, Dhanushkodi visit, and light trekking."
+          },
+          {
+            "title": "Is it safe for families?",
+            "content": "Yes, family-friendly safety measures are in place."
+          }
+        ]
+      }
+    }
+  ]
+,
+  
+  "marriage": [
+    {
+      "img": "/assets/img/destination/marriage/1.jpg",
+      "location": "Kanyakumari, Tamil Nadu",
+      "title": "Coastal Palace Wedding Experience",
+      "rating": "4.9",
+      "day": "5 Days",
+      "number": "50+",
+      "price": "$3500.00",
+      "url": "marriage/Kanyakumari-Coastal-Palace",
+      "innerpage": {
+        "header": "Coastal Palace Wedding Experience",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/1.jpg",
+        "description": "Experience a royal wedding by the coast with luxurious arrangements and scenic views.",
+        "faq": [
+          {
+            "title": "What is included in the package?",
+            "content": "Luxury accommodations, wedding setup, catering, and entertainment are included."
+          },
+          {
+            "title": "Is it suitable for large groups?",
+            "content": "Yes, the tour is designed for weddings with 50+ guests."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/2.jpg",
+      "location": "Ooty, Tamil Nadu",
+      "title": "Hill Station Romantic Wedding",
+      "rating": "4.8",
+      "day": "4 Days",
+      "number": "30+",
+      "price": "$3000.00",
+      "url": "marriage/Ooty-Romantic-Wedding",
+      "innerpage": {
+        "header": "Hill Station Romantic Wedding",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/2.jpg",
+        "description": "Celebrate your wedding in the cool hill station of Ooty with breathtaking views.",
+        "faq": [
+          {
+            "title": "Can we have an outdoor ceremony?",
+            "content": "Yes, multiple scenic outdoor locations are available for the ceremony."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Luxury accommodations for the wedding party are part of the package."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/3.jpg",
+      "location": "Madurai, Tamil Nadu",
+      "title": "Temple Heritage Wedding Celebration",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "25+",
+      "price": "$2500.00",
+      "url": "marriage/Madurai-Temple-Heritage",
+      "innerpage": {
+        "header": "Temple Heritage Wedding Celebration",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/3.jpg",
+        "description": "Host a beautiful heritage wedding amidst Madurai's historic temples.",
+        "faq": [
+          {
+            "title": "Are temple rituals included?",
+            "content": "Yes, traditional temple wedding rituals are arranged with guidance."
+          },
+          {
+            "title": "Is it suitable for families?",
+            "content": "Yes, the package is family-friendly and accommodates 25+ guests."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/4.jpg",
+      "location": "Alleppey, Kerala",
+      "title": "Backwater Wedding Cruise",
+      "rating": "4.8",
+      "day": "4 Days",
+      "number": "30+",
+      "price": "$3200.00",
+      "url": "marriage/Alleppey-Backwater-Cruise",
+      "innerpage": {
+        "header": "Backwater Wedding Cruise",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/4.jpg",
+        "description": "Celebrate your wedding on a luxurious houseboat cruising Kerala's backwaters.",
+        "faq": [
+          {
+            "title": "How many guests can the cruise accommodate?",
+            "content": "The houseboat can host 30+ guests comfortably for the wedding."
+          },
+          {
+            "title": "Are meals provided?",
+            "content": "Yes, catering with local cuisine is included on board."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/5.jpg",
+      "location": "Kochi, Kerala",
+      "title": "Fort Kochi Heritage Wedding",
+      "rating": "4.9",
+      "day": "5 Days",
+      "number": "40+",
+      "price": "$3800.00",
+      "url": "marriage/Kochi-Fort-Heritage",
+      "innerpage": {
+        "header": "Fort Kochi Heritage Wedding",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/5.jpg",
+        "description": "Enjoy a historic and elegant wedding experience in the charming Fort Kochi area.",
+        "faq": [
+          {
+            "title": "What historic sites are included?",
+            "content": "The wedding includes access to heritage buildings and coastal venues."
+          },
+          {
+            "title": "Is photography included?",
+            "content": "Yes, professional photography and videography are part of the package."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/6.jpg",
+      "location": "Munnar, Kerala",
+      "title": "Tea Plantation Romantic Wedding",
+      "rating": "4.8",
+      "day": "4 Days",
+      "number": "35+",
+      "price": "$3600.00",
+      "url": "marriage/Munnar-Tea-Wedding",
+      "innerpage": {
+        "header": "Tea Plantation Romantic Wedding",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/6.jpg",
+        "description": "Exchange vows surrounded by lush tea plantations and serene landscapes in Munnar.",
+        "faq": [
+          {
+            "title": "Is the ceremony outdoors?",
+            "content": "Yes, the wedding ceremony is held outdoors amidst the plantations."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Luxury accommodations for guests are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/7.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Beachfront Wedding Ceremony",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$2800.00",
+      "url": "marriage/Rameshwaram-Beachfront",
+      "innerpage": {
+        "header": "Beachfront Wedding Ceremony",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/7.jpg",
+        "description": "Have a romantic beachfront wedding ceremony in Rameshwaram with family and friends.",
+        "faq": [
+          {
+            "title": "Is it suitable for children?",
+            "content": "Yes, children are welcome and safe activities are included."
+          },
+          {
+            "title": "Are decorations included?",
+            "content": "Beach wedding decor and floral arrangements are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/8.jpg",
+      "location": "Varkala, Kerala",
+      "title": "Cliffside Beach Wedding",
+      "rating": "4.9",
+      "day": "4 Days",
+      "number": "25+",
+      "price": "$3300.00",
+      "url": "marriage/Varkala-Cliffside",
+      "innerpage": {
+        "header": "Cliffside Beach Wedding",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/8.jpg",
+        "description": "Celebrate your special day on the stunning cliffs overlooking the Varkala beach.",
+        "faq": [
+          {
+            "title": "Is the location private?",
+            "content": "Yes, the cliffside area is reserved exclusively for the wedding."
+          },
+          {
+            "title": "Does the package include catering?",
+            "content": "Yes, catering with local and continental cuisine is included."
+          }
+        ]
+      }
+    }
+  ]
+
+,
+  
+  "honeymoon": [
+    
+  {
+    "img": "/assets/img/honeymoon/1.jpg",
+    "location": "Kanyakumari, Tamil Nadu",
+    "title": "Romantic Coastal Sunset Tour",
+    "rating": "4.9",
+    "day": "5 Days",
+    "number": "2+",
+    "price": "$2000.00",
+    "url": "honeymoon/Kanyakumari-Romantic-Coastal",
+    "innerpage": {
+      "header": "Romantic Coastal Sunset Tour",
+      "tage": "Honeymoon Tour",
+      "img": "/assets/img/destination/honeymoon/1.jpg",
+      "description": "Enjoy a <strong>serene honeymoon along Kanyakumari’s coastline</strong> with breathtaking sunsets. Relax on pristine beaches, take a <strong>romantic sunset cruise</strong>, and savor candlelight dinners. Discover more about <a href='/kanyakumari-attractions' target='_blank'>Kanyakumari attractions</a> for couples seeking a memorable experience.",
+      "faq": [
+        {
+          "title": "What activities are included?",
+          "content": "Sunset cruises, beach walks, and candlelight dinners are included."
+        },
+        {
+          "title": "Is it suitable for couples?",
+          "content": "Yes, this tour is designed exclusively for couples."
+        },
+        {
+          "title": "Are accommodations included?",
+          "content": "Yes, luxury seaside accommodations are provided."
+        },
+        {
+          "title": "Is local transportation provided?",
+          "content": "Yes, transfers from the nearest station or airport are included."
+        }
+      ]
+    }
   },
-  "mariamman-teppakulam": {
-    "title": "Famous Temple Tank & Float Festival Site",
-    "description1": "Mariamman Teppakulam is a large temple tank in Madurai, associated with the Meenakshi Amman Temple.",
-    "description2": "It is famous for the annual Float Festival (Teppam), where deities are taken on decorated floats across the tank.",
-    "description3": "Built in the 17th century, Mariamman Teppakulam is one of the largest temple tanks in Tamil Nadu. Surrounded by steps on all sides, the tank is usually filled with water from the Vaigai River. Its main attraction is the grand Float Festival, celebrated in January or February, when idols of Meenakshi and Sundareswarar are taken out on a float illuminated with lights and decorations. The tank also serves as a popular relaxation spot for locals and tourists.\n\nThe vast waterbody, temple association, and cultural festival make it a unique attraction in Madurai.",
-    "images": ["/assets/img/destination/new/Teppakulam.jpg"],
-    "mapEmbed": "https://www.google.com/maps/embed?pb=...teppakulam-map...",
+  {
+    "img": "/assets/img/destination/honeymoon/2.jpg",
+    "location": "Ooty, Tamil Nadu",
+    "title": "Hill Station Couple Retreat",
+    "rating": "4.8",
+    "day": "4 Days",
+    "number": "2+",
+    "price": "$1800.00",
+    "url": "honeymoon/Ooty-Couple-Retreat",
+    "innerpage": {
+      "header": "Hill Station Couple Retreat",
+      "tage": "Honeymoon Tour",
+      "img": "/assets/img/destination/honeymoon/2.jpg",
+      "description": "Escape to <strong>Ooty’s scenic hills</strong> for a peaceful and romantic couple retreat. Enjoy <strong>luxury stays</strong>, nature walks, and charming viewpoints. Learn more about <a href='/ooty-attractions' target='_blank'>Ooty attractions</a> for couples.",
+      "faq": [
+        {
+          "title": "Are accommodations included?",
+          "content": "Yes, luxury accommodations with scenic views are included."
+        },
+        {
+          "title": "What is the best season to visit?",
+          "content": "October to March is ideal for pleasant weather and sightseeing."
+        },
+        {
+          "title": "Are guided nature walks included?",
+          "content": "Yes, guided walks through gardens and scenic spots are provided."
+        },
+        {
+          "title": "Is transportation included?",
+          "content": "Yes, airport and local transfers are included."
+        }
+      ]
+    }
+  }
+
+,
+    
+  {
+    "img": "/assets/img/destination/honeymoon/3.jpg",
+    "location": "Munnar, Kerala",
+    "title": "Tea Plantation Romantic Escape",
+    "rating": "4.9",
+    "day": "5 Days",
+    "number": "2+",
+    "price": "$2200.00",
+    "url": "honeymoon/Munnar-Tea-Romantic-Escape",
+    "innerpage": {
+      "header": "Tea Plantation Romantic Escape",
+      "tage": "Honeymoon Tour",
+      "img": "/assets/img/destination/honeymoon/3.jpg",
+      "description": "Enjoy a <strong>romantic escape amidst lush tea plantations</strong> in Munnar for a perfect honeymoon. Explore scenic hills, tea gardens, and waterfalls while indulging in <strong>private couple activities</strong>. Discover more about <a href='/munnar-attractions' target='_blank'>Munnar attractions</a> for an unforgettable experience.",
+      "faq": [
+        {
+          "title": "Can we have private activities?",
+          "content": "Yes, couples can enjoy private plantation walks and romantic dinners."
+        },
+        {
+          "title": "Are guided tours included?",
+          "content": "Yes, guided plantation and sightseeing tours are included."
+        },
+        {
+          "title": "Are meals included?",
+          "content": "Yes, local cuisine and tea-tasting sessions are provided."
+        },
+        {
+          "title": "Is transportation provided?",
+          "content": "Yes, transfers from the airport and local sightseeing are included."
+        }
+      ]
+    }
+  },
+  {
+    "img": "/assets/img/destination/honeymoon/4.jpg",
+    "location": "Alleppey, Kerala",
+    "title": "Backwater Houseboat Honeymoon",
+    "rating": "4.9",
+    "day": "4 Days",
+    "number": "2+",
+    "price": "$2100.00",
+    "url": "honeymoon/Alleppey-Backwater-Houseboat",
+    "innerpage": {
+      "header": "Backwater Houseboat Honeymoon",
+      "tage": "Honeymoon Tour",
+      "img": "/assets/img/destination/honeymoon/4.jpg",
+      "description": "Stay on a <strong>luxurious houseboat</strong> and enjoy the serene <strong>backwaters of Kerala</strong> for a romantic honeymoon. Cruise through scenic canals, watch sunsets, and relax on deck. Learn more about <a href='/alleppey-backwaters' target='_blank'>Alleppy backwater experiences</a>.",
+      "faq": [
+        {
+          "title": "Is full-board catering included?",
+          "content": "Yes, all meals and beverages are included on the houseboat."
+        },
+        {
+          "title": "Are houseboat rides private?",
+          "content": "Yes, the houseboat is exclusively for the honeymoon couple."
+        },
+        {
+          "title": "Are water activities included?",
+          "content": "Yes, you can enjoy kayaking and fishing in the backwaters."
+        },
+        {
+          "title": "Is transportation provided?",
+          "content": "Yes, pick-up and drop-off from the nearest station or airport is included."
+        }
+      ]
+    }
+  }
+
+,
+   {
+  "img": "/assets/img/destination/honeymoon/5.jpg",
+  "location": "Kochi, Kerala",
+  "title": "Heritage & Romantic Walk Tour",
+  "rating": "4.8",
+  "day": "3 Days",
+  "number": "2+",
+  "price": "$1900.00",
+  "url": "honeymoon/Kochi-Heritage-Romantic",
+  "innerpage": {
+    "header": "Heritage & Romantic Walk Tour",
+    "tage": "Honeymoon Tour",
+    "img": "/assets/img/destination/honeymoon/5.jpg",
+    "description": "Explore <strong>Kochi’s historic heritage sites</strong> and enjoy <strong>romantic walks</strong> along charming streets. Discover <a href='/kochi-attractions' target='_blank'>Kochi attractions</a> while experiencing local culture and scenic views, perfect for couples seeking both adventure and relaxation.",
     "faq": [
       {
-        "title": "What is the main event at Mariamman Teppakulam?",
-        "content": "The Float Festival (Teppam) in January/February is the highlight."
+        "title": "What sites are included?",
+        "content": "Fort Kochi, Mattancherry Palace, and the Chinese fishing nets are included."
       },
       {
-        "title": "Is the tank always filled with water?",
-        "content": "It usually holds water during monsoon and festival times, but may remain dry in summer."
+        "title": "Is the tour private?",
+        "content": "Yes, the tour is designed exclusively for couples."
       },
       {
-        "title": "How far is it from Meenakshi Temple?",
-        "content": "It is about 5 km from Meenakshi Amman Temple."
+        "title": "Are meals included?",
+        "content": "Yes, a selection of local cuisine meals are provided during the tour."
+      },
+      {
+        "title": "Is transportation provided?",
+        "content": "Yes, airport pick-up and local transfers are included for convenience."
       }
     ]
   }
+}
+,
+    {
+  "img": "/assets/img/destination/honeymoon/6.jpg",
+  "location": "Rameshwaram, Tamil Nadu",
+  "title": "Beachside Romantic Escape",
+  "rating": "4.7",
+  "day": "3 Days",
+  "number": "2+",
+  "price": "$1800.00",
+  "url": "honeymoon/Rameshwaram-Beachside-Romantic",
+  "innerpage": {
+    "header": "Beachside Romantic Escape",
+    "tage": "Honeymoon Tour",
+    "img": "/assets/img/destination/honeymoon/6.jpg",
+    "description": "Relax on the <strong>pristine beaches of Rameshwaram</strong> and enjoy a <strong>memorable honeymoon</strong> with luxury accommodations. Explore <a href='/rameshwaram-attractions' target='_blank'>Rameshwaram attractions</a> and make your romantic escape unforgettable with private beach experiences and scenic views.",
+    "faq": [
+      {
+        "title": "Are water activities included?",
+        "content": "Yes, safe water sports and beach activities are included."
+      },
+      {
+        "title": "Can we customize the itinerary?",
+        "content": "Yes, couples can customize activities according to preferences."
+      },
+      {
+        "title": "Is transportation provided?",
+        "content": "Yes, airport pickups and local transfers are included in the package."
+      },
+      {
+        "title": "Are romantic dinners arranged?",
+        "content": "Yes, private beachside or in-room dinners are arranged upon request."
+      }
+    ]
+  }
+}
+,
+   {
+  "img": "/assets/img/destination/honeymoon/7.jpg",
+  "location": "Varkala, Kerala",
+  "title": "Cliffside Honeymoon Retreat",
+  "rating": "4.9",
+  "day": "4 Days",
+  "number": "2+",
+  "price": "$2000.00",
+  "url": "honeymoon/Varkala-Cliffside-Honeymoon",
+  "innerpage": {
+    "header": "Cliffside Honeymoon Retreat",
+    "tage": "Honeymoon Tour",
+    "img": "/assets/img/destination/honeymoon/7.jpg",
+    "description": "Enjoy a <strong>romantic cliffside retreat</strong> with breathtaking views of <strong>Varkala Beach</strong>. Perfect for honeymooners, this retreat offers privacy, luxury, and direct access to the pristine coastline. Learn more about <a href='/varkala-beach-guide' target='_blank'>Varkala attractions</a> to enhance your romantic getaway.",
+    "faq": [
+      {
+        "title": "Is the location private?",
+        "content": "Yes, the cliffside retreat is reserved exclusively for couples."
+      },
+      {
+        "title": "Does the package include meals?",
+        "content": "Yes, meals and beverages are included."
+      },
+      {
+        "title": "Are transportation services provided?",
+        "content": "Yes, airport transfers and local transportation are included."
+      },
+      {
+        "title": "Are there activities for couples?",
+        "content": "Yes, guided beach walks, spa sessions, and sunset cruises are included."
+      }
+    ]
+  }
+}
+,
+   {
+  "img": "/assets/img/destination/honeymoon/8.jpg",
+  "location": "Madurai, Tamil Nadu",
+  "title": "Temple & Cultural Couple Tour",
+  "rating": "4.7",
+  "day": "3 Days",
+  "number": "2+",
+  "price": "$1700.00",
+  "url": "honeymoon/Madurai-Temple-Cultural",
+  "innerpage": {
+    "header": "Temple & Cultural Couple Tour",
+    "tage": "Honeymoon Tour",
+    "img": "/assets/img/destination/honeymoon/8.jpg",
+    "description": "Experience a <strong>romantic couple getaway</strong> while exploring the <strong>cultural heritage of Madurai</strong>. Visit iconic temples like the <strong>Meenakshi Amman Temple</strong> and enjoy immersive cultural experiences. Discover detailed insights on <a href='/madurai-temple-guide' target='_blank'>Madurai's temples and heritage sites</a> to enrich your romantic journey.",
+    "faq": [
+      {
+        "title": "Which temples are included?",
+        "content": "Meenakshi Temple and other local cultural sites are included."
+      },
+      {
+        "title": "Is guided tour available?",
+        "content": "Yes, private guides for cultural insights are included."
+      },
+      {
+        "title": "Are accommodations included?",
+        "content": "Yes, stay in nearby hotels with couple-friendly amenities is provided."
+      },
+      {
+        "title": "Are meals included?",
+        "content": "Yes, traditional South Indian meals are included during the tour."
+      }
+    ]
+  }
+}
+
+  ]
+
+,
+  
+  "corporate": [
+    {
+      "img": "/assets/img/destination/corporate/1.jpg",
+      "location": "Chennai, Tamil Nadu",
+      "title": "Team Building & City Conference",
+      "rating": "4.8",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$1500.00",
+      "url": "corporate/Chennai-Team-Building",
+      "innerpage": {
+        "header": "Team Building & City Conference",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/1.jpg",
+        "description": "Engage in team-building activities while exploring Chennai’s city attractions.",
+        "faq": [
+          {
+            "title": "What team-building activities are included?",
+            "content": "Workshops, problem-solving exercises, and city scavenger hunts."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Yes, hotels with conference facilities are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/2.jpg",
+      "location": "Coimbatore, Tamil Nadu",
+      "title": "Industrial & Workshop Retreat",
+      "rating": "4.7",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$1200.00",
+      "url": "corporate/Coimbatore-Industrial-Retreat",
+      "innerpage": {
+        "header": "Industrial & Workshop Retreat",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/2.jpg",
+        "description": "Enhance your team’s skills with industrial visits and focused workshops in Coimbatore.",
+        "faq": [
+          {
+            "title": "Are workshops customized?",
+            "content": "Yes, workshops can be tailored to your team’s objectives."
+          },
+          {
+            "title": "Is transportation provided?",
+            "content": "Yes, transportation to sites and venues is included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/3.jpg",
+      "location": "Ooty, Tamil Nadu",
+      "title": "Hill Station Corporate Retreat",
+      "rating": "4.9",
+      "day": "4 Days",
+      "number": "25+",
+      "price": "$2000.00",
+      "url": "corporate/Ooty-Hill-Station-Retreat",
+      "innerpage": {
+        "header": "Hill Station Corporate Retreat",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/3.jpg",
+        "description": "Relax and bond as a team amidst the scenic hills of Ooty with corporate activities.",
+        "faq": [
+          {
+            "title": "Are team-bonding sessions included?",
+            "content": "Yes, sessions include outdoor exercises and collaborative tasks."
+          },
+          {
+            "title": "Is catering included?",
+            "content": "Yes, all meals and refreshments are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/4.jpg",
+      "location": "Kochi, Kerala",
+      "title": "Backwater Corporate Conference",
+      "rating": "4.8",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$1800.00",
+      "url": "corporate/Kochi-Backwater-Conference",
+      "innerpage": {
+        "header": "Backwater Corporate Conference",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/4.jpg",
+        "description": "Conduct corporate meetings and conferences while enjoying the serene backwaters of Kochi.",
+        "faq": [
+          {
+            "title": "Are conference facilities included?",
+            "content": "Yes, fully-equipped conference halls are provided."
+          },
+          {
+            "title": "Can we organize team activities?",
+            "content": "Yes, optional backwater team activities are available."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/5.jpg",
+      "location": "Munnar, Kerala",
+      "title": "Team Retreat in Tea Plantations",
+      "rating": "4.9",
+      "day": "4 Days",
+      "number": "15+",
+      "price": "$2200.00",
+      "url": "corporate/Munnar-Tea-Retreat",
+      "innerpage": {
+        "header": "Team Retreat in Tea Plantations",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/5.jpg",
+        "description": "Combine corporate team-building with relaxation in Munnar’s beautiful tea plantations.",
+        "faq": [
+          {
+            "title": "Are outdoor team activities included?",
+            "content": "Yes, trekking and plantation-based exercises are included."
+          },
+          {
+            "title": "Is accommodation provided on-site?",
+            "content": "Yes, stays in comfortable lodges or resorts are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/6.jpg",
+      "location": "Trivandrum, Kerala",
+      "title": "Beachside Corporate Workshop",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$1700.00",
+      "url": "corporate/Trivandrum-Beachside-Workshop",
+      "innerpage": {
+        "header": "Beachside Corporate Workshop",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/6.jpg",
+        "description": "Conduct corporate workshops by the beach, combining learning and relaxation.",
+        "faq": [
+          {
+            "title": "Are workshops included?",
+            "content": "Yes, all professional workshops and sessions are provided."
+          },
+          {
+            "title": "Is leisure time included?",
+            "content": "Yes, participants have free time to relax at the beach."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/7.jpg",
+      "location": "Madurai, Tamil Nadu",
+      "title": "Cultural Heritage Corporate Tour",
+      "rating": "4.6",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$1400.00",
+      "url": "corporate/Madurai-Cultural-Corporate",
+      "innerpage": {
+        "header": "Cultural Heritage Corporate Tour",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/7.jpg",
+        "description": "Experience corporate retreats while exploring Madurai’s cultural heritage.",
+        "faq": [
+          {
+            "title": "What cultural activities are included?",
+            "content": "Temple visits, heritage walks, and local interaction sessions."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Yes, stay in local hotels with corporate facilities."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/8.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Beachside Team Retreat & Adventure",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "18+",
+      "price": "$1600.00",
+      "url": "corporate/Rameshwaram-Beach-Team-Retreat",
+      "innerpage": {
+        "header": "Beachside Team Retreat & Adventure",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/8.jpg",
+        "description": "Combine team-building exercises with adventurous beach activities in Rameshwaram.",
+        "faq": [
+          {
+            "title": "Are adventure activities included?",
+            "content": "Yes, water sports and beach challenges are part of the program."
+          },
+          {
+            "title": "Is catering included?",
+            "content": "Yes, meals and refreshments are provided."
+          }
+        ]
+      }
+    }
+  ]
+
+,
+  
+  "adventure": [
+    {
+      "img": "/assets/img/destination/adventure/01.jpg",
+      "location": "Kodaikanal, Tamil Nadu",
+      "title": "Hill Trekking & Camping Adventure",
+      "rating": "4.8",
+      "day": "3 Days",
+      "number": "15+",
+      "price": "$250.00",
+      "url": "adventure/Kodaikanal-Trekking",
+      "innerpage": {
+        "header": "Hill Trekking & Camping Adventure",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/01.jpg",
+        "description": "Experience thrilling hill trekking and overnight camping in Kodaikanal’s scenic landscapes.",
+        "faq": [
+          {
+            "title": "What is included in the trekking package?",
+            "content": "Guided trekking, camping equipment, and meals are included."
+          },
+          {
+            "title": "Is prior experience required?",
+            "content": "No, both beginners and experienced trekkers are welcome."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/02.jpg",
+      "location": "Munnar, Kerala",
+      "title": "Tea Plantation Trek & Rafting",
+      "rating": "4.9",
+      "day": "4 Days",
+      "number": "20+",
+      "price": "$300.00",
+      "url": "adventure/Munnar-Trek-Rafting",
+      "innerpage": {
+        "header": "Tea Plantation Trek & Rafting",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/02.jpg",
+        "description": "Trek through lush tea plantations and enjoy thrilling river rafting in Munnar.",
+        "faq": [
+          {
+            "title": "Is rafting included for beginners?",
+            "content": "Yes, safety equipment and instructors are provided for all skill levels."
+          },
+          {
+            "title": "Are meals provided?",
+            "content": "Yes, breakfast, lunch, and dinner are included during the tour."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/03.jpg",
+      "location": "Ooty, Tamil Nadu",
+      "title": "Hill Station Hiking & Adventure Sports",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "18+",
+      "price": "$280.00",
+      "url": "adventure/Ooty-Hiking-Adventure",
+      "innerpage": {
+        "header": "Hill Station Hiking & Adventure Sports",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/03.jpg",
+        "description": "Combine scenic hikes with adventure sports like rock climbing and ziplining in Ooty.",
+        "faq": [
+          {
+            "title": "What adventure sports are included?",
+            "content": "Rock climbing, ziplining, and guided hiking trails are included."
+          },
+          {
+            "title": "Are safety measures provided?",
+            "content": "Yes, all activities are supervised by trained instructors."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/04.jpg",
+      "location": "Alleppey, Kerala",
+      "title": "Backwater Kayaking & Canoeing",
+      "rating": "4.8",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$200.00",
+      "url": "adventure/Alleppey-Kayaking",
+      "innerpage": {
+        "header": "Backwater Kayaking & Canoeing",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/04.jpg",
+        "description": "Explore the serene backwaters of Alleppey with kayaking and canoeing adventures.",
+        "faq": [
+          {
+            "title": "Is prior experience required?",
+            "content": "No, instructors guide you through kayaking and canoeing sessions."
+          },
+          {
+            "title": "Are boats provided?",
+            "content": "Yes, all necessary equipment and boats are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/05.jpg",
+      "location": "Kanyakumari, Tamil Nadu",
+      "title": "Beachside Adventure & Water Sports",
+      "rating": "4.7",
+      "day": "2 Days",
+      "number": "12+",
+      "price": "$180.00",
+      "url": "adventure/Kanyakumari-Beach-Adventure",
+      "innerpage": {
+        "header": "Beachside Adventure & Water Sports",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/05.jpg",
+        "description": "Enjoy thrilling water sports and beach activities in Kanyakumari.",
+        "faq": [
+          {
+            "title": "What water sports are available?",
+            "content": "Jet skiing, banana boat rides, and snorkeling are included."
+          },
+          {
+            "title": "Is safety equipment provided?",
+            "content": "Yes, life jackets and professional guidance are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/06.jpg",
+      "location": "Wayanad, Kerala",
+      "title": "Jungle Trekking & Wildlife Safari",
+      "rating": "4.9",
+      "day": "3 Days",
+      "number": "15+",
+      "price": "$270.00",
+      "url": "adventure/Wayanad-Jungle-Trekking",
+      "innerpage": {
+        "header": "Jungle Trekking & Wildlife Safari",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/06.jpg",
+        "description": "Experience dense jungle trekking and spot wildlife on guided safaris in Wayanad.",
+        "faq": [
+          {
+            "title": "Are safaris guided?",
+            "content": "Yes, trained wildlife guides accompany the group."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Yes, stays in jungle lodges are provided."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/07.jpg",
+      "location": "Coorg, Kerala",
+      "title": "River Rafting & Hill Adventure",
+      "rating": "4.8",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$290.00",
+      "url": "adventure/Coorg-Rafting-Hills",
+      "innerpage": {
+        "header": "River Rafting & Hill Adventure",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/07.jpg",
+        "description": "Experience river rafting and hill adventures combined with scenic views in Coorg.",
+        "faq": [
+          {
+            "title": "Is rafting suitable for beginners?",
+            "content": "Yes, instructors provide guidance for all skill levels."
+          },
+          {
+            "title": "Are meals provided?",
+            "content": "Yes, all meals during the tour are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/08.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Dhanushkodi Coastal Adventure",
+      "rating": "4.7",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$200.00",
+      "url": "adventure/Rameshwaram-Coastal-Adventure",
+      "innerpage": {
+        "header": "Dhanushkodi Coastal Adventure",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/08.jpg",
+        "description": "Explore the coastal region of Dhanushkodi with thrilling adventure activities.",
+        "faq": [
+          {
+            "title": "What adventure activities are included?",
+            "content": "Beach trekking, coastal exploration, and light water sports."
+          },
+          {
+            "title": "Is transportation provided?",
+            "content": "Yes, local transportation for activities is included."
+          }
+        ]
+      }
+    }
+  ]
+
+,
+  
+  "pilgrimage": [
+    {
+  "img": "/assets/img/destination/pilgrimage/01.jpg",
+  "location": "Rameshwaram, Tamil Nadu",
+  "title": "Rameshwaram Pilgrimage & Temple Tour",
+  "rating": "4.9",
+  "day": "3 Days",
+  "number": "20+",
+  "price": "$120.00",
+  "url": "pilgrimage/Rameshwaram-Temple-Tour",
+  "innerpage": {
+    "header": "Rameshwaram Pilgrimage & Temple Tour",
+    "tage": "Pilgrimage Tour",
+    "img": "/assets/img/destination/pilgrimage/01.jpg",
+    "description": "Embark on a <strong>spiritual journey</strong> through the <strong>sacred temples of Rameshwaram</strong>, including the renowned <strong>Ramanathaswamy Temple</strong>. Explore ancient rituals, stunning architecture, and the spiritual significance of this <strong>holy pilgrimage destination</strong>. Learn more about the <a href='/rameshwaram-temple-guide' target='_blank'>Rameshwaram heritage temples</a> to enhance your cultural experience.",
+    "faq": [
+      {
+        "title": "Which temples are included in the tour?",
+        "content": "Ramanathaswamy Temple and nearby heritage temples are covered."
+      },
+      {
+        "title": "Are accommodations provided?",
+        "content": "Yes, stays near the temple complex are included."
+      },
+      {
+        "title": "Is transportation included?",
+        "content": "Yes, local transportation between temples is provided."
+      },
+      {
+        "title": "Are vegetarian meals included?",
+        "content": "Yes, traditional South Indian vegetarian meals are included during the tour."
+      }
+    ]
+  }
+}
+,
+   {
+  "img": "/assets/img/destination/pilgrimage/02.jpg",
+  "location": "Madurai, Tamil Nadu",
+  "title": "Meenakshi Amman Temple & Heritage Walk",
+  "rating": "4.8",
+  "day": "2 Days",
+  "number": "15+",
+  "price": "$100.00",
+  "url": "pilgrimage/Madurai-Temple-Walk",
+  "innerpage": {
+    "header": "Meenakshi Amman Temple & Heritage Walk",
+    "tage": "Pilgrimage Tour",
+    "img": "/assets/img/destination/pilgrimage/02.jpg",
+    "description": "Discover the <strong>iconic Meenakshi Amman Temple</strong> and immerse yourself in the <strong>rich cultural heritage</strong> of Madurai. Experience the detailed carvings, traditional rituals, and the historical significance of this <strong>magnificent temple</strong>. Learn more about the <a href='/madurai-temple-guide' target='_blank'>Madurai heritage sites</a> and enjoy an unforgettable spiritual and cultural journey.",
+    "faq": [
+      {
+        "title": "Is a guide provided for the heritage walk?",
+        "content": "Yes, a knowledgeable guide will explain historical and cultural details."
+      },
+      {
+        "title": "Are meals included?",
+        "content": "Yes, traditional South Indian meals are included."
+      },
+      {
+        "title": "Is photography allowed inside the temple?",
+        "content": "Yes, photography is allowed in designated areas."
+      },
+      {
+        "title": "Are local souvenirs available?",
+        "content": "Yes, you can purchase authentic local handicrafts and souvenirs near the temple."
+      }
+    ]
+  }
+}
+,
+    {
+  "img": "/assets/img/destination/pilgrimage/03.jpg",
+  "location": "Kanyakumari, Tamil Nadu",
+  "title": "Kanyakumari Sunrise & Temple Tour",
+  "rating": "4.7",
+  "day": "2 Days",
+  "number": "15+",
+  "price": "$90.00",
+  "url": "pilgrimage/Kanyakumari-Sunrise-Temple",
+  "innerpage": {
+    "header": "Kanyakumari Sunrise & Temple Tour",
+    "tage": "Pilgrimage Tour",
+    "img": "/assets/img/destination/pilgrimage/03.jpg",
+    "description": "Experience the <strong>breathtaking sunrise</strong> at Kanyakumari and visit <strong>famous temples</strong>. Explore the spiritual heritage, enjoy scenic coastal views, and participate in traditional rituals. Learn more about the <a href='/kanyakumari-temples' target='_blank'>temples of Kanyakumari</a> and enhance your cultural experience during this <strong>enlightening pilgrimage tour</strong>.",
+    "faq": [
+      {
+        "title": "What is the best time to visit?",
+        "content": "Early morning during sunrise offers the most spectacular view."
+      },
+      {
+        "title": "Are temple entry fees included?",
+        "content": "Yes, all entry fees are covered in the package."
+      },
+      {
+        "title": "Is transportation included?",
+        "content": "Yes, transport between temples and sightseeing spots is provided."
+      },
+      {
+        "title": "Can I join for photography?",
+        "content": "Yes, the tour allows ample time for photography of sunrise and temple architecture."
+      }
+    ]
+  }
+}
+,
+   {
+  "img": "/assets/img/destination/pilgrimage/04.jpg",
+  "location": "Sabarimala, Kerala",
+  "title": "Sabarimala Temple Pilgrimage",
+  "rating": "4.9",
+  "day": "3 Days",
+  "number": "20+",
+  "price": "$150.00",
+  "url": "pilgrimage/Sabarimala-Temple",
+  "innerpage": {
+    "header": "Sabarimala Temple Pilgrimage",
+    "tage": "Pilgrimage Tour",
+    "img": "/assets/img/destination/pilgrimage/04.jpg",
+    "description": "Join the <strong>sacred Sabarimala pilgrimage</strong> and witness <strong>ancient rituals and spiritual practices</strong>. Explore the surrounding landscapes, attend <a href='/sabarimala-festivals' target='_blank'>festivals and ceremonies</a>, and deepen your <strong>faith and devotion</strong>. Perfect for travelers seeking a meaningful spiritual journey in Kerala.",
+    "faq": [
+      {
+        "title": "Is special attire required?",
+        "content": "Yes, traditional pilgrimage attire such as black or blue clothing is recommended for all participants."
+      },
+      {
+        "title": "Are accommodations provided?",
+        "content": "Yes, comfortable stays near the temple area are included in the package."
+      },
+      {
+        "title": "What is the best season to visit Sabarimala?",
+        "content": "The best time is during the Mandala-Makaravilakku season from November to January when rituals are at their peak."
+      },
+      {
+        "title": "Is local transportation available?",
+        "content": "Yes, transport from the base town to the temple and back is arranged for all pilgrims."
+      }
+    ]
+  }
+}
+,
+    {
+  "img": "/assets/img/destination/pilgrimage/05.jpg",
+  "location": "Thrissur, Kerala",
+  "title": "Vadakkumnathan Temple & Cultural Tour",
+  "rating": "4.8",
+  "day": "2 Days",
+  "number": "15+",
+  "price": "$120.00",
+  "url": "pilgrimage/Thrissur-Vadakkumnathan-Tour",
+  "innerpage": {
+    "header": "Vadakkumnathan Temple & Cultural Tour",
+    "tage": "Pilgrimage Tour",
+    "img": "/assets/img/destination/pilgrimage/05.jpg",
+    "description": "Discover the <strong>historic Vadakkumnathan Temple</strong> in Thrissur and immerse yourself in the region's <strong>rich cultural heritage</strong>. Attend <strong>traditional rituals</strong>, witness vibrant <a href='/cultural-events/thrissur' target='_blank'>cultural performances</a>, and explore the spiritual and artistic traditions that make this pilgrimage unique. Ideal for travelers seeking <strong>devotion, culture, and authentic Kerala experiences</strong>.",
+    "faq": [
+      {
+        "title": "Are cultural performances included?",
+        "content": "Yes, you can attend traditional temple rituals and vibrant cultural shows organized at the temple."
+      },
+      {
+        "title": "Is transportation provided?",
+        "content": "Yes, local transportation to and from the temple and nearby cultural sites is included."
+      },
+      {
+        "title": "What is the best time to visit Vadakkumnathan Temple?",
+        "content": "The best time is from October to February, during pleasant weather and cultural festival seasons."
+      },
+      {
+        "title": "Are guided tours available?",
+        "content": "Yes, knowledgeable guides provide insights about the temple's history, architecture, and rituals."
+      }
+    ]
+  }
+}
+,
+    {
+  "img": "/assets/img/destination/pilgrimage/06.jpg",
+  "location": "Palani, Tamil Nadu",
+  "title": "Palani Murugan Temple Pilgrimage",
+  "rating": "4.7",
+  "day": "2 Days",
+  "number": "12+",
+  "price": "$100.00",
+  "url": "pilgrimage/Palani-Temple",
+  "innerpage": {
+    "header": "Palani Murugan Temple Pilgrimage",
+    "tage": "Pilgrimage Tour",
+    "img": "/assets/img/destination/pilgrimage/06.jpg",
+    "description": "Experience a <strong>spiritual journey</strong> to the famous <strong>Palani Murugan Temple</strong>, one of Tamil Nadu's most revered pilgrimage sites. Participate in <strong>traditional rituals</strong>, explore the <a href='/temples/palani' target='_blank'>temple complex</a>, and enjoy the serene atmosphere of the hill shrine. Perfect for travelers seeking <strong>devotion, culture, and a memorable religious experience</strong> in South India.",
+    "faq": [
+      {
+        "title": "Are guided tours available?",
+        "content": "Yes, local guides provide detailed insights about the temple, its history, and cultural significance."
+      },
+      {
+        "title": "Are meals included?",
+        "content": "Yes, vegetarian meals are provided during the pilgrimage to keep you energized."
+      },
+      {
+        "title": "What is the best time to visit Palani?",
+        "content": "The ideal time is from October to March when the weather is pleasant for pilgrimage activities."
+      },
+      {
+        "title": "Is transportation provided?",
+        "content": "Yes, local transport to and from the temple is arranged for all participants."
+      }
+    ]
+  }
+}
+,
+   {
+  "img": "/assets/img/destination/pilgrimage/07.jpg",
+  "location": "Alleppey, Kerala",
+  "title": "Backwater Temple & Spiritual Retreat",
+  "rating": "4.6",
+  "day": "3 Days",
+  "number": "15+",
+  "price": "$140.00",
+  "url": "pilgrimage/Alleppey-Temple-Retreat",
+  "innerpage": {
+    "header": "Backwater Temple & Spiritual Retreat",
+    "tage": "Pilgrimage Tour",
+    "img": "/assets/img/destination/pilgrimage/07.jpg",
+    "description": "Immerse yourself in the <strong>tranquil beauty of Alleppey's backwaters</strong> while embarking on a <strong>spiritual journey</strong>. This three-day pilgrimage tour combines visits to <a href='/temples' target='_blank'>ancient temples</a> with serene boat rides through the iconic Kerala backwaters. Experience <strong>guided meditation sessions</strong>, local rituals, and the <strong>cultural heritage</strong> of this peaceful region. Perfect for travelers seeking <strong>relaxation, spiritual growth, and a unique cultural experience</strong> in the heart of Kerala.",
+    "faq": [
+      {
+        "title": "Is meditation included?",
+        "content": "Yes, guided meditation sessions are included daily to help you connect with the spiritual essence of the retreat."
+      },
+      {
+        "title": "Are accommodations included?",
+        "content": "Yes, comfortable stays in nearby lodges or homestays are provided, ensuring convenience and comfort."
+      },
+      {
+        "title": "What is the best time to visit Alleppey?",
+        "content": "The ideal time is from November to February when the weather is cool and ideal for backwater activities."
+      },
+      {
+        "title": "Are meals provided during the retreat?",
+        "content": "Yes, traditional Kerala meals are included, giving you a taste of local flavors and cuisine."
+      }
+    ]
+  }
+}
+,
+    {
+  "img": "/assets/img/destination/pilgrimage/08.jpg",
+  "location": "Rameshwaram, Tamil Nadu",
+  "title": "Dhanushkodi & Coastal Pilgrimage Tour",
+  "rating": "4.8",
+  "day": "2 Days",
+  "number": "15+",
+  "price": "$110.00",
+  "url": "pilgrimage/Dhanushkodi-Coastal-Pilgrimage",
+  "innerpage": {
+    "header": "Dhanushkodi & Coastal Pilgrimage Tour",
+    "tage": "Pilgrimage Tour",
+    "img": "/assets/img/destination/pilgrimage/08.jpg",
+    "description": "Experience the serene beauty and spiritual significance of Dhanushkodi on this two-day pilgrimage tour. Walk along the pristine coastline, visit sacred temples, and witness the stunning sunrise over the Bay of Bengal. Ideal for travelers seeking a mix of spirituality, nature, and cultural exploration, this tour also offers guided insights into the history and legends of the region. Perfect for families, solo travelers, and photography enthusiasts looking to capture the essence of South India's coastal heritage.",
+    "faq": [
+      {
+        "title": "Is transportation included?",
+        "content": "Yes, local transport between all pilgrimage sites is provided, including pick-up and drop-off from your accommodation."
+      },
+      {
+        "title": "Are meals included?",
+        "content": "Yes, traditional meals are provided during the tour, ensuring you experience local flavors."
+      },
+      {
+        "title": "What is the best time to visit Dhanushkodi?",
+        "content": "The ideal time is from October to March when the weather is pleasant and ideal for sightseeing and coastal walks."
+      },
+      {
+        "title": "Are guides available for historical insights?",
+        "content": "Yes, knowledgeable guides accompany the tour, providing historical context and stories about Dhanushkodi and its temples."
+      }
+    ]
+  }
+}
+
+  ]
+
+
+  
 }

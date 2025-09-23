@@ -16,6 +16,7 @@ type TourItem = {
   day: string;
   number: string;
   price: string;
+  url?:string
 };
 
 type DestinationData = {
@@ -67,9 +68,9 @@ export default function DestinationPageClient() {
                 Popular Destination we offer for all
               </h2>
             </div>
-            <Link href="/tour/tour-details" className="theme-btn wow fadeInUp wow" data-wow-delay=".5s">
+            {/* <Link href="/tour/tour-details" className="theme-btn wow fadeInUp wow" data-wow-delay=".5s">
               View All Tour<i className="bi bi-arrow-right"></i>
-            </Link>
+            </Link> */}
           </div>
 
           <div className="row">
@@ -95,16 +96,21 @@ export default function DestinationPageClient() {
                     <h5>
                       <Link href="/tour/tour-details">{item.title}</Link>
                     </h5>
-                    <ul className="info">
+                    {/* <ul className="info">
                       <li><i className="bi bi-clock"></i> {item.day}</li>
                       <li><i className="bi bi-person"></i> {item.number}</li>
-                    </ul>
-                    <div className="price">
-                      <h6>{item.price}<span>/Per day</span></h6>
-                      <Link href="/tour/tour-details" className="theme-btn style-2">
-                        Book Now<i className="bi bi-arrow-right"></i>
-                      </Link>
-                    </div>
+                    </ul> */}
+              <div className="price">
+  {item.url ? (
+    <Link href={`./${item.url}`} className="theme-btn style-2">
+      View More <i className="bi bi-arrow-right"></i>
+    </Link>
+  ) : (
+    <span className="text-muted">Details not available</span>
+  )}
+</div>
+
+
                   </div>
                 </div>
               </div>

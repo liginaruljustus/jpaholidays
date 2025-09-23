@@ -1,0 +1,120 @@
+import Image from "next/image";
+import React from "react";
+import Faq1 from "./FAQ1"; // import your FAQ component
+
+type FAQ = { title: string; content: string };
+
+type InnerPage = {
+  header: string;
+  tage: string;
+  img: string;
+  description: string;
+  faq?: FAQ[];
+};
+
+type Props = {
+  innerpage?: InnerPage | null;
+};
+
+const DestinationDetails = ({ innerpage }: Props) => {
+  if (!innerpage) {
+    return <h1>Destination details not found</h1>;
+  }
+
+  const faqForAccordion = innerpage.faq?.map((item) => ({
+    title: item.title,
+    content: item.content,
+  }));
+
+  return (
+    <section className="destination-details-section fix section-padding">
+      <div className="container">
+        <div className="destination-details-wrapper">
+          <div className="row g-4">
+            {/* Main Content */}
+            <div className="col-lg-8">
+              <div className="destination-details-items">
+                <div className="row g-4">
+                  {innerpage.img && (
+                    <div className="col-lg-6">
+                      <div className="details-image mb-4">
+                        <Image
+                          src={innerpage.img}
+                          alt={innerpage.header}
+                          width={856}
+                          height={550}
+                        />
+                      </div>
+                    </div>
+                  )}
+                  <div className="col-lg-6">
+                    <div className="details-content">
+                      <h2>{innerpage.header}</h2>
+                      <p className="mb-2">
+                        <strong>Type:</strong> {innerpage.tage}
+                      </p>
+                      <div
+                        className="mt-3"
+                        dangerouslySetInnerHTML={{ __html: innerpage.description }}
+                      ></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Sidebar */}
+            <div className="col-lg-4">
+              <div className="main-sideber">
+                <div className="single-sidebar-widget">
+                  <div className="wid-title">
+                    <h4>Contact for Booking</h4>
+                  </div>
+                  <div className="desti-booking-form">
+                    <form action="#" method="POST">
+                      <div className="row g-4">
+                        <div className="col-lg-12">
+                          <div className="form-clt">
+                            <input type="text" name="name" placeholder="Your Name" />
+                          </div>
+                        </div>
+                        <div className="col-lg-12">
+                          <div className="form-clt">
+                            <input type="text" name="email" placeholder="Your Email" />
+                          </div>
+                        </div>
+                        <div className="col-lg-12">
+                          <div className="form-clt">
+                            <textarea
+                              name="message"
+                              placeholder="Type Comment Here"
+                            ></textarea>
+                          </div>
+                        </div>
+                        <div className="col-lg-12">
+                          <button type="submit" className="theme-btn text-center">
+                            Send Now <i className="bi bi-arrow-right"></i>
+                          </button>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {/* End Sidebar */}
+          </div>
+
+          {/* FAQ Section – render after the entire row */}
+          {faqForAccordion && faqForAccordion.length > 0 && (
+            <div className="mt-5">
+              <Faq1 faq={faqForAccordion} />
+            </div>
+          )}
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default DestinationDetails;

@@ -7,6 +7,7 @@ type FAQ = {
   content: string;
 };
 
+
 type Props = {
   faq: FAQ[];
 };

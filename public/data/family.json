@@ -1,5 +1,6 @@
 {
-   "family": [
+   
+  "family": [
     {
       "img": "/assets/img/destination/family/1.jpg",
       "location": "Kanyakumari, Tamil Nadu",
@@ -7,7 +8,32 @@
       "rating": "4.8",
       "day": "5 Days",
       "number": "30+",
-      "price": "$120.00"
+      "price": "$120.00",
+      "url": "family/Kanyakumari",
+      "innerpage": {
+        "header": "Kanyakumari Coastal Family Tour",
+        "tage": "Family Tour",
+        "img": "/assets/img/destination/family/1.jpg",
+        "description": "Enjoy a scenic coastal family tour in Kanyakumari.",
+        "faq": [
+          {
+            "title": "What is the best time to visit Kanyakumari?",
+            "content": "The best time to visit is from October to March when the weather is pleasant for sightseeing and beach activities."
+          },
+          {
+            "title": "How can I reach Kanyakumari?",
+            "content": "Kanyakumari is well-connected by road, rail, and the nearest airport is Trivandrum International Airport (around 90 km away)."
+          },
+          {
+            "title": "What are the top attractions?",
+            "content": "Top attractions include Vivekananda Rock Memorial, Thiruvalluvar Statue, Kanyakumari Beach, and local temples."
+          },
+          {
+            "title": "Is Kanyakumari only for beach lovers?",
+            "content": "No, it also attracts history buffs, spiritual seekers, and photographers due to its cultural and scenic landmarks."
+          }
+        ]
+      }
     },
     {
       "img": "/assets/img/destination/family/2.jpg",
@@ -16,7 +42,24 @@
       "rating": "4.9",
       "day": "7 Days",
       "number": "40+",
-      "price": "$200.00"
+      "price": "$200.00",
+      "url": "family/Kerala",
+      "innerpage": {
+        "header": "Kerala Backwater & Hill Station Tour",
+        "tage": "Family Tour",
+        "img": "/assets/img/destination/family/2.jpg",
+        "description": "Explore the serene backwaters and scenic hill stations of Kerala.",
+        "faq": [
+          {
+            "title": "What is the best time to visit Kerala?",
+            "content": "October to March is ideal due to cooler weather and minimal rainfall."
+          },
+          {
+            "title": "How to travel between backwaters and hill stations?",
+            "content": "You can take road trips or hire private transport for easy access."
+          }
+        ]
+      }
     },
     {
       "img": "/assets/img/destination/family/3.jpg",
@@ -25,7 +68,24 @@
       "rating": "4.7",
       "day": "3 Days",
       "number": "25+",
-      "price": "$90.00"
+      "price": "$90.00",
+      "url": "family/Madurai",
+      "innerpage": {
+        "header": "Meenakshi Amman Temple & City Tour",
+        "tage": "Heritage Tour",
+        "img": "/assets/img/destination/family/3.jpg",
+        "description": "Discover the historical temples and vibrant culture of Madurai.",
+        "faq": [
+          {
+            "title": "Which temples are must-visit?",
+            "content": "Meenakshi Amman Temple and nearby historic sites are the highlights."
+          },
+          {
+            "title": "Best time for sightseeing?",
+            "content": "October to March is ideal for exploring Madurai comfortably."
+          }
+        ]
+      }
     },
     {
       "img": "/assets/img/destination/family/4.jpg",
@@ -34,7 +94,24 @@
       "rating": "4.6",
       "day": "4 Days",
       "number": "20+",
-      "price": "$110.00"
+      "price": "$110.00",
+      "url": "family/Rameshwaram",
+      "innerpage": {
+        "header": "Rameshwaram Pilgrimage & Beach Tour",
+        "tage": "Family Tour",
+        "img": "/assets/img/destination/family/4.jpg",
+        "description": "Experience spiritual sites and scenic beaches in Rameshwaram.",
+        "faq": [
+          {
+            "title": "What are the main attractions?",
+            "content": "Ramanathaswamy Temple, Dhanushkodi, and the Pamban Bridge are must-visits."
+          },
+          {
+            "title": "Is this suitable for kids?",
+            "content": "Yes, family-friendly activities and safe beach visits are included."
+          }
+        ]
+      }
     },
     {
       "img": "/assets/img/destination/family/5.jpg",
@@ -43,7 +120,24 @@
       "rating": "4.8",
       "day": "2 Days",
       "number": "15+",
-      "price": "$80.00"
+      "price": "$80.00",
+      "url": "family/Kanyakumari-Sunrise",
+      "innerpage": {
+        "header": "Sunrise & Temple Tour in Kanyakumari",
+        "tage": "Family Tour",
+        "img": "/assets/img/destination/family/5.jpg",
+        "description": "Witness the beautiful sunrise and visit iconic temples in Kanyakumari.",
+        "faq": [
+          {
+            "title": "When is the best time to see the sunrise?",
+            "content": "Early morning between 5:30 AM and 6:30 AM offers the best view."
+          },
+          {
+            "title": "Which temples are included?",
+            "content": "Kanyakumari Bhagavathy Amman Temple and Vivekananda Rock Memorial."
+          }
+        ]
+      }
     },
     {
       "img": "/assets/img/destination/family/6.jpg",
@@ -52,7 +146,24 @@
       "rating": "4.9",
       "day": "6 Days",
       "number": "35+",
-      "price": "$210.00"
+      "price": "$210.00",
+      "url": "family/Kerala-Houseboat-Munnar",
+      "innerpage": {
+        "header": "Kerala Houseboat & Munnar Tour",
+        "tage": "Family Tour",
+        "img": "/assets/img/destination/family/6.jpg",
+        "description": "Cruise the backwaters on a houseboat and explore Munnar’s tea plantations.",
+        "faq": [
+          {
+            "title": "Can we stay overnight on houseboats?",
+            "content": "Yes, overnight stay on traditional houseboats is included."
+          },
+          {
+            "title": "Best season for Munnar visit?",
+            "content": "September to March is ideal for greenery and pleasant weather."
+          }
+        ]
+      }
     },
     {
       "img": "/assets/img/destination/family/7.jpg",
@@ -61,7 +172,24 @@
       "rating": "4.7",
       "day": "3 Days",
       "number": "20+",
-      "price": "$95.00"
+      "price": "$95.00",
+      "url": "family/Madurai-Cultural",
+      "innerpage": {
+        "header": "Cultural Heritage & Temple Walk",
+        "tage": "Heritage Tour",
+        "img": "/assets/img/destination/family/7.jpg",
+        "description": "Explore cultural heritage and temple architecture in Madurai.",
+        "faq": [
+          {
+            "title": "Are local guides provided?",
+            "content": "Yes, certified guides are included for temple and heritage walks."
+          },
+          {
+            "title": "Suitable for children?",
+            "content": "Yes, the tour is family-friendly."
+          }
+        ]
+      }
     },
     {
       "img": "/assets/img/destination/family/8.jpg",
@@ -70,383 +198,1100 @@
       "rating": "4.6",
       "day": "3 Days",
       "number": "18+",
-      "price": "$100.00"
+      "price": "$100.00",
+      "url": "family/Rameshwaram-Adventure",
+      "innerpage": {
+        "header": "Rameshwaram & Dhanushkodi Adventure",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/family/8.jpg",
+        "description": "Experience adventure and spiritual heritage in Rameshwaram.",
+        "faq": [
+          {
+            "title": "What activities are included?",
+            "content": "Beach exploration, Dhanushkodi visit, and light trekking."
+          },
+          {
+            "title": "Is it safe for families?",
+            "content": "Yes, family-friendly safety measures are in place."
+          }
+        ]
+      }
     }
-  ],
+  ]
+,
+  
   "marriage": [
-  {
-    "img": "/assets/img/destination/marriage/1.jpg",
-    "location": "Kanyakumari, Tamil Nadu",
-    "title": "Coastal Palace Wedding Experience",
-    "rating": "4.9",
-    "day": "5 Days",
-    "number": "50+",
-    "price": "$3500.00"
-  },
-  {
-    "img": "/assets/img/destination/marriage/2.jpg",
-    "location": "Ooty, Tamil Nadu",
-    "title": "Hill Station Romantic Wedding",
-    "rating": "4.8",
-    "day": "4 Days",
-    "number": "30+",
-    "price": "$3000.00"
-  },
-  {
-    "img": "/assets/img/destination/marriage/3.jpg",
-    "location": "Madurai, Tamil Nadu",
-    "title": "Temple Heritage Wedding Celebration",
-    "rating": "4.7",
-    "day": "3 Days",
-    "number": "25+",
-    "price": "$2500.00"
-  },
-  {
-    "img": "/assets/img/destination/marriage/4.jpg",
-    "location": "Alleppey, Kerala",
-    "title": "Backwater Wedding Cruise",
-    "rating": "4.8",
-    "day": "4 Days",
-    "number": "30+",
-    "price": "$3200.00"
-  },
-  {
-    "img": "/assets/img/destination/marriage/5.jpg",
-    "location": "Kochi, Kerala",
-    "title": "Fort Kochi Heritage Wedding",
-    "rating": "4.9",
-    "day": "5 Days",
-    "number": "40+",
-    "price": "$3800.00"
-  },
-  {
-    "img": "/assets/img/destination/marriage/6.jpg",
-    "location": "Munnar, Kerala",
-    "title": "Tea Plantation Romantic Wedding",
-    "rating": "4.8",
-    "day": "4 Days",
-    "number": "35+",
-    "price": "$3600.00"
-  },
-  {
-    "img": "/assets/img/destination/marriage/7.jpg",
-    "location": "Rameshwaram, Tamil Nadu",
-    "title": "Beachfront Wedding Ceremony",
-    "rating": "4.7",
-    "day": "3 Days",
-    "number": "20+",
-    "price": "$2800.00"
-  },
-  {
-    "img": "/assets/img/destination/marriage/8.jpg",
-    "location": "Varkala, Kerala",
-    "title": "Cliffside Beach Wedding",
-    "rating": "4.9",
-    "day": "4 Days",
-    "number": "25+",
-    "price": "$3300.00"
-  }
-]
+    {
+      "img": "/assets/img/destination/marriage/1.jpg",
+      "location": "Kanyakumari, Tamil Nadu",
+      "title": "Coastal Palace Wedding Experience",
+      "rating": "4.9",
+      "day": "5 Days",
+      "number": "50+",
+      "price": "$3500.00",
+      "url": "marriage/Kanyakumari-Coastal-Palace",
+      "innerpage": {
+        "header": "Coastal Palace Wedding Experience",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/1.jpg",
+        "description": "Experience a royal wedding by the coast with luxurious arrangements and scenic views.",
+        "faq": [
+          {
+            "title": "What is included in the package?",
+            "content": "Luxury accommodations, wedding setup, catering, and entertainment are included."
+          },
+          {
+            "title": "Is it suitable for large groups?",
+            "content": "Yes, the tour is designed for weddings with 50+ guests."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/2.jpg",
+      "location": "Ooty, Tamil Nadu",
+      "title": "Hill Station Romantic Wedding",
+      "rating": "4.8",
+      "day": "4 Days",
+      "number": "30+",
+      "price": "$3000.00",
+      "url": "marriage/Ooty-Romantic-Wedding",
+      "innerpage": {
+        "header": "Hill Station Romantic Wedding",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/2.jpg",
+        "description": "Celebrate your wedding in the cool hill station of Ooty with breathtaking views.",
+        "faq": [
+          {
+            "title": "Can we have an outdoor ceremony?",
+            "content": "Yes, multiple scenic outdoor locations are available for the ceremony."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Luxury accommodations for the wedding party are part of the package."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/3.jpg",
+      "location": "Madurai, Tamil Nadu",
+      "title": "Temple Heritage Wedding Celebration",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "25+",
+      "price": "$2500.00",
+      "url": "marriage/Madurai-Temple-Heritage",
+      "innerpage": {
+        "header": "Temple Heritage Wedding Celebration",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/3.jpg",
+        "description": "Host a beautiful heritage wedding amidst Madurai's historic temples.",
+        "faq": [
+          {
+            "title": "Are temple rituals included?",
+            "content": "Yes, traditional temple wedding rituals are arranged with guidance."
+          },
+          {
+            "title": "Is it suitable for families?",
+            "content": "Yes, the package is family-friendly and accommodates 25+ guests."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/4.jpg",
+      "location": "Alleppey, Kerala",
+      "title": "Backwater Wedding Cruise",
+      "rating": "4.8",
+      "day": "4 Days",
+      "number": "30+",
+      "price": "$3200.00",
+      "url": "marriage/Alleppey-Backwater-Cruise",
+      "innerpage": {
+        "header": "Backwater Wedding Cruise",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/4.jpg",
+        "description": "Celebrate your wedding on a luxurious houseboat cruising Kerala's backwaters.",
+        "faq": [
+          {
+            "title": "How many guests can the cruise accommodate?",
+            "content": "The houseboat can host 30+ guests comfortably for the wedding."
+          },
+          {
+            "title": "Are meals provided?",
+            "content": "Yes, catering with local cuisine is included on board."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/5.jpg",
+      "location": "Kochi, Kerala",
+      "title": "Fort Kochi Heritage Wedding",
+      "rating": "4.9",
+      "day": "5 Days",
+      "number": "40+",
+      "price": "$3800.00",
+      "url": "marriage/Kochi-Fort-Heritage",
+      "innerpage": {
+        "header": "Fort Kochi Heritage Wedding",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/5.jpg",
+        "description": "Enjoy a historic and elegant wedding experience in the charming Fort Kochi area.",
+        "faq": [
+          {
+            "title": "What historic sites are included?",
+            "content": "The wedding includes access to heritage buildings and coastal venues."
+          },
+          {
+            "title": "Is photography included?",
+            "content": "Yes, professional photography and videography are part of the package."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/6.jpg",
+      "location": "Munnar, Kerala",
+      "title": "Tea Plantation Romantic Wedding",
+      "rating": "4.8",
+      "day": "4 Days",
+      "number": "35+",
+      "price": "$3600.00",
+      "url": "marriage/Munnar-Tea-Wedding",
+      "innerpage": {
+        "header": "Tea Plantation Romantic Wedding",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/6.jpg",
+        "description": "Exchange vows surrounded by lush tea plantations and serene landscapes in Munnar.",
+        "faq": [
+          {
+            "title": "Is the ceremony outdoors?",
+            "content": "Yes, the wedding ceremony is held outdoors amidst the plantations."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Luxury accommodations for guests are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/7.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Beachfront Wedding Ceremony",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$2800.00",
+      "url": "marriage/Rameshwaram-Beachfront",
+      "innerpage": {
+        "header": "Beachfront Wedding Ceremony",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/7.jpg",
+        "description": "Have a romantic beachfront wedding ceremony in Rameshwaram with family and friends.",
+        "faq": [
+          {
+            "title": "Is it suitable for children?",
+            "content": "Yes, children are welcome and safe activities are included."
+          },
+          {
+            "title": "Are decorations included?",
+            "content": "Beach wedding decor and floral arrangements are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/marriage/8.jpg",
+      "location": "Varkala, Kerala",
+      "title": "Cliffside Beach Wedding",
+      "rating": "4.9",
+      "day": "4 Days",
+      "number": "25+",
+      "price": "$3300.00",
+      "url": "marriage/Varkala-Cliffside",
+      "innerpage": {
+        "header": "Cliffside Beach Wedding",
+        "tage": "Wedding Tour",
+        "img": "/assets/img/destination/marriage/8.jpg",
+        "description": "Celebrate your special day on the stunning cliffs overlooking the Varkala beach.",
+        "faq": [
+          {
+            "title": "Is the location private?",
+            "content": "Yes, the cliffside area is reserved exclusively for the wedding."
+          },
+          {
+            "title": "Does the package include catering?",
+            "content": "Yes, catering with local and continental cuisine is included."
+          }
+        ]
+      }
+    }
+  ]
+
 ,
+  
   "honeymoon": [
-  {
-    "img": "/assets/img/destination/honeymoon/1.jpg",
-    "location": "Kanyakumari, Tamil Nadu",
-    "title": "Romantic Coastal Sunset Tour",
-    "rating": "4.9",
-    "day": "5 Days",
-    "number": "2+",
-    "price": "$2000.00"
-  },
-  {
-    "img": "/assets/img/destination/honeymoon/2.jpg",
-    "location": "Ooty, Tamil Nadu",
-    "title": "Hill Station Couple Retreat",
-    "rating": "4.8",
-    "day": "4 Days",
-    "number": "2+",
-    "price": "$1800.00"
-  },
-  {
-    "img": "/assets/img/destination/honeymoon/3.jpg",
-    "location": "Munnar, Kerala",
-    "title": "Tea Plantation Romantic Escape",
-    "rating": "4.9",
-    "day": "5 Days",
-    "number": "2+",
-    "price": "$2200.00"
-  },
-  {
-    "img": "/assets/img/destination/honeymoon/4.jpg",
-    "location": "Alleppey, Kerala",
-    "title": "Backwater Houseboat Honeymoon",
-    "rating": "4.9",
-    "day": "4 Days",
-    "number": "2+",
-    "price": "$2100.00"
-  },
-  {
-    "img": "/assets/img/destination/honeymoon/5.jpg",
-    "location": "Kochi, Kerala",
-    "title": "Heritage & Romantic Walk Tour",
-    "rating": "4.8",
-    "day": "3 Days",
-    "number": "2+",
-    "price": "$1900.00"
-  },
-  {
-    "img": "/assets/img/destination/honeymoon/6.jpg",
-    "location": "Rameshwaram, Tamil Nadu",
-    "title": "Beachside Romantic Escape",
-    "rating": "4.7",
-    "day": "3 Days",
-    "number": "2+",
-    "price": "$1800.00"
-  },
-  {
-    "img": "/assets/img/destination/honeymoon/7.jpg",
-    "location": "Varkala, Kerala",
-    "title": "Cliffside Honeymoon Retreat",
-    "rating": "4.9",
-    "day": "4 Days",
-    "number": "2+",
-    "price": "$2000.00"
-  },
-  {
-    "img": "/assets/img/destination/honeymoon/8.jpg",
-    "location": "Madurai, Tamil Nadu",
-    "title": "Temple & Cultural Couple Tour",
-    "rating": "4.7",
-    "day": "3 Days",
-    "number": "2+",
-    "price": "$1700.00"
-  }
-]
+    {
+      "img": "/assets/img/destination/honeymoon/1.jpg",
+      "location": "Kanyakumari, Tamil Nadu",
+      "title": "Romantic Coastal Sunset Tour",
+      "rating": "4.9",
+      "day": "5 Days",
+      "number": "2+",
+      "price": "$2000.00",
+      "url": "honeymoon/Kanyakumari-Romantic-Coastal",
+      "innerpage": {
+        "header": "Romantic Coastal Sunset Tour",
+        "tage": "Honeymoon Tour",
+        "img": "/assets/img/destination/honeymoon/1.jpg",
+        "description": "Enjoy a serene honeymoon along Kanyakumari’s coastline with beautiful sunsets.",
+        "faq": [
+          {
+            "title": "What activities are included?",
+            "content": "Sunset cruises, beach walks, and candlelight dinners are included."
+          },
+          {
+            "title": "Is it suitable for couples?",
+            "content": "Yes, this tour is designed exclusively for couples."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/honeymoon/2.jpg",
+      "location": "Ooty, Tamil Nadu",
+      "title": "Hill Station Couple Retreat",
+      "rating": "4.8",
+      "day": "4 Days",
+      "number": "2+",
+      "price": "$1800.00",
+      "url": "honeymoon/Ooty-Couple-Retreat",
+      "innerpage": {
+        "header": "Hill Station Couple Retreat",
+        "tage": "Honeymoon Tour",
+        "img": "/assets/img/destination/honeymoon/2.jpg",
+        "description": "A peaceful getaway in Ooty’s hills, perfect for a romantic couple retreat.",
+        "faq": [
+          {
+            "title": "Are accommodations included?",
+            "content": "Yes, luxury accommodations with scenic views are included."
+          },
+          {
+            "title": "What is the best season to visit?",
+            "content": "October to March is ideal for pleasant weather and sightseeing."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/honeymoon/3.jpg",
+      "location": "Munnar, Kerala",
+      "title": "Tea Plantation Romantic Escape",
+      "rating": "4.9",
+      "day": "5 Days",
+      "number": "2+",
+      "price": "$2200.00",
+      "url": "honeymoon/Munnar-Tea-Romantic-Escape",
+      "innerpage": {
+        "header": "Tea Plantation Romantic Escape",
+        "tage": "Honeymoon Tour",
+        "img": "/assets/img/destination/honeymoon/3.jpg",
+        "description": "Romantic escape amidst lush tea plantations in Munnar for a perfect honeymoon.",
+        "faq": [
+          {
+            "title": "Can we have private activities?",
+            "content": "Yes, couples can enjoy private plantation walks and romantic dinners."
+          },
+          {
+            "title": "Are guided tours included?",
+            "content": "Yes, guided plantation and sightseeing tours are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/honeymoon/4.jpg",
+      "location": "Alleppey, Kerala",
+      "title": "Backwater Houseboat Honeymoon",
+      "rating": "4.9",
+      "day": "4 Days",
+      "number": "2+",
+      "price": "$2100.00",
+      "url": "honeymoon/Alleppey-Backwater-Houseboat",
+      "innerpage": {
+        "header": "Backwater Houseboat Honeymoon",
+        "tage": "Honeymoon Tour",
+        "img": "/assets/img/destination/honeymoon/4.jpg",
+        "description": "Stay on a luxurious houseboat and enjoy Kerala’s backwaters for your honeymoon.",
+        "faq": [
+          {
+            "title": "Is full-board catering included?",
+            "content": "Yes, all meals and beverages are included on the houseboat."
+          },
+          {
+            "title": "Are houseboat rides private?",
+            "content": "Yes, the houseboat is exclusively for the honeymoon couple."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/honeymoon/5.jpg",
+      "location": "Kochi, Kerala",
+      "title": "Heritage & Romantic Walk Tour",
+      "rating": "4.8",
+      "day": "3 Days",
+      "number": "2+",
+      "price": "$1900.00",
+      "url": "honeymoon/Kochi-Heritage-Romantic",
+      "innerpage": {
+        "header": "Heritage & Romantic Walk Tour",
+        "tage": "Honeymoon Tour",
+        "img": "/assets/img/destination/honeymoon/5.jpg",
+        "description": "Explore Kochi’s heritage sites and enjoy romantic walks along the historic streets.",
+        "faq": [
+          {
+            "title": "What sites are included?",
+            "content": "Fort Kochi, Mattancherry Palace, and the Chinese fishing nets are included."
+          },
+          {
+            "title": "Is the tour private?",
+            "content": "Yes, the tour is designed exclusively for couples."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/honeymoon/6.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Beachside Romantic Escape",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "2+",
+      "price": "$1800.00",
+      "url": "honeymoon/Rameshwaram-Beachside-Romantic",
+      "innerpage": {
+        "header": "Beachside Romantic Escape",
+        "tage": "Honeymoon Tour",
+        "img": "/assets/img/destination/honeymoon/6.jpg",
+        "description": "Relax on pristine beaches in Rameshwaram for a memorable honeymoon experience.",
+        "faq": [
+          {
+            "title": "Are water activities included?",
+            "content": "Yes, safe water sports and beach activities are included."
+          },
+          {
+            "title": "Can we customize the itinerary?",
+            "content": "Yes, couples can customize activities according to preferences."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/honeymoon/7.jpg",
+      "location": "Varkala, Kerala",
+      "title": "Cliffside Honeymoon Retreat",
+      "rating": "4.9",
+      "day": "4 Days",
+      "number": "2+",
+      "price": "$2000.00",
+      "url": "honeymoon/Varkala-Cliffside-Honeymoon",
+      "innerpage": {
+        "header": "Cliffside Honeymoon Retreat",
+        "tage": "Honeymoon Tour",
+        "img": "/assets/img/destination/honeymoon/7.jpg",
+        "description": "Romantic cliffside retreat overlooking Varkala beach for honeymooners.",
+        "faq": [
+          {
+            "title": "Is the location private?",
+            "content": "Yes, the cliffside retreat is reserved exclusively for couples."
+          },
+          {
+            "title": "Does the package include meals?",
+            "content": "Yes, meals and beverages are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/honeymoon/8.jpg",
+      "location": "Madurai, Tamil Nadu",
+      "title": "Temple & Cultural Couple Tour",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "2+",
+      "price": "$1700.00",
+      "url": "honeymoon/Madurai-Temple-Cultural",
+      "innerpage": {
+        "header": "Temple & Cultural Couple Tour",
+        "tage": "Honeymoon Tour",
+        "img": "/assets/img/destination/honeymoon/8.jpg",
+        "description": "Combine cultural experiences and temple visits with a romantic couple getaway.",
+        "faq": [
+          {
+            "title": "Which temples are included?",
+            "content": "Meenakshi Temple and other local cultural sites are included."
+          },
+          {
+            "title": "Is guided tour available?",
+            "content": "Yes, private guides for cultural insights are included."
+          }
+        ]
+      }
+    }
+  ]
+
 ,
+  
   "corporate": [
-  {
-    "img": "/assets/img/destination/corporate/1.jpg",
-    "location": "Chennai, Tamil Nadu",
-    "title": "Team Building & City Conference",
-    "rating": "4.8",
-    "day": "3 Days",
-    "number": "20+",
-    "price": "$1500.00"
-  },
-  {
-    "img": "/assets/img/destination/corporate/2.jpg",
-    "location": "Coimbatore, Tamil Nadu",
-    "title": "Industrial & Workshop Retreat",
-    "rating": "4.7",
-    "day": "2 Days",
-    "number": "15+",
-    "price": "$1200.00"
-  },
-  {
-    "img": "/assets/img/destination/corporate/3.jpg",
-    "location": "Ooty, Tamil Nadu",
-    "title": "Hill Station Corporate Retreat",
-    "rating": "4.9",
-    "day": "4 Days",
-    "number": "25+",
-    "price": "$2000.00"
-  },
-  {
-    "img": "/assets/img/destination/corporate/4.jpg",
-    "location": "Kochi, Kerala",
-    "title": "Backwater Corporate Conference",
-    "rating": "4.8",
-    "day": "3 Days",
-    "number": "20+",
-    "price": "$1800.00"
-  },
-  {
-    "img": "/assets/img/destination/corporate/5.jpg",
-    "location": "Munnar, Kerala",
-    "title": "Team Retreat in Tea Plantations",
-    "rating": "4.9",
-    "day": "4 Days",
-    "number": "15+",
-    "price": "$2200.00"
-  },
-  {
-    "img": "/assets/img/destination/corporate/6.jpg",
-    "location": "Trivandrum, Kerala",
-    "title": "Beachside Corporate Workshop",
-    "rating": "4.7",
-    "day": "3 Days",
-    "number": "20+",
-    "price": "$1700.00"
-  },
-  {
-    "img": "/assets/img/destination/corporate/7.jpg",
-    "location": "Madurai, Tamil Nadu",
-    "title": "Cultural Heritage Corporate Tour",
-    "rating": "4.6",
-    "day": "2 Days",
-    "number": "15+",
-    "price": "$1400.00"
-  },
-  {
-    "img": "/assets/img/destination/corporate/8.jpg",
-    "location": "Rameshwaram, Tamil Nadu",
-    "title": "Beachside Team Retreat & Adventure",
-    "rating": "4.7",
-    "day": "3 Days",
-    "number": "18+",
-    "price": "$1600.00"
-  }
-]
+    {
+      "img": "/assets/img/destination/corporate/1.jpg",
+      "location": "Chennai, Tamil Nadu",
+      "title": "Team Building & City Conference",
+      "rating": "4.8",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$1500.00",
+      "url": "corporate/Chennai-Team-Building",
+      "innerpage": {
+        "header": "Team Building & City Conference",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/1.jpg",
+        "description": "Engage in team-building activities while exploring Chennai’s city attractions.",
+        "faq": [
+          {
+            "title": "What team-building activities are included?",
+            "content": "Workshops, problem-solving exercises, and city scavenger hunts."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Yes, hotels with conference facilities are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/2.jpg",
+      "location": "Coimbatore, Tamil Nadu",
+      "title": "Industrial & Workshop Retreat",
+      "rating": "4.7",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$1200.00",
+      "url": "corporate/Coimbatore-Industrial-Retreat",
+      "innerpage": {
+        "header": "Industrial & Workshop Retreat",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/2.jpg",
+        "description": "Enhance your team’s skills with industrial visits and focused workshops in Coimbatore.",
+        "faq": [
+          {
+            "title": "Are workshops customized?",
+            "content": "Yes, workshops can be tailored to your team’s objectives."
+          },
+          {
+            "title": "Is transportation provided?",
+            "content": "Yes, transportation to sites and venues is included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/3.jpg",
+      "location": "Ooty, Tamil Nadu",
+      "title": "Hill Station Corporate Retreat",
+      "rating": "4.9",
+      "day": "4 Days",
+      "number": "25+",
+      "price": "$2000.00",
+      "url": "corporate/Ooty-Hill-Station-Retreat",
+      "innerpage": {
+        "header": "Hill Station Corporate Retreat",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/3.jpg",
+        "description": "Relax and bond as a team amidst the scenic hills of Ooty with corporate activities.",
+        "faq": [
+          {
+            "title": "Are team-bonding sessions included?",
+            "content": "Yes, sessions include outdoor exercises and collaborative tasks."
+          },
+          {
+            "title": "Is catering included?",
+            "content": "Yes, all meals and refreshments are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/4.jpg",
+      "location": "Kochi, Kerala",
+      "title": "Backwater Corporate Conference",
+      "rating": "4.8",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$1800.00",
+      "url": "corporate/Kochi-Backwater-Conference",
+      "innerpage": {
+        "header": "Backwater Corporate Conference",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/4.jpg",
+        "description": "Conduct corporate meetings and conferences while enjoying the serene backwaters of Kochi.",
+        "faq": [
+          {
+            "title": "Are conference facilities included?",
+            "content": "Yes, fully-equipped conference halls are provided."
+          },
+          {
+            "title": "Can we organize team activities?",
+            "content": "Yes, optional backwater team activities are available."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/5.jpg",
+      "location": "Munnar, Kerala",
+      "title": "Team Retreat in Tea Plantations",
+      "rating": "4.9",
+      "day": "4 Days",
+      "number": "15+",
+      "price": "$2200.00",
+      "url": "corporate/Munnar-Tea-Retreat",
+      "innerpage": {
+        "header": "Team Retreat in Tea Plantations",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/5.jpg",
+        "description": "Combine corporate team-building with relaxation in Munnar’s beautiful tea plantations.",
+        "faq": [
+          {
+            "title": "Are outdoor team activities included?",
+            "content": "Yes, trekking and plantation-based exercises are included."
+          },
+          {
+            "title": "Is accommodation provided on-site?",
+            "content": "Yes, stays in comfortable lodges or resorts are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/6.jpg",
+      "location": "Trivandrum, Kerala",
+      "title": "Beachside Corporate Workshop",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$1700.00",
+      "url": "corporate/Trivandrum-Beachside-Workshop",
+      "innerpage": {
+        "header": "Beachside Corporate Workshop",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/6.jpg",
+        "description": "Conduct corporate workshops by the beach, combining learning and relaxation.",
+        "faq": [
+          {
+            "title": "Are workshops included?",
+            "content": "Yes, all professional workshops and sessions are provided."
+          },
+          {
+            "title": "Is leisure time included?",
+            "content": "Yes, participants have free time to relax at the beach."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/7.jpg",
+      "location": "Madurai, Tamil Nadu",
+      "title": "Cultural Heritage Corporate Tour",
+      "rating": "4.6",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$1400.00",
+      "url": "corporate/Madurai-Cultural-Corporate",
+      "innerpage": {
+        "header": "Cultural Heritage Corporate Tour",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/7.jpg",
+        "description": "Experience corporate retreats while exploring Madurai’s cultural heritage.",
+        "faq": [
+          {
+            "title": "What cultural activities are included?",
+            "content": "Temple visits, heritage walks, and local interaction sessions."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Yes, stay in local hotels with corporate facilities."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/corporate/8.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Beachside Team Retreat & Adventure",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "18+",
+      "price": "$1600.00",
+      "url": "corporate/Rameshwaram-Beach-Team-Retreat",
+      "innerpage": {
+        "header": "Beachside Team Retreat & Adventure",
+        "tage": "Corporate Tour",
+        "img": "/assets/img/destination/corporate/8.jpg",
+        "description": "Combine team-building exercises with adventurous beach activities in Rameshwaram.",
+        "faq": [
+          {
+            "title": "Are adventure activities included?",
+            "content": "Yes, water sports and beach challenges are part of the program."
+          },
+          {
+            "title": "Is catering included?",
+            "content": "Yes, meals and refreshments are provided."
+          }
+        ]
+      }
+    }
+  ]
+
 ,
+  
   "adventure": [
-  {
-    "img": "/assets/img/destination/adventure/01.jpg",
-    "location": "Kodaikanal, Tamil Nadu",
-    "title": "Hill Trekking & Camping Adventure",
-    "rating": "4.8",
-    "day": "3 Days",
-    "number": "15+",
-    "price": "$250.00"
-  },
-  {
-    "img": "/assets/img/destination/adventure/02.jpg",
-    "location": "Munnar, Kerala",
-    "title": "Tea Plantation Trek & Rafting",
-    "rating": "4.9",
-    "day": "4 Days",
-    "number": "20+",
-    "price": "$300.00"
-  },
-  {
-    "img": "/assets/img/destination/adventure/03.jpg",
-    "location": "Ooty, Tamil Nadu",
-    "title": "Hill Station Hiking & Adventure Sports",
-    "rating": "4.7",
-    "day": "3 Days",
-    "number": "18+",
-    "price": "$280.00"
-  },
-  {
-    "img": "/assets/img/destination/adventure/04.jpg",
-    "location": "Alleppey, Kerala",
-    "title": "Backwater Kayaking & Canoeing",
-    "rating": "4.8",
-    "day": "2 Days",
-    "number": "15+",
-    "price": "$200.00"
-  },
-  {
-    "img": "/assets/img/destination/adventure/05.jpg",
-    "location": "Kanyakumari, Tamil Nadu",
-    "title": "Beachside Adventure & Water Sports",
-    "rating": "4.7",
-    "day": "2 Days",
-    "number": "12+",
-    "price": "$180.00"
-  },
-  {
-    "img": "/assets/img/destination/adventure/06.jpg",
-    "location": "Wayanad, Kerala",
-    "title": "Jungle Trekking & Wildlife Safari",
-    "rating": "4.9",
-    "day": "3 Days",
-    "number": "15+",
-    "price": "$270.00"
-  },
-  {
-    "img": "/assets/img/destination/adventure/07.jpg",
-    "location": "Coorg, Kerala",
-    "title": "River Rafting & Hill Adventure",
-    "rating": "4.8",
-    "day": "3 Days",
-    "number": "20+",
-    "price": "$290.00"
-  },
-  {
-    "img": "/assets/img/destination/adventure/08.jpg",
-    "location": "Rameshwaram, Tamil Nadu",
-    "title": "Dhanushkodi Coastal Adventure",
-    "rating": "4.7",
-    "day": "2 Days",
-    "number": "15+",
-    "price": "$200.00"
-  }
-]
+    {
+      "img": "/assets/img/destination/adventure/01.jpg",
+      "location": "Kodaikanal, Tamil Nadu",
+      "title": "Hill Trekking & Camping Adventure",
+      "rating": "4.8",
+      "day": "3 Days",
+      "number": "15+",
+      "price": "$250.00",
+      "url": "adventure/Kodaikanal-Trekking",
+      "innerpage": {
+        "header": "Hill Trekking & Camping Adventure",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/01.jpg",
+        "description": "Experience thrilling hill trekking and overnight camping in Kodaikanal’s scenic landscapes.",
+        "faq": [
+          {
+            "title": "What is included in the trekking package?",
+            "content": "Guided trekking, camping equipment, and meals are included."
+          },
+          {
+            "title": "Is prior experience required?",
+            "content": "No, both beginners and experienced trekkers are welcome."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/02.jpg",
+      "location": "Munnar, Kerala",
+      "title": "Tea Plantation Trek & Rafting",
+      "rating": "4.9",
+      "day": "4 Days",
+      "number": "20+",
+      "price": "$300.00",
+      "url": "adventure/Munnar-Trek-Rafting",
+      "innerpage": {
+        "header": "Tea Plantation Trek & Rafting",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/02.jpg",
+        "description": "Trek through lush tea plantations and enjoy thrilling river rafting in Munnar.",
+        "faq": [
+          {
+            "title": "Is rafting included for beginners?",
+            "content": "Yes, safety equipment and instructors are provided for all skill levels."
+          },
+          {
+            "title": "Are meals provided?",
+            "content": "Yes, breakfast, lunch, and dinner are included during the tour."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/03.jpg",
+      "location": "Ooty, Tamil Nadu",
+      "title": "Hill Station Hiking & Adventure Sports",
+      "rating": "4.7",
+      "day": "3 Days",
+      "number": "18+",
+      "price": "$280.00",
+      "url": "adventure/Ooty-Hiking-Adventure",
+      "innerpage": {
+        "header": "Hill Station Hiking & Adventure Sports",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/03.jpg",
+        "description": "Combine scenic hikes with adventure sports like rock climbing and ziplining in Ooty.",
+        "faq": [
+          {
+            "title": "What adventure sports are included?",
+            "content": "Rock climbing, ziplining, and guided hiking trails are included."
+          },
+          {
+            "title": "Are safety measures provided?",
+            "content": "Yes, all activities are supervised by trained instructors."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/04.jpg",
+      "location": "Alleppey, Kerala",
+      "title": "Backwater Kayaking & Canoeing",
+      "rating": "4.8",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$200.00",
+      "url": "adventure/Alleppey-Kayaking",
+      "innerpage": {
+        "header": "Backwater Kayaking & Canoeing",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/04.jpg",
+        "description": "Explore the serene backwaters of Alleppey with kayaking and canoeing adventures.",
+        "faq": [
+          {
+            "title": "Is prior experience required?",
+            "content": "No, instructors guide you through kayaking and canoeing sessions."
+          },
+          {
+            "title": "Are boats provided?",
+            "content": "Yes, all necessary equipment and boats are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/05.jpg",
+      "location": "Kanyakumari, Tamil Nadu",
+      "title": "Beachside Adventure & Water Sports",
+      "rating": "4.7",
+      "day": "2 Days",
+      "number": "12+",
+      "price": "$180.00",
+      "url": "adventure/Kanyakumari-Beach-Adventure",
+      "innerpage": {
+        "header": "Beachside Adventure & Water Sports",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/05.jpg",
+        "description": "Enjoy thrilling water sports and beach activities in Kanyakumari.",
+        "faq": [
+          {
+            "title": "What water sports are available?",
+            "content": "Jet skiing, banana boat rides, and snorkeling are included."
+          },
+          {
+            "title": "Is safety equipment provided?",
+            "content": "Yes, life jackets and professional guidance are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/06.jpg",
+      "location": "Wayanad, Kerala",
+      "title": "Jungle Trekking & Wildlife Safari",
+      "rating": "4.9",
+      "day": "3 Days",
+      "number": "15+",
+      "price": "$270.00",
+      "url": "adventure/Wayanad-Jungle-Trekking",
+      "innerpage": {
+        "header": "Jungle Trekking & Wildlife Safari",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/06.jpg",
+        "description": "Experience dense jungle trekking and spot wildlife on guided safaris in Wayanad.",
+        "faq": [
+          {
+            "title": "Are safaris guided?",
+            "content": "Yes, trained wildlife guides accompany the group."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Yes, stays in jungle lodges are provided."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/07.jpg",
+      "location": "Coorg, Kerala",
+      "title": "River Rafting & Hill Adventure",
+      "rating": "4.8",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$290.00",
+      "url": "adventure/Coorg-Rafting-Hills",
+      "innerpage": {
+        "header": "River Rafting & Hill Adventure",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/07.jpg",
+        "description": "Experience river rafting and hill adventures combined with scenic views in Coorg.",
+        "faq": [
+          {
+            "title": "Is rafting suitable for beginners?",
+            "content": "Yes, instructors provide guidance for all skill levels."
+          },
+          {
+            "title": "Are meals provided?",
+            "content": "Yes, all meals during the tour are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/adventure/08.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Dhanushkodi Coastal Adventure",
+      "rating": "4.7",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$200.00",
+      "url": "adventure/Rameshwaram-Coastal-Adventure",
+      "innerpage": {
+        "header": "Dhanushkodi Coastal Adventure",
+        "tage": "Adventure Tour",
+        "img": "/assets/img/destination/adventure/08.jpg",
+        "description": "Explore the coastal region of Dhanushkodi with thrilling adventure activities.",
+        "faq": [
+          {
+            "title": "What adventure activities are included?",
+            "content": "Beach trekking, coastal exploration, and light water sports."
+          },
+          {
+            "title": "Is transportation provided?",
+            "content": "Yes, local transportation for activities is included."
+          }
+        ]
+      }
+    }
+  ]
+
 ,
+  
   "pilgrimage": [
-  {
-    "img": "/assets/img/destination/pilgrimage/01.jpg",
-    "location": "Rameshwaram, Tamil Nadu",
-    "title": "Rameshwaram Pilgrimage & Temple Tour",
-    "rating": "4.9",
-    "day": "3 Days",
-    "number": "20+",
-    "price": "$120.00"
-  },
-  {
-    "img": "/assets/img/destination/pilgrimage/02.jpg",
-    "location": "Madurai, Tamil Nadu",
-    "title": "Meenakshi Amman Temple & Heritage Walk",
-    "rating": "4.8",
-    "day": "2 Days",
-    "number": "15+",
-    "price": "$100.00"
-  },
-  {
-    "img": "/assets/img/destination/pilgrimage/03.jpg",
-    "location": "Kanyakumari, Tamil Nadu",
-    "title": "Kanyakumari Sunrise & Temple Tour",
-    "rating": "4.7",
-    "day": "2 Days",
-    "number": "15+",
-    "price": "$90.00"
-  },
-  {
-    "img": "/assets/img/destination/pilgrimage/04.jpg",
-    "location": "Sabarimala, Kerala",
-    "title": "Sabarimala Temple Pilgrimage",
-    "rating": "4.9",
-    "day": "3 Days",
-    "number": "20+",
-    "price": "$150.00"
-  },
-  {
-    "img": "/assets/img/destination/pilgrimage/05.jpg",
-    "location": "Thrissur, Kerala",
-    "title": "Vadakkumnathan Temple & Cultural Tour",
-    "rating": "4.8",
-    "day": "2 Days",
-    "number": "15+",
-    "price": "$120.00"
-  },
-  {
-    "img": "/assets/img/destination/pilgrimage/06.jpg",
-    "location": "Palani, Tamil Nadu",
-    "title": "Palani Murugan Temple Pilgrimage",
-    "rating": "4.7",
-    "day": "2 Days",
-    "number": "12+",
-    "price": "$100.00"
-  },
-  {
-    "img": "/assets/img/destination/pilgrimage/07.jpg",
-    "location": "Alleppey, Kerala",
-    "title": "Backwater Temple & Spiritual Retreat",
-    "rating": "4.6",
-    "day": "3 Days",
-    "number": "15+",
-    "price": "$140.00"
-  },
-  {
+    {
+      "img": "/assets/img/destination/pilgrimage/01.jpg",
+      "location": "Rameshwaram, Tamil Nadu",
+      "title": "Rameshwaram Pilgrimage & Temple Tour",
+      "rating": "4.9",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$120.00",
+      "url": "pilgrimage/Rameshwaram-Temple-Tour",
+      "innerpage": {
+        "header": "Rameshwaram Pilgrimage & Temple Tour",
+        "tage": "Pilgrimage Tour",
+        "img": "/assets/img/destination/pilgrimage/01.jpg",
+        "description": "Visit the sacred temples and experience the spiritual journey in Rameshwaram.",
+        "faq": [
+          {
+            "title": "Which temples are included in the tour?",
+            "content": "Ramanathaswamy Temple and nearby heritage temples are covered."
+          },
+          {
+            "title": "Are accommodations provided?",
+            "content": "Yes, stays near the temple complex are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/pilgrimage/02.jpg",
+      "location": "Madurai, Tamil Nadu",
+      "title": "Meenakshi Amman Temple & Heritage Walk",
+      "rating": "4.8",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$100.00",
+      "url": "pilgrimage/Madurai-Temple-Walk",
+      "innerpage": {
+        "header": "Meenakshi Amman Temple & Heritage Walk",
+        "tage": "Pilgrimage Tour",
+        "img": "/assets/img/destination/pilgrimage/02.jpg",
+        "description": "Explore the iconic Meenakshi Amman Temple and the cultural heritage of Madurai.",
+        "faq": [
+          {
+            "title": "Is a guide provided for the heritage walk?",
+            "content": "Yes, a knowledgeable guide will explain historical and cultural details."
+          },
+          {
+            "title": "Are meals included?",
+            "content": "Yes, traditional South Indian meals are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/pilgrimage/03.jpg",
+      "location": "Kanyakumari, Tamil Nadu",
+      "title": "Kanyakumari Sunrise & Temple Tour",
+      "rating": "4.7",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$90.00",
+      "url": "pilgrimage/Kanyakumari-Sunrise-Temple",
+      "innerpage": {
+        "header": "Kanyakumari Sunrise & Temple Tour",
+        "tage": "Pilgrimage Tour",
+        "img": "/assets/img/destination/pilgrimage/03.jpg",
+        "description": "Witness the breathtaking sunrise and visit famous temples in Kanyakumari.",
+        "faq": [
+          {
+            "title": "What is the best time to visit?",
+            "content": "Early morning during sunrise offers the most spectacular view."
+          },
+          {
+            "title": "Are temple entry fees included?",
+            "content": "Yes, all entry fees are covered in the package."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/pilgrimage/04.jpg",
+      "location": "Sabarimala, Kerala",
+      "title": "Sabarimala Temple Pilgrimage",
+      "rating": "4.9",
+      "day": "3 Days",
+      "number": "20+",
+      "price": "$150.00",
+      "url": "pilgrimage/Sabarimala-Temple",
+      "innerpage": {
+        "header": "Sabarimala Temple Pilgrimage",
+        "tage": "Pilgrimage Tour",
+        "img": "/assets/img/destination/pilgrimage/04.jpg",
+        "description": "Participate in the sacred pilgrimage to Sabarimala and experience spiritual rituals.",
+        "faq": [
+          {
+            "title": "Is special attire required?",
+            "content": "Yes, traditional pilgrimage attire is recommended."
+          },
+          {
+            "title": "Are accommodations provided?",
+            "content": "Yes, stays near the temple area are included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/pilgrimage/05.jpg",
+      "location": "Thrissur, Kerala",
+      "title": "Vadakkumnathan Temple & Cultural Tour",
+      "rating": "4.8",
+      "day": "2 Days",
+      "number": "15+",
+      "price": "$120.00",
+      "url": "pilgrimage/Thrissur-Vadakkumnathan-Tour",
+      "innerpage": {
+        "header": "Vadakkumnathan Temple & Cultural Tour",
+        "tage": "Pilgrimage Tour",
+        "img": "/assets/img/destination/pilgrimage/05.jpg",
+        "description": "Explore Vadakkumnathan Temple and experience the rich cultural heritage of Thrissur.",
+        "faq": [
+          {
+            "title": "Are cultural performances included?",
+            "content": "Yes, you can attend traditional temple rituals and cultural shows."
+          },
+          {
+            "title": "Is transportation provided?",
+            "content": "Yes, local transportation is included."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/pilgrimage/06.jpg",
+      "location": "Palani, Tamil Nadu",
+      "title": "Palani Murugan Temple Pilgrimage",
+      "rating": "4.7",
+      "day": "2 Days",
+      "number": "12+",
+      "price": "$100.00",
+      "url": "pilgrimage/Palani-Temple",
+      "innerpage": {
+        "header": "Palani Murugan Temple Pilgrimage",
+        "tage": "Pilgrimage Tour",
+        "img": "/assets/img/destination/pilgrimage/06.jpg",
+        "description": "Visit the Palani Murugan Temple and participate in spiritual rituals.",
+        "faq": [
+          {
+            "title": "Are guided tours available?",
+            "content": "Yes, local guides provide insights about the temple and its history."
+          },
+          {
+            "title": "Are meals included?",
+            "content": "Yes, vegetarian meals are provided during the pilgrimage."
+          }
+        ]
+      }
+    },
+    {
+      "img": "/assets/img/destination/pilgrimage/07.jpg",
+      "location": "Alleppey, Kerala",
+      "title": "Backwater Temple & Spiritual Retreat",
+      "rating": "4.6",
+      "day": "3 Days",
+      "number": "15+",
+      "price": "$140.00",
+      "url": "pilgrimage/Alleppey-Temple-Retreat",
+      "innerpage": {
+        "header": "Backwater Temple & Spiritual Retreat",
+        "tage": "Pilgrimage Tour",
+        "img": "/assets/img/destination/pilgrimage/07.jpg",
+        "description": "Combine spiritual retreat with serene backwater experiences in Alleppey.",
+        "faq": [
+          {
+            "title": "Is meditation included?",
+            "content": "Yes, guided meditation sessions are provided."
+          },
+          {
+            "title": "Are accommodations included?",
+            "content": "Yes, stay in nearby lodges is provided."
+          }
+        ]
+      }
+    },
+    {
+  "img": "/assets/img/destination/pilgrimage/08.jpg",
+  "location": "Rameshwaram, Tamil Nadu",
+  "title": "Dhanushkodi & Coastal Pilgrimage Tour",
+  "rating": "4.8",
+  "day": "2 Days",
+  "number": "15+",
+  "price": "$110.00",
+  "url": "pilgrimage/Dhanushkodi-Coastal-Pilgrimage",
+  "innerpage": {
+    "header": "Dhanushkodi & Coastal Pilgrimage Tour",
+    "tage": "Pilgrimage Tour",
     "img": "/assets/img/destination/pilgrimage/08.jpg",
-    "location": "Rameshwaram, Tamil Nadu",
-    "title": "Dhanushkodi & Coastal Pilgrimage Tour",
-    "rating": "4.8",
-    "day": "2 Days",
-    "number": "15+",
-    "price": "$110.00"
+    "description": "Experience the serene beauty and spiritual significance of Dhanushkodi on this two-day pilgrimage tour. Walk along the pristine coastline, visit sacred temples, and witness the stunning sunrise over the Bay of Bengal. Ideal for travelers seeking a mix of spirituality, nature, and cultural exploration, this tour also offers guided insights into the history and legends of the region. Perfect for families, solo travelers, and photography enthusiasts looking to capture the essence of South India's coastal heritage.",
+    "faq": [
+      {
+        "title": "Is transportation included?",
+        "content": "Yes, local transport between all pilgrimage sites is provided, including pick-up and drop-off from your accommodation."
+      },
+      {
+        "title": "Are meals included?",
+        "content": "Yes, traditional meals are provided during the tour, ensuring you experience local flavors."
+      },
+      {
+        "title": "What is the best time to visit Dhanushkodi?",
+        "content": "The ideal time is from October to March when the weather is pleasant and ideal for sightseeing and coastal walks."
+      },
+      {
+        "title": "Are guides available for historical insights?",
+        "content": "Yes, knowledgeable guides accompany the tour, providing historical context and stories about Dhanushkodi and its temples."
+      }
+    ]
   }
-]
+}
+
+  ]
+
 
   
 }
