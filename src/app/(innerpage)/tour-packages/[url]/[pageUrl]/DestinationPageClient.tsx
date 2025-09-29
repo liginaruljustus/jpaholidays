@@ -9,6 +9,8 @@ type InnerPage = {
   tage: string;
   img: string;
   description: string;
+  description2:string;
+  description3:string;
   faq?: FAQ[];
 };
 
@@ -35,7 +37,18 @@ const DestinationDetails = ({ innerpage }: Props) => {
             <div className="col-lg-8">
               <div className="destination-details-items">
                 <div className="row g-4">
+<div className="col-lg-12">
+  <h2>{innerpage.header}</h2>
+  <p className="mb-0">
+    <strong>Type:</strong>{" "}
+    <span style={{ color: "#ff5722", fontWeight: "bold" }}>
+      {innerpage.tage}
+    </span>
+  </p>
+</div>
+
                   {innerpage.img && (
+                    
                     <div className="col-lg-6">
                       <div className="details-image mb-4">
                         <Image
@@ -47,18 +60,30 @@ const DestinationDetails = ({ innerpage }: Props) => {
                       </div>
                     </div>
                   )}
-                  <div className="col-lg-6">
-                    <div className="details-content">
-                      <h2>{innerpage.header}</h2>
-                      <p className="mb-2">
-                        <strong>Type:</strong> {innerpage.tage}
-                      </p>
-                      <div
-                        className="mt-3"
-                        dangerouslySetInnerHTML={{ __html: innerpage.description }}
-                      ></div>
-                    </div>
-                  </div>
+                 <div className="col-lg-6">
+  <div className="details-content mt-0">
+    {innerpage.description && (
+      <div
+        className=""
+        dangerouslySetInnerHTML={{ __html: innerpage.description }}
+      ></div>
+    )}
+    {innerpage.description2 && (
+      <div
+        className="mt-3"
+        dangerouslySetInnerHTML={{ __html: innerpage.description2 }}
+      ></div>
+    )}
+   
+  </div>
+</div>
+<div className="col-lg-12 "> {innerpage.description3 && (
+      <div
+        className=""
+        dangerouslySetInnerHTML={{ __html: innerpage.description3 }}
+      ></div>
+    )}</div>
+
                 </div>
               </div>
             </div>

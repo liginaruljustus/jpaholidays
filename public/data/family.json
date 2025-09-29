@@ -861,7 +861,7 @@
   
   "adventure": [
     {
-      "img": "/assets/img/destination/adventure/01.jpg",
+      "img": "/assets/img/destination/adventure/1.jpg",
       "location": "Kodaikanal, Tamil Nadu",
       "title": "Hill Trekking & Camping Adventure",
       "rating": "4.8",
@@ -872,7 +872,7 @@
       "innerpage": {
         "header": "Hill Trekking & Camping Adventure",
         "tage": "Adventure Tour",
-        "img": "/assets/img/destination/adventure/01.jpg",
+        "img": "/assets/img/destination/adventure/1.jpg",
         "description": "Experience thrilling hill trekking and overnight camping in Kodaikanal’s scenic landscapes.",
         "faq": [
           {
@@ -887,7 +887,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/adventure/02.jpg",
+      "img": "/assets/img/destination/adventure/2.jpg",
       "location": "Munnar, Kerala",
       "title": "Tea Plantation Trek & Rafting",
       "rating": "4.9",
@@ -898,7 +898,7 @@
       "innerpage": {
         "header": "Tea Plantation Trek & Rafting",
         "tage": "Adventure Tour",
-        "img": "/assets/img/destination/adventure/02.jpg",
+        "img": "/assets/img/destination/adventure/2.jpg",
         "description": "Trek through lush tea plantations and enjoy thrilling river rafting in Munnar.",
         "faq": [
           {
@@ -913,7 +913,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/adventure/03.jpg",
+      "img": "/assets/img/destination/adventure/3.jpg",
       "location": "Ooty, Tamil Nadu",
       "title": "Hill Station Hiking & Adventure Sports",
       "rating": "4.7",
@@ -924,7 +924,7 @@
       "innerpage": {
         "header": "Hill Station Hiking & Adventure Sports",
         "tage": "Adventure Tour",
-        "img": "/assets/img/destination/adventure/03.jpg",
+        "img": "/assets/img/destination/adventure/3.jpg",
         "description": "Combine scenic hikes with adventure sports like rock climbing and ziplining in Ooty.",
         "faq": [
           {
@@ -939,7 +939,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/adventure/04.jpg",
+      "img": "/assets/img/destination/adventure/4.jpg",
       "location": "Alleppey, Kerala",
       "title": "Backwater Kayaking & Canoeing",
       "rating": "4.8",
@@ -950,7 +950,7 @@
       "innerpage": {
         "header": "Backwater Kayaking & Canoeing",
         "tage": "Adventure Tour",
-        "img": "/assets/img/destination/adventure/04.jpg",
+        "img": "/assets/img/destination/adventure/4.jpg",
         "description": "Explore the serene backwaters of Alleppey with kayaking and canoeing adventures.",
         "faq": [
           {
@@ -965,7 +965,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/adventure/05.jpg",
+      "img": "/assets/img/destination/adventure/5.jpg",
       "location": "Kanyakumari, Tamil Nadu",
       "title": "Beachside Adventure & Water Sports",
       "rating": "4.7",
@@ -976,7 +976,7 @@
       "innerpage": {
         "header": "Beachside Adventure & Water Sports",
         "tage": "Adventure Tour",
-        "img": "/assets/img/destination/adventure/05.jpg",
+        "img": "/assets/img/destination/adventure/5.jpg",
         "description": "Enjoy thrilling water sports and beach activities in Kanyakumari.",
         "faq": [
           {
@@ -991,7 +991,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/adventure/06.jpg",
+      "img": "/assets/img/destination/adventure/6.jpg",
       "location": "Wayanad, Kerala",
       "title": "Jungle Trekking & Wildlife Safari",
       "rating": "4.9",
@@ -1002,7 +1002,7 @@
       "innerpage": {
         "header": "Jungle Trekking & Wildlife Safari",
         "tage": "Adventure Tour",
-        "img": "/assets/img/destination/adventure/06.jpg",
+        "img": "/assets/img/destination/adventure/6.jpg",
         "description": "Experience dense jungle trekking and spot wildlife on guided safaris in Wayanad.",
         "faq": [
           {
@@ -1017,7 +1017,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/adventure/07.jpg",
+      "img": "/assets/img/destination/adventure/7.jpg",
       "location": "Coorg, Kerala",
       "title": "River Rafting & Hill Adventure",
       "rating": "4.8",
@@ -1028,7 +1028,7 @@
       "innerpage": {
         "header": "River Rafting & Hill Adventure",
         "tage": "Adventure Tour",
-        "img": "/assets/img/destination/adventure/07.jpg",
+        "img": "/assets/img/destination/adventure/7.jpg",
         "description": "Experience river rafting and hill adventures combined with scenic views in Coorg.",
         "faq": [
           {
@@ -1043,7 +1043,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/adventure/08.jpg",
+      "img": "/assets/img/destination/adventure/8.jpg",
       "location": "Rameshwaram, Tamil Nadu",
       "title": "Dhanushkodi Coastal Adventure",
       "rating": "4.7",
@@ -1054,7 +1054,7 @@
       "innerpage": {
         "header": "Dhanushkodi Coastal Adventure",
         "tage": "Adventure Tour",
-        "img": "/assets/img/destination/adventure/08.jpg",
+        "img": "/assets/img/destination/adventure/8.jpg",
         "description": "Explore the coastal region of Dhanushkodi with thrilling adventure activities.",
         "faq": [
           {
@@ -1074,7 +1074,7 @@
   
   "pilgrimage": [
     {
-      "img": "/assets/img/destination/pilgrimage/01.jpg",
+      "img": "/assets/img/destination/pilgrimage/1.jpg",
       "location": "Rameshwaram, Tamil Nadu",
       "title": "Rameshwaram Pilgrimage & Temple Tour",
       "rating": "4.9",
@@ -1085,7 +1085,7 @@
       "innerpage": {
         "header": "Rameshwaram Pilgrimage & Temple Tour",
         "tage": "Pilgrimage Tour",
-        "img": "/assets/img/destination/pilgrimage/01.jpg",
+        "img": "/assets/img/destination/pilgrimage/1.jpg",
         "description": "Visit the sacred temples and experience the spiritual journey in Rameshwaram.",
         "faq": [
           {
@@ -1100,7 +1100,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/pilgrimage/02.jpg",
+      "img": "/assets/img/destination/pilgrimage/2.jpg",
       "location": "Madurai, Tamil Nadu",
       "title": "Meenakshi Amman Temple & Heritage Walk",
       "rating": "4.8",
@@ -1111,7 +1111,7 @@
       "innerpage": {
         "header": "Meenakshi Amman Temple & Heritage Walk",
         "tage": "Pilgrimage Tour",
-        "img": "/assets/img/destination/pilgrimage/02.jpg",
+        "img": "/assets/img/destination/pilgrimage/2.jpg",
         "description": "Explore the iconic Meenakshi Amman Temple and the cultural heritage of Madurai.",
         "faq": [
           {
@@ -1126,7 +1126,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/pilgrimage/03.jpg",
+      "img": "/assets/img/destination/pilgrimage/3.jpg",
       "location": "Kanyakumari, Tamil Nadu",
       "title": "Kanyakumari Sunrise & Temple Tour",
       "rating": "4.7",
@@ -1137,7 +1137,7 @@
       "innerpage": {
         "header": "Kanyakumari Sunrise & Temple Tour",
         "tage": "Pilgrimage Tour",
-        "img": "/assets/img/destination/pilgrimage/03.jpg",
+        "img": "/assets/img/destination/pilgrimage/3.jpg",
         "description": "Witness the breathtaking sunrise and visit famous temples in Kanyakumari.",
         "faq": [
           {
@@ -1152,7 +1152,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/pilgrimage/04.jpg",
+      "img": "/assets/img/destination/pilgrimage/4.jpg",
       "location": "Sabarimala, Kerala",
       "title": "Sabarimala Temple Pilgrimage",
       "rating": "4.9",
@@ -1163,7 +1163,7 @@
       "innerpage": {
         "header": "Sabarimala Temple Pilgrimage",
         "tage": "Pilgrimage Tour",
-        "img": "/assets/img/destination/pilgrimage/04.jpg",
+        "img": "/assets/img/destination/pilgrimage/4.jpg",
         "description": "Participate in the sacred pilgrimage to Sabarimala and experience spiritual rituals.",
         "faq": [
           {
@@ -1178,7 +1178,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/pilgrimage/05.jpg",
+      "img": "/assets/img/destination/pilgrimage/5.jpg",
       "location": "Thrissur, Kerala",
       "title": "Vadakkumnathan Temple & Cultural Tour",
       "rating": "4.8",
@@ -1189,7 +1189,7 @@
       "innerpage": {
         "header": "Vadakkumnathan Temple & Cultural Tour",
         "tage": "Pilgrimage Tour",
-        "img": "/assets/img/destination/pilgrimage/05.jpg",
+        "img": "/assets/img/destination/pilgrimage/5.jpg",
         "description": "Explore Vadakkumnathan Temple and experience the rich cultural heritage of Thrissur.",
         "faq": [
           {
@@ -1204,7 +1204,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/pilgrimage/06.jpg",
+      "img": "/assets/img/destination/pilgrimage/6.jpg",
       "location": "Palani, Tamil Nadu",
       "title": "Palani Murugan Temple Pilgrimage",
       "rating": "4.7",
@@ -1215,7 +1215,7 @@
       "innerpage": {
         "header": "Palani Murugan Temple Pilgrimage",
         "tage": "Pilgrimage Tour",
-        "img": "/assets/img/destination/pilgrimage/06.jpg",
+        "img": "/assets/img/destination/pilgrimage/6.jpg",
         "description": "Visit the Palani Murugan Temple and participate in spiritual rituals.",
         "faq": [
           {
@@ -1230,7 +1230,7 @@
       }
     },
     {
-      "img": "/assets/img/destination/pilgrimage/07.jpg",
+      "img": "/assets/img/destination/pilgrimage/7.jpg",
       "location": "Alleppey, Kerala",
       "title": "Backwater Temple & Spiritual Retreat",
       "rating": "4.6",
@@ -1241,7 +1241,7 @@
       "innerpage": {
         "header": "Backwater Temple & Spiritual Retreat",
         "tage": "Pilgrimage Tour",
-        "img": "/assets/img/destination/pilgrimage/07.jpg",
+        "img": "/assets/img/destination/pilgrimage/7.jpg",
         "description": "Combine spiritual retreat with serene backwater experiences in Alleppey.",
         "faq": [
           {
@@ -1256,7 +1256,7 @@
       }
     },
     {
-  "img": "/assets/img/destination/pilgrimage/08.jpg",
+  "img": "/assets/img/destination/pilgrimage/8.jpg",
   "location": "Rameshwaram, Tamil Nadu",
   "title": "Dhanushkodi & Coastal Pilgrimage Tour",
   "rating": "4.8",
@@ -1267,7 +1267,7 @@
   "innerpage": {
     "header": "Dhanushkodi & Coastal Pilgrimage Tour",
     "tage": "Pilgrimage Tour",
-    "img": "/assets/img/destination/pilgrimage/08.jpg",
+    "img": "/assets/img/destination/pilgrimage/8.jpg",
     "description": "Experience the serene beauty and spiritual significance of Dhanushkodi on this two-day pilgrimage tour. Walk along the pristine coastline, visit sacred temples, and witness the stunning sunrise over the Bay of Bengal. Ideal for travelers seeking a mix of spirituality, nature, and cultural exploration, this tour also offers guided insights into the history and legends of the region. Perfect for families, solo travelers, and photography enthusiasts looking to capture the essence of South India's coastal heritage.",
     "faq": [
       {

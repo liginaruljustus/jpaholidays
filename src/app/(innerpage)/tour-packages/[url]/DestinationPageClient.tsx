@@ -94,7 +94,7 @@ export default function DestinationPageClient() {
                       </li>
                     </ul>
                     <h5>
-                      <Link href="/tour/tour-details">{item.title}</Link>
+                      <Link href={`./${item.url}`}>{item.title}</Link>
                     </h5>
                     {/* <ul className="info">
                       <li><i className="bi bi-clock"></i> {item.day}</li>

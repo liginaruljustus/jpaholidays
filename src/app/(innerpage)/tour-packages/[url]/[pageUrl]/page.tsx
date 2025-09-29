@@ -11,6 +11,8 @@ type InnerPage = {
   tage: string;
   img: string;
   description: string;
+  description2:string;
+  description3:string;
   faq?: FAQ[];
 };
 
