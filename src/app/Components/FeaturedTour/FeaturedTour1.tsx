@@ -11,6 +11,7 @@ interface TourItem {
   location: string;
   title: string;
   price: string;
+  url:string;
 }
 
 interface FeaturedTour1Props {
@@ -122,13 +123,13 @@ const FeaturedTour1: React.FC<FeaturedTour1Props> = ({ tourContent }) => {
                     {/* Tour Content */}
                     <div className="feature-tour-content">
                       <h4>
-                        <Link href="/tour/tour-details">{parse(item.title)}</Link>
+                        <Link href={item.url}>{parse(item.title)}</Link>
                       </h4>
-                      <h5>
+                      {/* <h5>
                         {item.price}
                         <span>/Per person</span>
-                      </h5>
-                      <Link href="/tour/tour-details" className="icon" aria-label="View details">
+                      </h5> */}
+                      <Link href={item.url} className="icon" aria-label="View details">
                         <i className="bi bi-arrow-right"></i>
                       </Link>
                     </div>

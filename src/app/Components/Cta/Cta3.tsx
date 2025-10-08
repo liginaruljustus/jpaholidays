@@ -42,20 +42,20 @@ const Cta3 = () => {
                 </p>
                 <div className="app-image wow fadeInUp" data-wow-delay=".7s">
                   <Link href="/contact">
-                    <Image
+                    {/* <Image
                       src="/assets/img/apple-shape.png"
                       alt="Download on App Store"
                       width={180}
                       height={60}
-                    />
+                    /> */}
                   </Link>
                   <Link href="/contact">
-                    <Image
+                    {/* <Image
                       src="/assets/img/google-shape.png"
                       alt="Get it on Google Play"
                       width={200}
                       height={60}
-                    />
+                    /> */}
                   </Link>
                 </div>
               </div>

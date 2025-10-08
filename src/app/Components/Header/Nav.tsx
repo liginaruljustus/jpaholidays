@@ -17,8 +17,8 @@ export default function Nav({ setMobileToggle }) {
       </li>
 
       <li className="menu-item-has-children">
-        <Link href="/tour-packages" onClick={() => setMobileToggle(false)}>
-          Tour Packages
+        <Link href="/location-tour" onClick={() => setMobileToggle(false)}>
+          Location Tour
         </Link>
         <DropDown>
           <ul>

@@ -94,30 +94,35 @@ const tourContent = [
     location: "Madurai",
     title: "Meenakshi Temple <br>Spiritual Walk & History",
     price: "₹2,499",
+    url:"/madurai-tour/meenakshi-amman-temple",
   },
   {
     img: "/assets/img/feature/Thirumalai-Nayakkar-Mahal.jpg",
     location: "Madurai",
     title: "Thirumalai Nayakkar Mahal <br>Heritage Tour",
     price: "₹1,999",
+    url:""
   },
   {
     img: "/assets/img/feature/Madurai-Heritage.jpg",
     location: "Madurai",
     title: "Full-Day Madurai Heritage <br>and Cultural Tour",
     price: "₹3,999",
+    url:""
   },
   {
     img: "/assets/img/feature/Alagar-Koil-Tour.jpg",
     location: "Madurai",
     title: "Alagar Koil & Pazhamudhir Cholai <br>Temple Visit",
     price: "₹2,499",
+    url:""
   },
   {
     img: "/assets/img/feature/Vaigai-Dam-Tour.jpg",
     location: "Madurai",
     title: "Vaigai Dam & Scenic Gardens <br>Half-Day Trip",
     price: "₹1,499",
+    url:"/madurai-tour/meenakshi-amman-temple",
   },
 ];
 
