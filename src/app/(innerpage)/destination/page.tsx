@@ -191,24 +191,28 @@ const tourContent = [
     location: "Kanyakumari",
     title: "Sunrise & Sunset Point <br>Trip with Local Guide",
     price: "₹1,499",
+    url:""
   },
   {
     img: "/assets/img/feature/02.jpg",
     location: "Rameswaram",
     title: "2-Day Temple Tour <br>with AC Transport",
     price: "₹3,999",
+    url:""
   },
   {
     img: "/assets/img/feature/03.jpg",
     location: "Kerala",
     title: "3-Day Kerala Backwater <br>Tour Package",
     price: "₹6,499",
+    url:""
   },
   {
     img: "/assets/img/feature/04.jpg",
     location: "Kodaikanal",
     title: "Hill Station Escape <br>with Luxury Cab",
     price: "₹4,999",
+    url:""
   },
 ];
 const page = () => {

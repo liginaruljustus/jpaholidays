@@ -142,60 +142,70 @@ const tourContent = [
     location: "Munnar",
     title: "3-Day Tea Garden & Hill Station <br>Tour with Local Guide",
     price: "₹4,999",
+    url:""
   },
   {
     img: "/assets/img/feature/Alleppey-Houseboat.jpg",
     location: "Alappuzha",
     title: "Houseboat Backwater Cruise <br>All Meals Included",
     price: "₹6,499",
+    url:""
   },
   {
     img: "/assets/img/feature/Kochi-Heritage.jpg",
     location: "Kochi",
     title: "Heritage & Culture Walk <br>in Fort Kochi",
     price: "₹2,499",
+    url:""
   },
   {
     img: "/assets/img/feature/Thekkady-Wildlife.jpg",
     location: "Thekkady",
     title: "Periyar Wildlife Sanctuary <br>Jeep Safari & Spice Tour",
     price: "₹3,999",
+    url:""
   },
   {
     img: "/assets/img/feature/Kumarakom-BirdSanctuary.jpg",
     location: "Kumarakom",
     title: "Bird Sanctuary & Backwater <br>Day Trip",
     price: "₹2,999",
+    url:""
   },
   {
     img: "/assets/img/feature/Varkala-Beach.jpg",
     location: "Varkala",
     title: "Cliffside Beach & Water Sports <br>2-Day Package",
     price: "₹3,499",
+    url:""
   },
   {
     img: "/assets/img/feature/Wayanad-Adventure.jpg",
     location: "Wayanad",
     title: "Wayanad Hills & Wildlife <br>Adventure Tour",
     price: "₹5,499",
+    url:""
   },
   {
     img: "/assets/img/feature/Thiruvananthapuram-Zoo.jpg",
     location: "Thiruvananthapuram",
     title: "Thiruvananthapuram Zoo <br>Guided Wildlife Exploration",
     price: "₹1,499",
+    url:""
   },
   {
     img: "/assets/img/feature/Thrissur-Zoo.jpg",
     location: "Thrissur",
     title: "Thrissur Zoo & State Museum <br>One Day Cultural Trip",
     price: "₹1,299",
+    url:""
   },
   {
     img: "/assets/img/feature/Parassinikkadavu-Snake-Park.jpg",
     location: "Kannur",
     title: "Parassinikkadavu Snake Park <br>Reptile Encounter Tour",
     price: "₹1,199",
+    url:""
   },
 ];
 

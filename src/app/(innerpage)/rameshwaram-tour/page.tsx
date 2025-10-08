@@ -92,24 +92,28 @@ const tourContent = [
     location: "Rameswaram",
     title: "2-Day Rameswaram Temple <br>and Dhanushkodi Tour",
     price: "₹3,999",
+    url:""
   },
   {
     img: "/assets/img/feature/Pamban-Bridge.jpg",
     location: "Rameswaram",
     title: "Pamban Bridge & Sea View <br>Photography Tour",
     price: "₹1,999",
+    url:""
   },
   {
     img: "/assets/img/feature/Dhanushkodi.jpg",
     location: "Rameswaram",
     title: "Dhanushkodi Ghost Town <br>Sunrise & Beach Drive",
     price: "₹2,499",
+    url:""
   },
   {
     img: "/assets/img/feature/Rameswaram-Beach.jpg",
     location: "Rameswaram",
     title: "Water Sports & Beach Fun <br>Half-Day Trip",
     price: "₹1,499",
+    url:""
   },
 ];
 
