@@ -152,30 +152,35 @@ const tourContent = [
     location: "Kanyakumari",
     title: "Sunrise & Sunset Point <br>Trip with Local Guide",
     price: "₹1,499",
+    url:""
   },
   {
     img: "/assets/img/feature/Vivekananda-Rock.jpg",
     location: "Vivekananda Rock",
     title: "Memorial & Thiruvalluvar Statue <br>Boat Ride & Guided Tour",
     price: "₹1,999",
+    url:""
   },
   {
     img: "/assets/img/feature/Padmanabhapuram-Palace.jpg",
     location: "Padmanabhapuram",
     title: "Padmanabhapuram Palace <br>Heritage & Culture Tour",
     price: "₹1,299",
+    url:""
   },
   {
     img: "/assets/img/feature/Nagercoil-Temples.jpg",
     location: "Nagercoil",
     title: "Nagercoil & Suchindram Temple <br>One Day Spiritual Trip",
     price: "₹1,799",
+    url:""
   },
   {
     img: "/assets/img/feature/Thirparappu-Waterfalls.jpg",
     location: "Thirparappu",
     title: "Thirparappu Waterfalls & <br>Mathur Aqueduct Adventure",
     price: "₹1,499",
+    url:""
   },
   {
     img: "/assets/img/feature/Pechiparai-Dam.jpg",
@@ -183,12 +188,14 @@ const tourContent = [
     title:
       "Pechiparai, Perunchani & Chittar Dams <br>Nature & Photography Tour",
     price: "₹1,699",
+    url:""
   },
   {
     img: "/assets/img/feature/Wildlife-Tour.jpg",
     location: "KMTR",
     title: "Kalakkadu–Mundanthurai Tiger Reserve <br>Wildlife Safari & Trek",
     price: "₹2,499",
+    url:""
   },
 ];
 
