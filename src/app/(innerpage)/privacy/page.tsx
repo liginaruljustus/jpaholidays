@@ -1,203 +1,5 @@
 import React from "react";
 import BreadCumb from "../../Components/Common/BreadCumb";
-import Destination4 from "./kanuakumariTour";
-import Story1 from "../../Components/Story/Story1";
-import FeaturedTour1 from "../../Components/FeaturedTour/FeaturedTour1";
-const destinationContent = [
-  {
-    img: "/assets/img/destination/new/Kanyakumari.jpg",
-    location: "Kanyakumari",
-    url: "/kanyakumari-tour/Kanyakumari",
-    title: "Sunrise & Sunset Point",
-    rating: "4.7",
-    day: "10 Days",
-    number: "50+",
-    price: "₹59.00",
-  },
-  {
-    img: "/assets/img/destination/new/Vivekananda Rock.jpg",
-    location: "Vivekananda Rock",
-    url: "/kanyakumari-tour/Vivekananda-Rock",
-    title: "Memorial & Temple",
-    rating: "4.7",
-    day: "10 Days",
-    number: "50+",
-    price: "₹59.00",
-  },
-  {
-    img: "/assets/img/destination/new/Thiruvalluvar Statue.jpg",
-    location: "Thiruvalluvar Statue",
-    url: "/kanyakumari-tour/Thiruvalluvar-Statue",
-    title: "133ft Iconic Monument",
-    rating: "4.7",
-    day: "10 Days",
-    number: "50+",
-    price: "₹59.00",
-  },
-  {
-    img: "/assets/img/destination/new/Padmanabhapuram Palace.jpg",
-    location: "Padmanabhapuram Palace",
-    url: "/kanyakumari-tour/Padmanabhapuram-Palace",
-    title: "Historic Wooden Palace",
-    rating: "4.7",
-    day: "10 Days",
-    number: "50+",
-    price: "₹59.00",
-  },
-  {
-    img: "/assets/img/destination/new/Kanyakumari Beach.jpg",
-    location: "Kanyakumari Beach",
-    url: "/kanyakumari-tour/Kanyakumari-Beach",
-    title: "Scenic Coastal Views",
-    rating: "4.7",
-    day: "10 Days",
-    number: "50+",
-    price: "₹59.00",
-  },
-  {
-    img: "/assets/img/destination/new/Nagercoil.jpg",
-    location: "Nagercoil",
-    url: "/kanyakumari-tour/Nagercoil",
-    title: "City of Temples & Culture",
-    rating: "4.6",
-    day: "5 Days",
-    number: "40+",
-    price: "₹49.00",
-  },
-  {
-    img: "/assets/img/destination/new/Suchindram Temple.jpg",
-    location: "Suchindram Temple",
-    url: "/kanyakumari-tour/Suchindram-Temple",
-    title: "Musical Pillars & Tall Hanuman Statue",
-    rating: "4.7",
-    day: "3 Days",
-    number: "30+",
-    price: "₹39.00",
-  },
-  {
-    img: "/assets/img/destination/new/Pechiparai Dam.jpg",
-    location: "Pechiparai Dam",
-    url: "/kanyakumari-tour/Pechiparai-Dam",
-    title: "Scenic Dam & Boating",
-    rating: "4.6",
-    day: "2 Days",
-    number: "20+",
-    price: "₹29.00",
-  },
-  {
-    img: "/assets/img/destination/new/Perunchani Dam.jpg",
-    location: "Perunchani Dam",
-    url: "/kanyakumari-tour/Perunchani-Dam",
-    title: "Dam Amidst Lush Hills",
-    rating: "4.5",
-    day: "2 Days",
-    number: "15+",
-    price: "₹29.00",
-  },
-  {
-    img: "/assets/img/destination/new/Chittar Dam.jpg",
-    location: "Chittar Dam",
-    url: "/kanyakumari-tour/Chittar-Dam",
-    title: "Twin Reservoir Scenic Views",
-    rating: "4.5",
-    day: "2 Days",
-    number: "15+",
-    price: "₹29.00",
-  },
-  {
-    img: "/assets/img/destination/new/Mukkadal Dam.jpg",
-    location: "Mukkadal Dam",
-    url: "/kanyakumari-tour/Mukkadal-Dam",
-    title: "Peaceful Picnic Spot",
-    rating: "4.4",
-    day: "1 Day",
-    number: "10+",
-    price: "₹19.00",
-  },
-  {
-    img: "/assets/img/destination/new/Mathur Aqueduct.jpg",
-    location: "Mathur Aqueduct",
-    url: "/kanyakumari-tour/Mathur-Aqueduct",
-    title: "Asia’s Longest Trough Bridge",
-    rating: "4.7",
-    day: "1 Day",
-    number: "10+",
-    price: "₹19.00",
-  },
-  {
-    img: "/assets/img/destination/new/Thirparappu Waterfalls.jpg",
-    location: "Thirparappu Waterfalls",
-    url: "/kanyakumari-tour/Thirparappu-Waterfalls",
-    title: "Scenic Falls & Bathing Spot",
-    rating: "4.8",
-    day: "1 Day",
-    number: "20+",
-    price: "₹19.00",
-  },
-  {
-    img: "/assets/img/destination/new/Wildlife Sanctuary.jpg",
-    location: "Kalakkadu–Mundanthurai Tiger Reserve",
-    url: "/kanyakumari-tour/Kalakkadu-Mundanthurai-Tiger-Reserve",
-    title: "Wildlife & Nature Trails",
-    rating: "4.6",
-    day: "2 Days",
-    number: "15+",
-    price: "₹39.00",
-  },
-];
-
-const tourContent = [
-  {
-    img: "/assets/img/feature/Kanyakumari-Sunrise.jpg",
-    location: "Kanyakumari",
-    title: "Sunrise & Sunset Point <br>Trip with Local Guide",
-    price: "₹1,499",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Vivekananda-Rock.jpg",
-    location: "Vivekananda Rock",
-    title: "Memorial & Thiruvalluvar Statue <br>Boat Ride & Guided Tour",
-    price: "₹1,999",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Padmanabhapuram-Palace.jpg",
-    location: "Padmanabhapuram",
-    title: "Padmanabhapuram Palace <br>Heritage & Culture Tour",
-    price: "₹1,299",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Nagercoil-Temples.jpg",
-    location: "Nagercoil",
-    title: "Nagercoil & Suchindram Temple <br>One Day Spiritual Trip",
-    price: "₹1,799",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Thirparappu-Waterfalls.jpg",
-    location: "Thirparappu",
-    title: "Thirparappu Waterfalls & <br>Mathur Aqueduct Adventure",
-    price: "₹1,499",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Pechiparai-Dam.jpg",
-    location: "Pechiparai",
-    title:
-      "Pechiparai, Perunchani & Chittar Dams <br>Nature & Photography Tour",
-    price: "₹1,699",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Wildlife-Tour.jpg",
-    location: "KMTR",
-    title: "Kalakkadu–Mundanthurai Tiger Reserve <br>Wildlife Safari & Trek",
-    price: "₹2,499",
-    url:""
-  },
-];
 
 const page = () => {
   return (
@@ -205,10 +7,83 @@ const page = () => {
       <BreadCumb
         bgimg="/assets/img/breadcrumb/breadcrumb.jpg"
         Title="Privacy Policy"
-      ></BreadCumb>
-      <Destination4 destinationContent={destinationContent}></Destination4>
-      <Story1></Story1>
-      <FeaturedTour1 tourContent={tourContent}></FeaturedTour1>
+      />
+      <section className="popular-destination-section section-padding">
+        <div className="container">
+          <div className="privacy-policy-content">
+            <h2>Privacy Policy</h2>
+            <p className="mb-2">
+              At <strong>JP Cabs</strong>, your privacy is our top priority. This Privacy Policy 
+              explains how we collect, use, and protect your personal information when you use 
+              our website, services, and applications.
+            </p>
+
+            <h3>1. Information We Collect</h3>
+           <p className="mb-2">
+              When you book a cab, contact us, or browse our website, we may collect the following 
+              types of information:
+            </p>
+            <ul>
+              <li>Personal details such as your name, email address, phone number, and billing information.</li>
+              <li>Travel details including pickup and drop locations, dates, and preferences.</li>
+              <li>Information automatically collected through cookies and analytics tools.</li>
+            </ul>
+
+            <h3>2. How We Use Your Information</h3>
+            <p className="mb-2">
+              We use your information to provide and improve our services, including:
+            </p>
+           <ul className="mb-2">
+  <li>✅ Processing cab bookings, payments, and confirmations.</li>
+  <li>✅ Providing personalized offers, updates, and customer support.</li>
+  <li>✅ Improving our website, services, and user experience.</li>
+  <li>✅ Complying with legal and regulatory obligations.</li>
+</ul>
+
+
+            <h3>3. Data Sharing and Security</h3>
+            <p className="mb-2">
+              We take your privacy seriously and do not sell or rent your personal information. 
+              We may share data with trusted third parties only when necessary to provide our services, 
+              such as payment processors or regulatory authorities. We implement strict security measures 
+              to protect your data from unauthorized access, alteration, or disclosure.
+            </p>
+
+            <h3>4. Cookies and Tracking</h3>
+           <p className="mb-2">
+              Our website uses cookies and similar technologies to enhance your experience. 
+              Cookies help us analyze website traffic, remember preferences, and display relevant content. 
+              You can manage or disable cookies through your browser settings.
+            </p>
+
+            <h3>5. Your Rights</h3>
+            <p className="mb-2">
+              You have the right to access, update, or delete your personal information at any time. 
+              You can also opt-out of promotional communications by contacting us directly.
+            </p>
+
+            <h3>6. Children’s Privacy</h3>
+            <p className="mb-2">
+              JP Cabs does not knowingly collect personal information from children under 13. 
+              If we become aware that we have collected information from a child without parental consent, 
+              we will delete it promptly.
+            </p>
+
+            <h3>7. Changes to this Privacy Policy</h3>
+           <p className="mb-2">
+              We may update this Privacy Policy from time to time. Any changes will be posted on this page 
+              with the effective date. We encourage you to review the Privacy Policy periodically.
+            </p>
+
+            <h3>8. Contact Us</h3>
+            <p className="mb-2">
+              If you have any questions or concerns about this Privacy Policy or how we handle your personal 
+              information, please contact us at: 
+              <strong> jpatravelcab@gmail.com</strong>
+            </p>
+          </div>
+        </div>
+      </section>
     </div>
   );
 };

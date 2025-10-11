@@ -86,7 +86,7 @@ const destinationContent = [
     price: "₹59.00",
   },
   {
-    img: "/assets/img/destination/new/Rameshwaram.jpg",
+    img: "/assets/img/destination/new/Rameswaram.jpg",
     location: "Rameshwaram",
     title: "Sacred Pilgrimage Island",
     rating: "4.7",

@@ -4,6 +4,44 @@ import Nav from "./Nav";
 import Link from "next/link";
 import Image from "next/image";
 export default function Header1({ variant }: any) {
+  const [cabForm, setCabForm] = useState({
+  name: "",
+  email: "",
+  phone: "",
+  destination: "",
+  notes: "",
+});
+
+const [cabStatus, setCabStatus] = useState("");
+
+const handleCabChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+  setCabForm({ ...cabForm, [e.target.name]: e.target.value });
+};
+
+const handleCabSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+  e.preventDefault();
+  setCabStatus("Sending...");
+
+  try {
+    const res = await fetch("/api/sendCab", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(cabForm),
+    });
+
+    const data = await res.json();
+
+    if (res.ok) {
+      setCabStatus("Request sent successfully!");
+      setCabForm({ name: "", email: "", phone: "", destination: "", notes: "" });
+    } else {
+      setCabStatus(data.message || "Failed to send request");
+    }
+  } catch (err) {
+    console.error(err);
+    setCabStatus("Something went wrong");
+  }
+};
   const [mobileToggle, setMobileToggle] = useState(false);
   const [isSticky, setIsSticky] = useState<string>("");
   const [prevScrollPos, setPrevScrollPos] = useState<number>(0);
@@ -112,26 +150,58 @@ export default function Header1({ variant }: any) {
           </div>
         </div>
       </div>
-      {cabModal && (
-        <div className="modal-overlay">
-          <div className="modal-content">
-            <button className="modal-close" onClick={() => setCabModal(false)}>
-              ✕
-            </button>
-            <h3>Book a Cab Service</h3>
-            <form className="cab-form">
-              <input type="text" placeholder="Your Name" required />
-              <input type="email" placeholder="Your Email" required />
-              <input type="tel" placeholder="Phone Number" required />
-              <input type="text" placeholder="Destination / Place to Visit" />
-              <textarea placeholder="Additional Notes"></textarea>
-              <button type="submit" className="theme-btn w-full mt-2">
-                Submit Request
-              </button>
-            </form>
-          </div>
-        </div>
-      )}
+     {cabModal && (
+  <div className="modal-overlay">
+    <div className="modal-content">
+      <button className="modal-close" onClick={() => setCabModal(false)}>✕</button>
+      <h3>Book a Cab Service</h3>
+      <form className="cab-form" onSubmit={handleCabSubmit}>
+        <input
+          type="text"
+          name="name"
+          placeholder="Your Name"
+          value={cabForm.name}
+          onChange={handleCabChange}
+          required
+        />
+        <input
+          type="email"
+          name="email"
+          placeholder="Your Email"
+          value={cabForm.email}
+          onChange={handleCabChange}
+          required
+        />
+        <input
+          type="tel"
+          name="phone"
+          placeholder="Phone Number"
+          value={cabForm.phone}
+          onChange={handleCabChange}
+          required
+        />
+        <input
+          type="text"
+          name="destination"
+          placeholder="Destination / Place to Visit"
+          value={cabForm.destination}
+          onChange={handleCabChange}
+        />
+        <textarea
+          name="notes"
+          placeholder="Additional Notes"
+          value={cabForm.notes}
+          onChange={handleCabChange}
+        ></textarea>
+        <button type="submit" className="theme-btn w-full mt-2">
+          Submit Request
+        </button>
+      </form>
+      {cabStatus && <p className="mt-2">{cabStatus}</p>}
+    </div>
+  </div>
+)}
+
 
       {/* Simple CSS (can move to global.css / module.css) */}
       <style jsx>{`
@@ -164,14 +234,7 @@ export default function Header1({ variant }: any) {
           font-size: 20px;
           cursor: pointer;
         }
-        .cab-form input,
-        .cab-form textarea {
-          width: 100%;
-          margin-bottom: 12px;
-          padding: 10px;
-          border: 1px solid #ddd;
-          border-radius: 8px;
-        }
+        
         .cab-form textarea {
           min-height: 80px;
         }

@@ -11323,3 +11323,12 @@ input.main-search-input::placeholder {
   option {
   color: #000;
 }
+.cab-form input,
+        .cab-form textarea {
+          width: 100%;
+          margin-bottom: 12px;
+          padding: 10px;
+          border: 1px solid #ddd;
+          border-radius: 8px;
+          color:#000;
+        }

@@ -1,214 +1,80 @@
 import React from "react";
 import BreadCumb from "../../Components/Common/BreadCumb";
-import Destination4 from "./kanuakumariTour";
-import Story1 from "../../Components/Story/Story1";
-import FeaturedTour1 from "../../Components/FeaturedTour/FeaturedTour1";
-const destinationContent = [
-  {
-    img: "/assets/img/destination/new/Kanyakumari.jpg",
-    location: "Kanyakumari",
-    url: "/kanyakumari-tour/Kanyakumari",
-    title: "Sunrise & Sunset Point",
-    rating: "4.7",
-    day: "10 Days",
-    number: "50+",
-    price: "₹59.00",
-  },
-  {
-    img: "/assets/img/destination/new/Vivekananda Rock.jpg",
-    location: "Vivekananda Rock",
-    url: "/kanyakumari-tour/Vivekananda-Rock",
-    title: "Memorial & Temple",
-    rating: "4.7",
-    day: "10 Days",
-    number: "50+",
-    price: "₹59.00",
-  },
-  {
-    img: "/assets/img/destination/new/Thiruvalluvar Statue.jpg",
-    location: "Thiruvalluvar Statue",
-    url: "/kanyakumari-tour/Thiruvalluvar-Statue",
-    title: "133ft Iconic Monument",
-    rating: "4.7",
-    day: "10 Days",
-    number: "50+",
-    price: "₹59.00",
-  },
-  {
-    img: "/assets/img/destination/new/Padmanabhapuram Palace.jpg",
-    location: "Padmanabhapuram Palace",
-    url: "/kanyakumari-tour/Padmanabhapuram-Palace",
-    title: "Historic Wooden Palace",
-    rating: "4.7",
-    day: "10 Days",
-    number: "50+",
-    price: "₹59.00",
-  },
-  {
-    img: "/assets/img/destination/new/Kanyakumari Beach.jpg",
-    location: "Kanyakumari Beach",
-    url: "/kanyakumari-tour/Kanyakumari-Beach",
-    title: "Scenic Coastal Views",
-    rating: "4.7",
-    day: "10 Days",
-    number: "50+",
-    price: "₹59.00",
-  },
-  {
-    img: "/assets/img/destination/new/Nagercoil.jpg",
-    location: "Nagercoil",
-    url: "/kanyakumari-tour/Nagercoil",
-    title: "City of Temples & Culture",
-    rating: "4.6",
-    day: "5 Days",
-    number: "40+",
-    price: "₹49.00",
-  },
-  {
-    img: "/assets/img/destination/new/Suchindram Temple.jpg",
-    location: "Suchindram Temple",
-    url: "/kanyakumari-tour/Suchindram-Temple",
-    title: "Musical Pillars & Tall Hanuman Statue",
-    rating: "4.7",
-    day: "3 Days",
-    number: "30+",
-    price: "₹39.00",
-  },
-  {
-    img: "/assets/img/destination/new/Pechiparai Dam.jpg",
-    location: "Pechiparai Dam",
-    url: "/kanyakumari-tour/Pechiparai-Dam",
-    title: "Scenic Dam & Boating",
-    rating: "4.6",
-    day: "2 Days",
-    number: "20+",
-    price: "₹29.00",
-  },
-  {
-    img: "/assets/img/destination/new/Perunchani Dam.jpg",
-    location: "Perunchani Dam",
-    url: "/kanyakumari-tour/Perunchani-Dam",
-    title: "Dam Amidst Lush Hills",
-    rating: "4.5",
-    day: "2 Days",
-    number: "15+",
-    price: "₹29.00",
-  },
-  {
-    img: "/assets/img/destination/new/Chittar Dam.jpg",
-    location: "Chittar Dam",
-    url: "/kanyakumari-tour/Chittar-Dam",
-    title: "Twin Reservoir Scenic Views",
-    rating: "4.5",
-    day: "2 Days",
-    number: "15+",
-    price: "₹29.00",
-  },
-  {
-    img: "/assets/img/destination/new/Mukkadal Dam.jpg",
-    location: "Mukkadal Dam",
-    url: "/kanyakumari-tour/Mukkadal-Dam",
-    title: "Peaceful Picnic Spot",
-    rating: "4.4",
-    day: "1 Day",
-    number: "10+",
-    price: "₹19.00",
-  },
-  {
-    img: "/assets/img/destination/new/Mathur Aqueduct.jpg",
-    location: "Mathur Aqueduct",
-    url: "/kanyakumari-tour/Mathur-Aqueduct",
-    title: "Asia’s Longest Trough Bridge",
-    rating: "4.7",
-    day: "1 Day",
-    number: "10+",
-    price: "₹19.00",
-  },
-  {
-    img: "/assets/img/destination/new/Thirparappu Waterfalls.jpg",
-    location: "Thirparappu Waterfalls",
-    url: "/kanyakumari-tour/Thirparappu-Waterfalls",
-    title: "Scenic Falls & Bathing Spot",
-    rating: "4.8",
-    day: "1 Day",
-    number: "20+",
-    price: "₹19.00",
-  },
-  {
-    img: "/assets/img/destination/new/Wildlife Sanctuary.jpg",
-    location: "Kalakkadu–Mundanthurai Tiger Reserve",
-    url: "/kanyakumari-tour/Kalakkadu-Mundanthurai-Tiger-Reserve",
-    title: "Wildlife & Nature Trails",
-    rating: "4.6",
-    day: "2 Days",
-    number: "15+",
-    price: "₹39.00",
-  },
-];
-
-const tourContent = [
-  {
-    img: "/assets/img/feature/Kanyakumari-Sunrise.jpg",
-    location: "Kanyakumari",
-    title: "Sunrise & Sunset Point <br>Trip with Local Guide",
-    price: "₹1,499",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Vivekananda-Rock.jpg",
-    location: "Vivekananda Rock",
-    title: "Memorial & Thiruvalluvar Statue <br>Boat Ride & Guided Tour",
-    price: "₹1,999",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Padmanabhapuram-Palace.jpg",
-    location: "Padmanabhapuram",
-    title: "Padmanabhapuram Palace <br>Heritage & Culture Tour",
-    price: "₹1,299",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Nagercoil-Temples.jpg",
-    location: "Nagercoil",
-    title: "Nagercoil & Suchindram Temple <br>One Day Spiritual Trip",
-    price: "₹1,799",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Thirparappu-Waterfalls.jpg",
-    location: "Thirparappu",
-    title: "Thirparappu Waterfalls & <br>Mathur Aqueduct Adventure",
-    price: "₹1,499",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Pechiparai-Dam.jpg",
-    location: "Pechiparai",
-    title:
-      "Pechiparai, Perunchani & Chittar Dams <br>Nature & Photography Tour",
-    price: "₹1,699",
-    url:""
-  },
-  {
-    img: "/assets/img/feature/Wildlife-Tour.jpg",
-    location: "KMTR",
-    title: "Kalakkadu–Mundanthurai Tiger Reserve <br>Wildlife Safari & Trek",
-    price: "₹2,499",
-    url:""
-  },
-];
 
 const page = () => {
   return (
     <div>
       <BreadCumb
         bgimg="/assets/img/breadcrumb/breadcrumb.jpg"
-        Title="Terms of Use"
-      ></BreadCumb>
-      <Destination4 destinationContent={destinationContent}></Destination4>
-      <Story1></Story1>
-      <FeaturedTour1 tourContent={tourContent}></FeaturedTour1>
+        Title="Terms and Conditions"
+      />
+      <section className="popular-destination-section section-padding">
+        <div className="container">
+          <div className="terms-conditions-content">
+            <h2>Terms and Conditions</h2>
+            <p className="mb-2">
+              Welcome to <strong>JP Cabs</strong>. By using our website, services, or booking a cab through us, you agree to abide by the following terms and conditions. Please read them carefully.
+            </p>
+
+            <h3>1. Booking and Payment</h3>
+            <ul className="mb-2">
+              <li>✅ All bookings must be confirmed through our website, app, or official contact channels.</li>
+              <li>✅ Payments must be completed before the scheduled service unless otherwise agreed.</li>
+              <li>✅ JP Cabs reserves the right to cancel a booking if payment is not received on time.</li>
+            </ul>
+
+            <h3>2. Cancellations and Refunds</h3>
+            <ul className="mb-2">
+              <li>✅ Cancellations must be communicated via email or phone.</li>
+              <li>✅ Refund policies depend on the package or service booked and may include cancellation fees.</li>
+              <li>✅ JP Cabs will process refunds within a reasonable timeframe after verification.</li>
+            </ul>
+
+            <h3>3. Vehicle Use</h3>
+            <ul className="mb-2">
+              <li>✅ Vehicles must be used responsibly and only for the purpose stated in the booking.</li>
+              <li>✅ Drivers are professionals trained for safe, courteous, and timely service.</li>
+              <li>✅ Any damage caused by misuse or negligence will be charged to the customer.</li>
+            </ul>
+
+            <h3>4. Customer Responsibilities</h3>
+            <ul className="mb-2">
+              <li>✅ Provide accurate personal and travel information during booking.</li>
+              <li>✅ Comply with local traffic and safety rules while using the service.</li>
+              <li>✅ Ensure belongings are secure; JP Cabs is not responsible for lost personal items.</li>
+            </ul>
+
+            <h3>5. Limitation of Liability</h3>
+            <p className="mb-2">
+              JP Cabs is not liable for delays caused by weather, traffic, road conditions, or events beyond our control. We strive for timely service but cannot guarantee exact arrival times.
+            </p>
+
+            <h3>6. Outstation & Tour Services</h3>
+            <ul className="mb-2">
+              <li>✅ Outstation and tour packages are subject to availability and route conditions.</li>
+              <li>✅ Customers are responsible for any permits, entry fees, or local taxes during tours.</li>
+              <li>✅ JP Cabs reserves the right to modify itineraries for safety or operational reasons.</li>
+            </ul>
+
+            <h3>7. Intellectual Property</h3>
+            <p className="mb-2">
+              All content on the JP Cabs website, including images, text, and logos, is the property of JP Cabs. Unauthorized use or reproduction is prohibited.
+            </p>
+
+            <h3>8. Governing Law</h3>
+            <p className="mb-2">
+              These terms and conditions are governed by the laws of India. Any disputes arising from the use of JP Cabs services shall be subject to the jurisdiction of courts in Tamil Nadu.
+            </p>
+
+            <h3>9. Contact Us</h3>
+            <p className="mb-2">
+              For questions or clarifications regarding our Terms and Conditions, please contact us at: 
+              <strong> jpatravelcab@gmail.com</strong>
+            </p>
+
+          </div>
+        </div>
+      </section>
     </div>
   );
 };

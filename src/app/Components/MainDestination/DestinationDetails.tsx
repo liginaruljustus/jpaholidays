@@ -1,6 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
+import  Form2 from "../../Components/Form/Form2"
+import RecentBlog from "../../Components/Blog/RecentBlog"
 
 type Destination = {
   title: string;
@@ -110,44 +112,7 @@ const DestinationDetails = ({ destination }: Props) => {
                     <h4>Contact for Booking</h4>
                   </div>
                   <div className="desti-booking-form">
-                    <form action="#" method="POST">
-                      <div className="row g-4">
-                        <div className="col-lg-12">
-                          <div className="form-clt">
-                            <input
-                              type="text"
-                              name="name"
-                              placeholder="Your Name"
-                            />
-                          </div>
-                        </div>
-                        <div className="col-lg-12">
-                          <div className="form-clt">
-                            <input
-                              type="text"
-                              name="email"
-                              placeholder="Your Email"
-                            />
-                          </div>
-                        </div>
-                        <div className="col-lg-12">
-                          <div className="form-clt">
-                            <textarea
-                              name="message"
-                              placeholder="Type Comment Here"
-                            ></textarea>
-                          </div>
-                        </div>
-                        <div className="col-lg-12">
-                          <button
-                            type="submit"
-                            className="theme-btn text-center"
-                          >
-                            Send Now <i className="bi bi-arrow-right"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </form>
+                     <Form2 />
                   </div>
                 </div>
 
@@ -156,49 +121,7 @@ const DestinationDetails = ({ destination }: Props) => {
                   <div className="wid-title">
                     <h4>Recent Tours</h4>
                   </div>
-                  <div className="recent-post-area">
-                    <div className="recent-items">
-                      <div className="recent-thumb">
-                        <Image
-                          src="/assets/img/destails/pp1.jpg"
-                          alt="img"
-                          width={100}
-                          height={100}
-                        />
-                      </div>
-                      <div className="recent-content">
-                        <h6>
-                          <Link href="/blog/blog-details">
-                            Enrich Your Mind Envision Your Future Education for
-                            Success
-                          </Link>
-                        </h6>
-                        <span className="price-text">
-                          From:<b>$171</b>
-                        </span>
-                      </div>
-                    </div>
-                    <div className="recent-items">
-                      <div className="recent-thumb">
-                        <Image
-                          src="/assets/img/destails/pp2.jpg"
-                          alt="img"
-                          width={100}
-                          height={100}
-                        />
-                      </div>
-                      <div className="recent-content">
-                        <h6>
-                          <Link href="/blog/blog-details">
-                            Meet Skeleton Svelte Taile Sindey For Reactive UIs
-                          </Link>
-                        </h6>
-                        <span className="price-text">
-                          From:<b>$171</b>
-                        </span>
-                      </div>
-                    </div>
-                  </div>
+                  <RecentBlog/>
                 </div>
               </div>
             </div>
