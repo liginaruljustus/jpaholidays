@@ -1,6 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import Faq1 from "./FAQ1"; // import your FAQ component
+import Form2 from "../../../../Components/Form/Form2"
 
 type FAQ = { title: string; content: string };
 
@@ -96,33 +97,7 @@ const DestinationDetails = ({ innerpage }: Props) => {
                     <h4>Contact for Booking</h4>
                   </div>
                   <div className="desti-booking-form">
-                    <form action="#" method="POST">
-                      <div className="row g-4">
-                        <div className="col-lg-12">
-                          <div className="form-clt">
-                            <input type="text" name="name" placeholder="Your Name" />
-                          </div>
-                        </div>
-                        <div className="col-lg-12">
-                          <div className="form-clt">
-                            <input type="text" name="email" placeholder="Your Email" />
-                          </div>
-                        </div>
-                        <div className="col-lg-12">
-                          <div className="form-clt">
-                            <textarea
-                              name="message"
-                              placeholder="Type Comment Here"
-                            ></textarea>
-                          </div>
-                        </div>
-                        <div className="col-lg-12">
-                          <button type="submit" className="theme-btn text-center">
-                            Send Now <i className="bi bi-arrow-right"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </form>
+                   <Form2/>
                   </div>
                 </div>
               </div>
