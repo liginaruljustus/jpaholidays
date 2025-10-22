@@ -1,10 +1,22 @@
 import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 
+interface ContactFormRequest {
+  name: string;
+  email: string;
+  number?: string;
+  destination?: string;
+  date?: string;
+  message: string;
+  page?: string;
+}
+
 export async function POST(req: NextRequest) {
   try {
-    const { name, email, number, destination, date, message, page } = await req.json();
+    const { name, email, number, destination, date, message, page } =
+      (await req.json()) as ContactFormRequest;
 
+    // Validate required fields
     if (!name || !email || !message) {
       return NextResponse.json(
         { message: "Missing required fields" },
@@ -18,13 +30,12 @@ export async function POST(req: NextRequest) {
       port: 587,
       secure: false,
       auth: {
-        user: "bluemoonconstruction4u@gmail.com", // set in .env
-        pass: "swohrpuloqzysmjc", // set in .env
+        user: process.env.EMAIL_USER, // from .env
+        pass: process.env.EMAIL_PASS, // from .env
       },
     });
 
-    // Send the email
-    await transporter.sendMail({
+    const mailOptions = {
       from: `"Contact Form" <${process.env.EMAIL_USER}>`,
       to: "jpaholidaystravel@gmail.com",
       subject: "New Contact Form Submission",
@@ -38,11 +49,35 @@ export async function POST(req: NextRequest) {
         <p><strong>Date:</strong> ${date || "-"}</p>
         <p><strong>Message:</strong><br/>${message}</p>
       `,
-    });
+    };
 
-    return NextResponse.json({ message: "Email sent successfully" }, { status: 200 });
+    try {
+      await transporter.sendMail(mailOptions);
+      return NextResponse.json(
+        { message: "Email sent successfully" },
+        { status: 200 }
+      );
+    } catch (err: any) {
+      console.error("Mail sending failed:", err.message);
+
+      // Handle Gmail rate-limit (450) errors
+      if (err.responseCode === 450) {
+        return NextResponse.json(
+          {
+            message:
+              "Recipient temporarily cannot receive emails. Please try again later.",
+          },
+          { status: 429 }
+        );
+      }
+
+      return NextResponse.json(
+        { message: "Email send failed" },
+        { status: 500 }
+      );
+    }
   } catch (err) {
-    console.error(err);
-    return NextResponse.json({ message: "Email send failed" }, { status: 500 });
+    console.error("Request parsing error:", err);
+    return NextResponse.json({ message: "Invalid request" }, { status: 400 });
   }
 }

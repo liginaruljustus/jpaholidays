@@ -41,7 +41,7 @@ const HeroBanner2 = () => {
   className="hero-btns wow fadeInUp flex flex-col sm:flex-row gap-4 "
   data-wow-delay=".7s"
 >
-  <a href="#book-now" className="theme-btn">
+  <a href="/contact" className="theme-btn">
     Book Your Taxi Now
   </a>
   {/* <a href="#tour-packages" className="theme-btn secondary-btn">

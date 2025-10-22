@@ -18,13 +18,13 @@ const Footer1: React.FC = () => {
       <div className="container">
         <div className="footer-widget-wrapper-new">
           <div className="row">
-            {/* Logo & Newsletter */}
+            {/* Logo & Company Info */}
             <div
               className="col-xl-4 col-lg-5 col-md-8 col-sm-6 wow fadeInUp"
               data-wow-delay=".2s"
             >
-              <div className="single-widget-items text-center">
-                <div className="widget-head">
+              <div className="single-widget-items text-center text-lg-start d-flex flex-column align-items-center">
+                <div className="widget-head mb-3">
                   <Link href="/" aria-label="JPACabs Home">
                     <Image
                       src="/assets/img/logo/white-logo.svg"
@@ -35,22 +35,15 @@ const Footer1: React.FC = () => {
                     />
                   </Link>
                 </div>
-                <div className="footer-content">
-                  <h3>Subscribe Newsletter</h3>
-                  <p>Get Our Latest Deals and Updates</p>
-                  <form className="footer-input">
-                    <input
-                      type="email"
-                      id="email2"
-                      placeholder="Your email address"
-                      aria-label="Email Address"
-                      required
-                    />
-                    <button className="newsletter-btn theme-btn" type="submit">
-                      Subscribe <i className="bi bi-arrow-right"></i>
-                    </button>
-                  </form>
-                  <div className="social-icon d-flex align-items-center justify-content-center">
+                <div className="footer-content d-flex flex-column align-items-center">
+                  <p>
+                    We specialize in Kanyakumari taxi services, offering
+                    reliable airport cabs, local sightseeing tours, and
+                    outstation packages to Trivandrum, Rameswaram, and Kerala.
+                    With a fleet of well-maintained vehicles  we ensure safe, affordable, and
+                    comfortable journeys for every traveler.
+                  </p>
+                  <div className="social-icon d-flex align-items-center mt-3">
                     <a href="https://facebook.com" aria-label="Facebook">
                       <i className="bi bi-facebook"></i>
                     </a>
@@ -151,6 +144,7 @@ const Footer1: React.FC = () => {
                 </div>
               </div>
             </div>
+
           </div>
         </div>
 
@@ -161,8 +155,8 @@ const Footer1: React.FC = () => {
               © {new Date().getFullYear()} <span>JPAHolidays</span>, All Rights Reserved.
             </p>
             <ul className="bottom-list wow fadeInUp" data-wow-delay=".5s">
-              <li><Link href="/terms">Terms of Use</Link></li>
-              <li><Link href="/privacy">Privacy Policy</Link></li>
+              <li><Link href="/terms" className="text-white">Terms & Condition</Link></li>
+              <li><Link href="/privacy" className="text-white">Privacy Policy</Link></li>
             </ul>
           </div>
         </div>

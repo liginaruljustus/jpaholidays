@@ -19,7 +19,7 @@ const page = () => {
             <Counter4></Counter4>
             <Team1></Team1>
             <Testimonial3></Testimonial3>
-            <Instagram2></Instagram2>            
+            {/* <Instagram2></Instagram2>             */}
     </div>
   );
 };

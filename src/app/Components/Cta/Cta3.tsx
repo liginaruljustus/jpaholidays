@@ -29,19 +29,21 @@ const Cta3 = () => {
               <div className="cta-content">
                 <div className="section-title">
                   <span className="sub-title text-white wow fadeInUp">
-                    Limited Time Offer
+                    Special Offer for Travelers
                   </span>
                   <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">
-                    Get 20% Off On Your First Kanyakumari Cab Booking
+                    Book Your Kanyakumari Cab Today & Get 20% Off
                   </h2>
                 </div>
                 <p className="text-white wow fadeInUp" data-wow-delay=".5s">
-                  Book your taxi or tour package today and explore Vivekananda
-                  Rock, Sunset Point, and other attractions with our expert
-                  drivers.
+                  Experience Kanyakumari like never before! Our reliable cab
+                  service takes you to Vivekananda Rock, Sunset Point, Thiruvalluvar
+                  Statue, and more. Comfortable rides, friendly drivers, and
+                  hassle-free bookings await you.
                 </p>
                 <div className="app-image wow fadeInUp" data-wow-delay=".7s">
                   <Link href="/contact">
+                    {/* Uncomment if you have app images */}
                     {/* <Image
                       src="/assets/img/apple-shape.png"
                       alt="Download on App Store"
@@ -68,14 +70,14 @@ const Cta3 = () => {
                   width={512}
                   height={469}
                 />
-                <div className="shape float-bob-y">
+                {/* <div className="shape float-bob-y">
                   <Image
                     src="/assets/img/cta-shape.png"
                     alt="decorative shape"
                     width={254}
                     height={145}
                   />
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

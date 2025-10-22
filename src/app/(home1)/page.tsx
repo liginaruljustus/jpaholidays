@@ -53,7 +53,7 @@ const page = () => {
       <Cta3></Cta3>
       <Testimonial2></Testimonial2>
       <Blog2></Blog2>
-      <Instagram1></Instagram1>
+      {/* <Instagram1></Instagram1> */}
     </div>
   );
 };

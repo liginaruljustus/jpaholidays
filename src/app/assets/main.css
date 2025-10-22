@@ -3767,9 +3767,10 @@ span {
 }
 .feature-wrapper .feature-content .feature-area .line-shape {
   position: absolute;
-  right: 297px;
+  right: 360px;
   top: 5px;
 }
+
 @media (max-width: 1399px) {
   .feature-wrapper .feature-content .feature-area .line-shape {
     display: none;
@@ -11278,6 +11279,7 @@ input.main-search-input::placeholder {
     height: 96px;
   }
 }
+
 .search-wrap.active {
   display: block;
 }

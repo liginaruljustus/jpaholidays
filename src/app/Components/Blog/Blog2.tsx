@@ -54,11 +54,11 @@ const Blog2 = () => {
                     </li>
                   </ul>
                   <h4>
-                    <Link href="/blog/blog-details">{item.title}</Link>
+                    <Link href="#">{item.title}</Link>
                   </h4>
                   <div className="news-info">
                     <Link
-                      href="/blog/blog-details"
+                      href="#"
                       className="link-btn style-2"
                     >
                       Read More <i className="bi bi-arrow-right"></i>

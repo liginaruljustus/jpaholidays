@@ -170,7 +170,7 @@ const Destination2 = () => {
               Top Tourist Destinations <br /> In South India
             </h2>
           </div>
-          <Link href="/destination" className="theme-btn">
+          <Link href="/tour-packages" className="theme-btn">
             View All Places <i className="bi bi-arrow-right"></i>
           </Link>
         </div>
