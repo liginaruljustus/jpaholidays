@@ -12,7 +12,7 @@ const baseUrl =
 export default async function sitemap() {
   // ✅ Static pages
   const staticRoutes = [
-    "/home",
+    "/",
     "/about",
     "/contact",
     "/car-rental",
