@@ -73,8 +73,8 @@ const Footer1: React.FC = () => {
                 <ul className="list-items">
                   <li><Link href="/">Home</Link></li>
                   <li><Link href="/about">About Us</Link></li>
-                  <li><Link href="/kanyakumari-tours">Kanyakumari Tours</Link></li>
-                  <li><Link href="/services">Our Services</Link></li>
+                  <li><Link href="/kanyakumari-tour">Kanyakumari Tour</Link></li>
+                  <li><Link href="/kerala-tour">Kerala Tour</Link></li>
                   <li><Link href="/contact">Contact Us</Link></li>
                 </ul>
               </div>
@@ -90,11 +90,11 @@ const Footer1: React.FC = () => {
                   <h4>Our Services</h4>
                 </div>
                 <ul className="list-items">
-                  <li><Link href="/airport-transfers">Airport Taxi Services</Link></li>
-                  <li><Link href="/local-sightseeing">Local Sightseeing Tours</Link></li>
-                  <li><Link href="/outstation-trips">Outstation Taxi Services</Link></li>
-                  <li><Link href="/temple-tours">Temple Tour Packages</Link></li>
-                  <li><Link href="/car-rentals">Self-Drive Car Rentals</Link></li>
+                  <li><Link href="/airport-transfer">Airport Taxi Services</Link></li>
+                  <li><Link href="/local-cabs">Local Sightseeing Tours</Link></li>
+                  <li><Link href="/outstation-cabs">Outstation Taxi Services</Link></li>
+                 
+                  <li><Link href="/self-drive">Self-Drive Car Rentals</Link></li>
                 </ul>
               </div>
             </div>
@@ -127,7 +127,7 @@ const Footer1: React.FC = () => {
                     </div>
                     <div className="content">
                       <h6>
-                        <a href="mailto:info@jpacabs.com">info@jpacabs.com</a>
+                        <a href="mailto:jpatravelcab@gmail.com">jpatravelcab@gmail.com</a>
                       </h6>
                     </div>
                   </div>
