@@ -1,7 +1,7 @@
 import { kanyakumariData } from "../data/kanyakumariData";
 import { maduraiData } from "../data/maduraiData";
 import { rameswaramData } from "../data/rameswaramData";
-import { keralaData } from "../data/keralaData"; // ✅ Added Kerala data import
+import { keralaData } from "../data/keralaData"; 
 
 // 🌍 Detect environment (local vs production)
 const baseUrl =
@@ -26,7 +26,7 @@ export default async function sitemap() {
     lastModified: new Date(),
   }));
 
-  // ✅ Dynamic routes for each destination
+
   const kanyakumariRoutes = Object.keys(kanyakumariData).map((key) => ({
     url: `${baseUrl}${kanyakumariData[key].url}`,
     lastModified: new Date(),
@@ -42,7 +42,7 @@ export default async function sitemap() {
     lastModified: new Date(),
   }));
 
-  const keralaRoutes = Object.keys(keralaData).map((key) => ({ // ✅ Added Kerala routes
+  const keralaRoutes = Object.keys(keralaData).map((key) => ({ 
     url: `${baseUrl}${keralaData[key].url}`,
     lastModified: new Date(),
   }));
@@ -53,15 +53,10 @@ export default async function sitemap() {
     ...kanyakumariRoutes,
     ...maduraiRoutes,
     ...rameswaramRoutes,
-    ...keralaRoutes, // ✅ Added Kerala routes to the combined array
+    ...keralaRoutes, 
   ];
 
-  if (process.env.NODE_ENV !== "production") {
-    console.log(
-      "🗺️ Sitemap URLs:",
-      allRoutes.map((r) => r.url)
-    );
-  }
+ 
 
   return allRoutes;
 }
